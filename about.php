@@ -1,4 +1,4 @@
-<?php
+<?php 
 $title = 'About';
 $page = "about-us";
 $meta_keywords = "keyword";

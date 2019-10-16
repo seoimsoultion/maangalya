@@ -1,4 +1,4 @@
-<?php
+<?php  
 $title = 'Channel Partner';
 $page = "channel-partner";
 $meta_keywords = "keyword";

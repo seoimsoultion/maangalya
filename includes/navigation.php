@@ -1,4 +1,4 @@
-<div class="header-row">
+<div class="header-row"> 
     <div class="header-nav pt-1">
         <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1">
                <nav class="collapse">
