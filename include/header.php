@@ -35,6 +35,7 @@
 <!-- Head Libs -->
 <script src="vendor/modernizr/modernizr.min.js"></script>
 
+<<<<<<< HEAD
 </head>
 <body data-spy="scroll" data-target="#sidebar" data-offset="120">
 
@@ -113,3 +114,80 @@
                 </div>
             </div>
         </header>
+=======
+		<div class="body">
+			<header id="header" class="header-narrow header-semi-transparent-light" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 1, 'stickySetTop': '1'}">
+				<div class="header-body">
+					<div class="header-container container">
+						<div class="header-row">
+							<div class="header-column">
+								<div class="header-row">
+									<div class="header-logo">
+										<img class="logo-default" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+										<a href="demo-construction.html">
+											<img class="logo-small" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="header-column justify-content-end">
+								<div class="header-row">
+									<div class="header-nav header-nav-stripe order-2 order-lg-1">
+										<div class="header-nav-main header-nav-main-square header-nav-main-effect-1 header-nav-main-sub-effect-1">
+											<nav class="collapse">
+												<ul class="nav nav-pills" id="mainNav">
+													<li>
+														<a class="nav-link active" href="/">
+															Home
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="aboutus.php">
+															About Us
+														</a>
+													</li>
+													<li class="dropdown">
+														<a class="nav-link dropdown-toggle" href="#">
+															Projects
+														</a>
+														<ul class="dropdown-menu">
+															<li><a class="dropdown-item" href="#">Maangalya Signature</a></li>
+															<li><a class="dropdown-item" href="#">Maangalya Park-Avenue</a></li>
+															
+														</ul>
+													</li>
+													<li>
+														<a class="nav-link" href="#">
+															Why Maangalya
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="#">
+															Joint Development
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="#">
+															Channel Partners
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="#">
+															Contact
+														</a>
+													</li>
+												</ul>
+											</nav>
+										</div>
+										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main nav">
+											<i class="fas fa-bars"></i>
+										</button>
+									</div>
+								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+>>>>>>> 550d24831d53d6134a32ddc08b40d9adde99236b
