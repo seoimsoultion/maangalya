@@ -21,36 +21,130 @@
 
 		<?php include('include/header.php')?>
 			<div role="main" class="main">
-				<div class="slider-container light rev_slider_wrapper" style="height: 700px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 700, 'disableProgressBar': 'on'}">
+				<div class="slider-container rev_slider_wrapper" style="height: 670px;">
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
 						<ul>
-							<li data-transition="fade">
-								<img src="img/demos/construction/slides/slide-construction-1.jpg"  
+							<!--<li class="slide-overlay" data-transition="fade">-->
+							<li class="" data-transition="fade">
+								<img src="img/new_images/slider-1.jpg"  
 									alt=""
-									data-bgposition="center 100%" 
+									data-bgposition="center center" 
 									data-bgfit="cover" 
 									data-bgrepeat="no-repeat" 
 									class="rev-slidebg">
-								
-								<div class="tp-caption top-label tp-caption-custom-stripe"
-									data-x="right" data-hoffset="100"
-									data-y="bottom" data-voffset="106"
+				
+								<div class="tp-caption"
+									data-x="center" data-hoffset="['-170','-170','-170','-350']"
+									data-y="center" data-voffset="['-50','-50','-50','-75']"
 									data-start="1000"
-									data-transform_in="x:[100%];opacity:0;s:1000;">#1 FASTEST-GROWING COMPANY</div>
+									data-transform_in="x:[-300%];opacity:0;s:500;"
+									data-transform_idle="opacity:0.2;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+				
+								<div class="tp-caption text-color-light font-weight-normal"
+									data-x="center"
+									data-y="center" data-voffset="['-50','-50','-50','-75']"
+									data-start="700"
+									data-fontsize="['16','16','16','40']"
+									data-lineheight="['25','25','25','45']"
+									data-transform_in="y:[-50%];opacity:0;s:500;">WE WORK HARD AND PORTO HAS</div>
+				
+								<div class="tp-caption"
+									data-x="center" data-hoffset="['170','170','170','350']"
+									data-y="center" data-voffset="['-50','-50','-50','-75']"
+									data-start="1000"
+									data-transform_in="x:[300%];opacity:0;s:500;"
+									data-transform_idle="opacity:0.2;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light negative-ls-1"
+									data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center"
+									data-y="center"
+									data-fontsize="['50','50','50','90']"
+									data-lineheight="['55','55','55','95']">THE BEST DESIGN</div>
+				
+								<div class="tp-caption font-weight-light ws-normal text-center"
+									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['60','60','60','105']"
+									data-width="['530','530','530','1100']"
+									data-fontsize="['18','18','18','40']"
+									data-lineheight="['26','26','26','45']"
+									style="color: #b5b5b5;">Trusted by over <strong class="text-color-light">30,000</strong> satisfied users, Porto is a huge success in the one of largest world's MarketPlace.</div>
+								
 							</li>
-							<li data-transition="fade">
-								<img src="img/demos/construction/slides/slide-construction-2.jpg"  
+							<!--<li class="slide-overlay slide-overlay-primary" data-transition="fade">-->
+							<li class="" data-transition="fade">
+								<img src="img/new_images/slider-1.jpg"  
 									alt=""
-									data-bgposition="center 100%" 
+									data-bgposition="center center" 
 									data-bgfit="cover" 
 									data-bgrepeat="no-repeat" 
 									class="rev-slidebg">
-								
-								<div class="tp-caption top-label tp-caption-custom-stripe"
-									data-x="right" data-hoffset="180"
-									data-y="bottom" data-voffset="106"
+				
+								<div class="tp-caption"
+									data-x="center" data-hoffset="['-145','-145','-145','-320']"
+									data-y="center" data-voffset="['-80','-80','-80','-130']"
 									data-start="1000"
-									data-transform_in="x:[100%];opacity:0;s:1000;">MODERN OFFICES DESIGN</div>
+									data-transform_in="x:[-300%];opacity:0;s:500;"
+									data-transform_idle="opacity:0.2;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+				
+								<div class="tp-caption text-color-light font-weight-normal"
+									data-x="center"
+									data-y="center" data-voffset="['-80','-80','-80','-130']"
+									data-start="700"
+									data-fontsize="['16','16','16','40']"
+									data-lineheight="['25','25','25','45']"
+									data-transform_in="y:[-50%];opacity:0;s:500;">WE CREATE DESIGNS, WE ARE</div>
+				
+								<div class="tp-caption"
+									data-x="center" data-hoffset="['145','145','145','320']"
+									data-y="center" data-voffset="['-80','-80','-80','-130']"
+									data-start="1000"
+									data-transform_in="x:[300%];opacity:0;s:500;"
+									data-transform_idle="opacity:0.2;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light"
+									data-frames='[{"delay":1300,"speed":1000,"frame":"0","from":"opacity:0;x:-50%;","to":"opacity:0.7;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center" data-hoffset="['-155','-155','-155','-255']"
+									data-y="center"
+									data-fontsize="['145','145','145','250']"
+									data-lineheight="['150','150','150','260']">P</div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light"
+									data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"opacity:0;x:-50%;","to":"opacity:0.7;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center" data-hoffset="['-80','-80','-80','-130']"
+									data-y="center"
+									data-fontsize="['145','145','145','250']"
+									data-lineheight="['150','150','150','260']">O</div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light"
+									data-frames='[{"delay":1700,"speed":1000,"frame":"0","from":"opacity:0;x:-50%;","to":"opacity:0.7;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center"
+									data-y="center"
+									data-fontsize="['145','145','145','250']"
+									data-lineheight="['150','150','150','260']">R</div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light"
+									data-frames='[{"delay":1900,"speed":1000,"frame":"0","from":"opacity:0;x:-50%;","to":"opacity:0.7;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center" data-hoffset="['65','65','65','115']"
+									data-y="center"
+									data-fontsize="['145','145','145','250']"
+									data-lineheight="['150','150','150','260']">T</div>
+				
+								<div class="tp-caption font-weight-extra-bold text-color-light"
+									data-frames='[{"delay":2100,"speed":1000,"frame":"0","from":"opacity:0;x:-50%;","to":"opacity:0.7;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center" data-hoffset="['139','139','139','240']"
+									data-y="center"
+									data-fontsize="['145','145','145','250']"
+									data-lineheight="['150','150','150','260']">O</div>
+				
+								<div class="tp-caption font-weight-light text-color-light"
+									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2300,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['85','85','85','140']"
+									data-fontsize="['18','18','18','40']"
+									data-lineheight="['26','26','26','45']">The best choice for your new website</div>
+								
 							</li>
 						</ul>
 					</div>
@@ -58,24 +152,14 @@
 
 				<div class="container">
 					<div class="row mt-4 mt-lg-5 mb-4 py-4">
-						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;">About Us</h2>
-						<h4 class="mb-2 text-center" style="width: 100%;">We Not Only Do Different Things, We Do Things Differently!
-</h4>
+						
+						<div class="col-lg-12">
+							<h2 class="mb-0 text-color-dark">About Us</h2>
+							<p>Lorem ipsum dolor sit amet,</p>
 					
-						
-							<div class="col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="top: 1.7rem;">
-								<img src="img/generic/generic-corporate-3-1.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
-								<img src="img/generic/generic-corporate-3-2.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />
-								<img src="img/generic/generic-corporate-3-3.jpg" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
-							</div>
-						
-						
-						<div class="col-lg-6">
-							<p>Boasting real estate development experience and expertise, which spans over 2 decades, we are considered industry leaders in the realm of property development in Bangalore. What separates us from the competition is our distinctively diverse and multi-domain portfolio that encompasses different types of property developments. All of our projects combine a legacy of excellence and trust that we have built over the years.</p>
-<p>
-Being a premier property developer, we aim to constantly innovate and enhance our work so that we can satisfy our customers, set new benchmarks, and improve our standards. Our motto has always been – Excellence in Work. This ideology in conjunction with our focus on exemplary client service, timely delivery, transparency, dedication to work, and unrelenting determination makes us the right choice for people looking to buy their dream home. 
-</p>
-							
+					
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+							<!--<a class="mt-3" href="about.php">Read More <i class="fas fa-long-arrow-alt-right"></i></a>-->
 						</div>
 					</div>
 				</div>
@@ -84,7 +168,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark text-center">Maangalya Builders</h2>
+								<h2 class="mb-0 text-color-dark">Specifications</h2>
 								
 							</div>
 						</div>
@@ -181,8 +265,8 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Projects</h2>
-								
+								<h2 class="mb-0 text-color-dark">Projects</h2>
+								<p class="lead">Lorem ipsum dolor sit amet.</p>
 								<div class="row">
 								<div class="col-lg-6">
 
@@ -326,52 +410,12 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</section>
 
-	<section class="pt-3 pb-4 home-concept-construction">
-					<div class="container">
-							<h2 class="mb-4 text-color-dark text-center">Our Partners</h2>
-								
-
-<div class="row">
-							<div class="col-lg-12 text-center">
-								<div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
-									<div>
-										<img class="img-fluid" src="img/logos/logo-1.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-2.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-3.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-4.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-5.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-6.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-4.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-2.png" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-
-</div></section>
-
-
-
 				<section class="pt-3 pb-4 home-concept-construction home--gallery">
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Gallery</h2>
-								
+								<h2 class="mb-0 text-color-dark">Gallery</h2>
+								<p class="lead">Lorem ipsum dolor sit amet.</p>
 								<div class="row">
 								
 								<div class="diamonds-wrapper lightbox" data-plugin-options="{'delegate': '.diamond', 'type': 'image', 'gallery': {'enabled': true}}">

@@ -325,6 +325,11 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 		margin: 45px 0 115px 95px !important;
 		display: block;
 	}
+	#header {
+
+	top:0px!important;
+}
+
 }
 @media (max-width: 575px) {
 	.diamonds-wrapper {

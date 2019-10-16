@@ -17,7 +17,7 @@
 								<div class="col-6 mb-0">
 									<ul class="list list-footer-nav">
 										<li>
-											<a href="demo-construction.html">
+											<a class="nav-link" href="demo-construction.html">
 												Home
 											</a>
 										</li>
