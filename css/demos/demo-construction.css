@@ -155,6 +155,10 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 	}
 
 	.home-concept-construction {
+		/*background: transparent url(../../img/home/home-concept-small.png) no-repeat center 63%;*/
+	}
+
+	.home--gallery {
 		background: transparent url(../../img/home/home-concept-small.png) no-repeat center 63%;
 	}
 }
@@ -358,7 +362,7 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 	z-index: 1;
 }
 .section-custom-construction .container:before {
-	background: #000 none repeat scroll 0 0;
+	background: #204f93 none repeat scroll 0 0;
 	bottom: -235px;
 	content: "";
 	height: 200px;

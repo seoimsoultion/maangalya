@@ -4,7 +4,7 @@
 					<div class="row pt-4 pb-5 text-center text-md-left">
 						<div class="col-md-3">
 							<a href="demo-construction.html">
-								<img alt="Porto" class="img-fluid logo" width="110" src="img/demos/construction/logo-construction-small.png">
+								<img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/MAANGALYA-_New-Logo.jpg">
 							</a>
 						</div>
 						<div class="col-md-4">
@@ -22,33 +22,33 @@
 											</a>
 										</li>
 										<li>
-											<a href="demo-construction-company.html">
-												Company
-											</a>
+											<a class="nav-link" href="aboutus.php">
+															About Us
+														</a>
 										</li>
 										<li>
-											<a href="demo-construction-services.html">
-												Services
-											</a>
+											<a class="nav-link" href="#">
+															Why Maangalya
+														</a>
 										</li>
 									</ul>
 								</div>
 								<div class="col-6">
 									<ul class="list list-footer-nav">
 										<li>
-											<a href="demo-construction-projects.html">
-												Projects
-											</a>
+											<a class="nav-link" href="#">
+															Joint Development
+														</a>
 										</li>
 										<li>
-											<a href="demo-construction-blog.html">
-												Blog
-											</a>
+											<a class="nav-link" href="#">
+															Channel Partners
+														</a>
 										</li>
 										<li>
-											<a href="demo-construction-contact.html">
-												Contact
-											</a>
+											<a class="nav-link" href="#">
+															Contact
+														</a>
 										</li>
 									</ul>
 								</div>
