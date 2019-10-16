@@ -59,15 +59,15 @@
 				<div class="container">
 					<div class="row mt-4 mt-lg-5 mb-4 py-4">
 						<div class="col-lg-4">
-							<h2 class="mb-0 text-color-dark">Who We Are</h2>
-							<p class="lead">Lorem ipsum dolor sit amet.</p>
+							<h2 class="mb-0 text-color-dark">About Us</h2>
+							
 						</div>
 						<div class="col-lg-2 text-center d-none d-lg-block">
 							<img src="img/dotted-line-angle.png" class="img-fluid" alt="" />
 						</div>
 						<div class="col-lg-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
-							<a class="mt-3" href="demo-construction-company.html">Learn More <i class="fas fa-long-arrow-alt-right"></i></a>
+							<a class="mt-3" href="about.php">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -76,8 +76,8 @@
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark">Services</h2>
-								<p class="lead">Lorem ipsum dolor sit amet.</p>
+								<h2 class="mb-0 text-color-dark">Maangalya Builders</h2>
+								
 							</div>
 						</div>
 
@@ -85,24 +85,24 @@
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="feature-box-icon w-auto">
-										<img src="img/demos/construction/icons/ground-construction.png" alt="" class="img-fluid" width="55" />
+										<img src="img/new_images/work-home-icon.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Pre-Construction</h4>
+										<h4 class="mb-2">Working From Home</h4>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
-										<a class="mt-3" href="demo-construction-services-detail.html">Learn More <i class="fas fa-long-arrow-alt-right"></i></a>
+									
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="feature-box-icon w-auto">
-										<img src="img/demos/construction/icons/construction.png" alt="" class="img-fluid" width="55" />
+										<img src="img/new_images/kids-play-icon.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">General Construction</h4>
+										<h4 class="mb-2">Kids Play Area</h4>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
-										<a class="mt-3" href="demo-construction-services-detail.html">Learn More <i class="fas fa-long-arrow-alt-right"></i></a>
+									
 									</div>
 								</div>
 							</div>
@@ -112,28 +112,60 @@
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="feature-box-icon w-auto">
-										<img src="img/demos/construction/icons/painting.png" alt="" class="img-fluid" width="55" />
+										<img src="img/new_images/swmming-icon.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Painting</h4>
+										<h4 class="mb-2">Swimming pool</h4>
+										
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
-										<a class="mt-3" href="demo-construction-services-detail.html">Learn More <i class="fas fa-long-arrow-alt-right"></i></a>
+								
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="feature-box-icon w-auto">
-										<img src="img/demos/construction/icons/plumbing.png" alt="" class="img-fluid" width="55" />
+										<img src="img/new_images/club-icon.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Plumbing</h4>
+										<h4 class="mb-2">club-house</h4>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
-										<a class="mt-3" href="demo-construction-services-detail.html">Learn More <i class="fas fa-long-arrow-alt-right"></i></a>
+									
 									</div>
 								</div>
 							</div>
 						</div>
+
+
+<div class="row mt-3 mb-4">
+							<div class="col-lg-6">
+								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
+									<div class="feature-box-icon w-auto">
+										<img src="img/new_images/kitchen-icon.png" alt="" class="img-fluid" width="100" />
+									</div>
+									<div class="feature-box-info ml-3">
+										<h4 class="mb-2">kitchen-design</h4>
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+								
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
+									<div class="feature-box-icon w-auto">
+										<img src="img/new_images/best-icon.png" alt="" class="img-fluid" width="100" />
+									</div>
+									<div class="feature-box-info ml-3">
+										<h4 class="mb-2">Best Design</h4>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+									
+									</div>
+								</div>
+							</div>
+						</div>
+
+
 					</div>
 				</section>
 
