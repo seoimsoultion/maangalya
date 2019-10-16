@@ -60,12 +60,12 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
 													<li>
-														<a class="nav-link active" href="demo-construction.html">
+														<a class="nav-link active" href="/">
 															Home
 														</a>
 													</li>
 													<li>
-														<a class="nav-link" href="#">
+														<a class="nav-link" href="aboutus.php">
 															About Us
 														</a>
 													</li>
