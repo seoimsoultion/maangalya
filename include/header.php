@@ -124,7 +124,7 @@
 								<div class="header-row">
 									<div class="header-logo">
 										<img class="logo-default" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
-										<a href="demo-construction.html">
+										<a href="index.php">
 											<img class="logo-small" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
 										</a>
 									</div>
@@ -137,7 +137,7 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
 													<li>
-														<a class="nav-link active" href="/">
+														<a class="nav-link active" href="index.php">
 															Home
 														</a>
 													</li>
@@ -172,7 +172,7 @@
 														</a>
 													</li>
 													<li>
-														<a class="nav-link" href="#">
+														<a class="nav-link" href="contact.php">
 															Contact
 														</a>
 													</li>
