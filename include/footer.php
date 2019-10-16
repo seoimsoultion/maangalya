@@ -46,7 +46,7 @@
 														</a>
 										</li>
 										<li>
-											<a class="nav-link" href="#">
+											<a class="nav-link" href="contact.php">
 															Contact
 														</a>
 										</li>

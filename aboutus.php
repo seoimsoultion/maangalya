@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo Construction | Porto - Responsive HTML5 Template 7.5.0</title>	
+		<title>Maangalya</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -25,7 +25,7 @@
 					<div class="container">
 						<div class="row justify-content-end mt-4">
 							<div class="col-lg-10 pt-4 mt-4 text-right">
-								<h1 class="text-uppercase font-weight-light mt-4 pt-3 text-color-primary">Company</h1>
+								<h1 class="text-uppercase font-weight-light mt-4 pt-3 text-color-primary">About Us</h1>
 							</div>
 						</div>
 					</div>
