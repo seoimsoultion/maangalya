@@ -59,11 +59,11 @@
 				<div class="container">
 					<div class="row mt-4 mt-lg-5 mb-4 py-4">
 						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;">About Us</h2>
-						<h4 class="mb-2 text-center" style="width: 100%;">We Not Only Do Different Things, We Do Things Differently!
+						<h4 class="mb-4 text-center" style="width: 100%;">We Not Only Do Different Things, We Do Things Differently!
 </h4>
 					
 						
-							<div class="col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="top: 1.7rem;">
+							<div class="col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="top: 3.5rem;">
 								<img src="img/generic/generic-corporate-3-1.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
 								<img src="img/generic/generic-corporate-3-2.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />
 								<img src="img/generic/generic-corporate-3-3.jpg" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />

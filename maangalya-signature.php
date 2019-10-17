@@ -13,8 +13,8 @@
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="shortcut icon" href="img/new_images/favicon.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="mg/new_images/favicon.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -149,223 +149,498 @@
 						</ul>
 					</div>
 				</div>
-
+		<section class="pt-3 pt-4 home-concept-construction">
 				<div class="container">
-					<div class="row mt-4 mt-lg-5 mb-4 py-4">
+					<div class="row ">
 						
 						<div class="col-lg-12">
-							<h2 class="mb-0 text-color-dark">About Us</h2>
-							<p>Lorem ipsum dolor sit amet,</p>
+							<h2 class="mb-4 text-color-dark text-center">About Us</h2>
+							
 					
 					
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+							<p style="text-align: justify;">Maangalya Signature, JP Nagar 9th Phase, South Bangalore on the eastern part of Kanakapura Road close to Konanakunte cross and up coming FORUM Mall. It is significant to note that soon Metro would link it to entire Bangalore like never before. The Green Line of Namma Metro will soon have a terminal station at Anjanapura, making Maangalya Prosper Signature Block, the most desired destination of home-seekers, it has excellent connectivity to NICE Road which connects all corners of Bangalore. Maangalya boasts of a spectacularly and amazingly designed lightings that grace the beauty of the entire apartment. All the units are well-ventilated to let in more breeze, light and hence sooth your frayed nerves. As the entire structure is vaastu compliant, you are assured of blessings all the way.</p>
 							<!--<a class="mt-3" href="about.php">Read More <i class="fas fa-long-arrow-alt-right"></i></a>-->
 						</div>
 					</div>
 				</div>
+</section>
 
-				<section class="section section-tertiary section-no-border section-custom-construction">
+				<section class="pt-3 pt-4 section-tertiary home-concept-construction">
 					<div class="container">
-						<div class="row pt-4">
+						<div class="row ">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark">Specifications</h2>
+								<h2 class="mb-0 text-color-dark text-center">Features</h2>
 								
 							</div>
 						</div>
 
 						<div class="row mt-4">
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/work-home-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Working From Home</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
-									
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/kids-play-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Kids Play Area</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
-									
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row mt-3 mb-4">
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/swmming-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Swimming pool</h4>
-										
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+							<div class="col-lg-6 mb-4">
+														
 								
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/club-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">club-house</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
-									
-									</div>
-								</div>
-							</div>
-						</div>
-
-
-<div class="row mt-3 mb-4">
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/kitchen-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">kitchen-design</h4>
-										
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
 								
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-6">
-								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
-									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/best-icon.png" alt="" class="img-fluid" width="100" />
-									</div>
-									<div class="feature-box-info ml-3">
-										<h4 class="mb-2">Best Design</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+						<img src="img/new_images/workfromhome.jpg" style="width: 100%;">
 									
-									</div>
+								
 								</div>
-							</div>
-						</div>
-
-
-					</div>
-				</section>
-
-				<section class="pt-3 pb-4 home-concept-construction">
-					<div class="container">
-						<div class="row pt-4">
-							<div class="col">
-								<h2 class="mb-0 text-color-dark">Projects</h2>
-								<p class="lead">Lorem ipsum dolor sit amet.</p>
-								<div class="row">
+						
 								<div class="col-lg-6">
+														
+								
+										<h4 class="mb-2">Working From Home</h4>
+										<p style="text-align: justify;">Working from home is a nice idea to save time and get rid of the traffic woes, stress and
+pollution as well. However the atmosphere at home is not always conducive to the work
+culture you expect. At Mangalya Signature we have designed separate work stations at the
+ground floor, equipped with wi-fi and a cafeteria to boot so that you can log in to your office
+and keep working, day in and day out, sipping coffee in between. And that's every techie's
+dream of work life balance, isn't it?</p>
+									
+								
+								</div>
+						</div>
+
+					
+
+
+
+
+
+					</div>
+				</section>
+
+
+<section class="pt-3 pt-4 home-concept-construction">
+					<div class="container">
+
+						<div class="row">
+						<div class="col">
+							<h2 class="mb-4 text-color-dark text-center">Amenities</h2>
+							<div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 6, 'margin': 10, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}" style="text-align: center;">
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/badminton.png">
+									Badminton Court
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/basket-ball.png">
+									Basket Ball
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/gamepad.png">
+									Kid's Play-Area
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/garden.png">
+									Herbal Garden
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/gym.png">
+									Gym
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/herbal.png">
+									Herbal Garden
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/jogging.png">
+									Jogging Track
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/pool.png">
+									Swimming pool
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/squash.png">
+									Squash Court
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/table-tenish.png">
+									Table Tennis
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/yoga.png">
+									Yoga Deck
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/8-ball.png">
+									Billiards
+								</div>
+							</div>
+						</div>
+					</div>
+					</div>
+				</section>
+
+
+
+
+
+
+<section class="  pt-3 pt-4 home-concept-construction pb-4" style="background: #204f93;">
+					<div class="container ">
+
+						<div class="row">
+							<div class="col-md-10 mx-md-auto">
+										
+							<div class="col">
+								<h2 class="mb-4  text-center" style="color: #fff;">Specifications</h2>
+								
+							</div>
+					
+								<div class="row pt-2 clearfix">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInRightShorter">
+											<div class="feature-box-icon">
+												<img src="img/new_images/icon-structure.png">
+												
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">STRUCTURE</h4>
+												<p class="mb-4 text-color-light opacity-6">RCC frame structure with masonry partitions.<br>
+<b>MASONRY: </b>High strength concrete blocks for external walls 8” and internal walls 6”
+masonry with plaster shall be provided.<br>
+<b>PLASTERING:</b> Internal walls</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation" data-appear-animation="fadeInLeftShorter">
+											<div class="feature-box-icon">
+												<img src="img/new_images/flooring-icon.png">
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">FLOORING & DADO</h4>
+												<p class="mb-4 text-color-light opacity-6">
+													White Horse make vitrified tiles 2x2 ft for Living, Dining, Bedrooms and Rustic finish
+vitrified tiles for Kitchen, Utility & balcony along with 3 mm spacers with MYK
+LATICRETE EPOXY GROUT .<br>
+Lobby will have polished granite flooring, same for staircase with brushed stainless
+steel railing.<br>
+Kitchen & Utility: Granite counter with FRANKE
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+											<div class="feature-box-icon">
+												<img src="img/new_images/icon-door.png">
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">DOORS & ACCESSORIES</h4>
+												<p class="mb-4 text-color-light opacity-6">All doors frames & shutters will be of DURIAN with YALE locks, hinges & tower bolts</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
+											<div class="feature-box-icon">
+												<img src="img/new_images/icon-window.png">
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">UPVC WINDOWS</h4>
+												<p class="mb-4 text-color-light opacity-6">l All the UPVC Windows will be of DECEUNINCK make with safety grills shall be of
+Bright Rods.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+											<div class="feature-box-icon">
+													<img src="img/new_images/icon-water.png">
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">WATER SUPPLY</h4>
+												<p class="mb-0 text-color-light opacity-6">24 Hours water supply from BOREWELL along with CAUVERY water connection.</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400">
+											<div class="feature-box-icon">
+												<img src="img/new_images/icon-lift.png">
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">LIFT</h4>
+												<p class="mb-0 text-color-light opacity-6">10 passenger lift and 13 passenger service lift in all the blocks from THYSSENKRUPP.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+				</section>
+
+
+			
+
+
+		<section class="pt-3 pb-4  pt-4 home-concept-construction">
+					<div class="container">
+						<div class="row">
+						<div class="col">
+
+							<h2 class="mb-4 text-color-dark text-center">Floor Plan
+</h2>
+
+							<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
+							
+								<li class="nav-item" data-option-value=".websites"><a class="nav-link text-1 text-uppercase" href="#">2 BHK</a></li>
+								<li class="nav-item" data-option-value=".logos"><a class="nav-link text-1 text-uppercase" href="#">3 BHK</a></li>
+								<!--<li class="nav-item" data-option-value=".brands"><a class="nav-link text-1 text-uppercase" href="#">Brands</a></li>
+								<li class="nav-item" data-option-value=".medias"><a class="nav-link text-1 text-uppercase" href="#">Medias</a></li>-->
+							</ul>
+
+							<div class="sort-destination-loader sort-destination-loader-showing mt-4 pt-2">
+								<div class="row portfolio-list sort-destination" data-sort-id="portfolio">
+
+
+									<div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<img src="img/new_images/2bhk-1.jpg" class="img-fluid border-radius-0" alt="">
+
+
+<a class="lightbox" href="img/new_images/2bhk-1.jpg" data-plugin-options="{'type':'image'}">
+												<img class="img-fluid" src="img/new_images/2bhk-1.jpg" alt="Project Image">
+											</a>
+
+
+														<!--<span class="thumb-info-title">
+															<span class="thumb-info-inner">2 BHK</span>
+															
+														</span>-->
+													
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-4.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-4.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+
+
+										<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-5.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-5.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+<div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/2bhk-2.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/2bhk-2.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+
+
+<div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/2bhk-3.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/2bhk-3.jpg" class="img-fluid border-radius-0" alt="">
+													</a>
+													
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+<div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/2bhk-4.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/2bhk-4.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+													
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+							
+									<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-1.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-1.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+
+	<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-2.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-2.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+										<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-3.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-3.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+										
+
+
+										<div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/3bhk-6.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/3bhk-6.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+												
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+
+
+								
+								</div>
+							</div>
+						</div>
+					</div>
+
+					</div>
+				</section>
+
+
+	<section class="pt-3 pb-4  pt-4 home-concept-construction section-tertiary">
+					<div class="container">
+						<div class="row ">
+							<div class="col">
+								<h2 class="mb-4 text-color-dark text-center">Master Plan
+</h2>
+								
+								<div class="row">
+								<div class="col-lg-12">
+
+										
+											<span class=" thumb-info-hide-wrapper-bg">
+												<span class="thumb-info-wrapper">
+											
+	<a class="lightbox" href="img/new_images/masterplan.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/masterplan.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
+														</a>
+												
+
+
+													
+												</span>
+											
+											</span>
+
+										</div>
+										</div>
+
+							
+
+							</div>
+						</div>
+					
+					</div>
+				</section>
+
+<section class="pt-3 pb-4  pt-4 home-concept-construction">
+					<div class="container">
+						<div class="row ">
+							<div class="col">
+								<h2 class="mb-4 text-color-dark text-center">Location Map
+</h2>
+								
+								<div class="row">
+								<div class="col-lg-12">
 
 										
 											<span class="thumb-info thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
-													<img src="img/blog/square/blog-15.jpg" class="img-fluid" alt="">
-													<span class="thumb-info-title">
-														<span class="thumb-info-inner">Maangalya Signature</span>
-														<span class="thumb-info-type">Project Type</span>
-													</span>
+														<a class="lightbox" href="img/new_images/location.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/location.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
+														</a>
+												
 												</span>
-												<span class="thumb-info-caption">
-													<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-													<span class="thumb-info-social-icons">
-														<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-														<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-														<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-													</span>
-												</span>
+										
 											</span>
 
 										</div>
-										<div class="col-lg-6">
+								</div>
 
-											
-											<span class="thumb-info thumb-info-hide-wrapper-bg">
-												<span class="thumb-info-wrapper">
-													<img src="img/blog/square/blog-15.jpg" class="img-fluid" alt="">
-													<span class="thumb-info-title">
-														<span class="thumb-info-inner">Maangalya Park-Avenue</span>
-														<span class="thumb-info-type">Project Type</span>
-													</span>
-												</span>
-												<span class="thumb-info-caption">
-													<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-													<span class="thumb-info-social-icons">
-														<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-														<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-														<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-													</span>
-												</span>
-											</span>
-
-										</div></div>
-
-								<!--<div class="diamonds-wrapper lightbox" data-plugin-options="{'delegate': '.diamond', 'type': 'image', 'gallery': {'enabled': true}}">
-									<ul class="diamonds">
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-1.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-1.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-2.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-2.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-3.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-3.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-4.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-4.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-5.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-5.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-6.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-6.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-7.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-7.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-									</ul>
-								</div>-->
+							
 
 							</div>
 						</div>
@@ -373,108 +648,10 @@
 					</div>
 				</section>
 
-				<section class="section section-background mb-4" style="background-image: url(img/demos/construction/testimonials/testimonials-bg.jpg); background-position: 50% 100%; min-height: 540px; background-size: cover;">
-					<div class="container">
-						<div class="row justify-content-end">
-							<div class="col-lg-6">
-								
-								<div class="owl-carousel owl-theme nav-bottom rounded-nav mt-4 pt-4 mb-4 pb-4" data-plugin-options="{'items': 1, 'loop': false}">
-									<div>
-										<div class="col">
-											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
-												<blockquote>
-													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex.</p>
-												</blockquote>
-												<div class="testimonial-author">
-													<p><strong>Ana Smith</strong><span>Porto Magazine</span></p>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div>
-										<div class="col">
-											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
-												<blockquote>
-													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-												</blockquote>
-												<div class="testimonial-author">
-													<p><strong>Jessica Smith</strong><span>Porto Magazine</span></p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
 
-							</div>
-						</div>
-					</div>
-				</section>
 
-				<section class="pt-3 pb-4 home-concept-construction home--gallery">
-					<div class="container">
-						<div class="row pt-4">
-							<div class="col">
-								<h2 class="mb-0 text-color-dark">Gallery</h2>
-								<p class="lead">Lorem ipsum dolor sit amet.</p>
-								<div class="row">
-								
-								<div class="diamonds-wrapper lightbox" data-plugin-options="{'delegate': '.diamond', 'type': 'image', 'gallery': {'enabled': true}}">
-									<ul class="diamonds">
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-1.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-1.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-2.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-2.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-3.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-3.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-4.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-4.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-5.jpg" class="diamond">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-5.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-6.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-6.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-7.jpg" class="diamond diamond-sm">
-												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-7.jpg" class="img-fluid" alt="" />
-												</div>
-											</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					
-					</div>
-				</section>
+			
+
+			
 			</div>
 <?php include('include/footer.php')?>
