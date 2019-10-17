@@ -154,7 +154,7 @@
 					<div class="row ">
 						
 						<div class="col-lg-12">
-							<h2 class="mb-4 text-color-dark text-center">About Us</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">About Us</h2>
 							
 					
 					
@@ -169,7 +169,7 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark text-center">Features</h2>
+								<h2 class="mb-0 text-color-dark text-center" style="font-weight: bold;">Features</h2>
 								
 							</div>
 						</div>
@@ -214,7 +214,7 @@ dream of work life balance, isn't it?</p>
 
 						<div class="row">
 						<div class="col">
-							<h2 class="mb-4 text-color-dark text-center">Amenities</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Amenities</h2>
 							<div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 6, 'margin': 10, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}" style="text-align: center;">
 								<div>
 									<img alt="" class="img-fluid rounded" src="img/new_images/badminton.png">
@@ -282,7 +282,7 @@ dream of work life balance, isn't it?</p>
 							<div class="col-md-10 mx-md-auto">
 										
 							<div class="col">
-								<h2 class="mb-4  text-center" style="color: #fff;">Specifications</h2>
+								<h2 class="mb-4  text-center" style="color: #fff; font-weight: bold;">Specifications</h2>
 								
 							</div>
 					
@@ -294,7 +294,7 @@ dream of work life balance, isn't it?</p>
 												
 											</div>
 											<div class="feature-box-info">
-												<h4 class="mb-2 text-5 text-color-light">STRUCTURE</h4>
+												<h4 class="mb-2 text-5 text-color-light" >STRUCTURE</h4>
 												<p class="mb-4 text-color-light opacity-6">RCC frame structure with masonry partitions.<br>
 <b>MASONRY: </b>High strength concrete blocks for external walls 8” and internal walls 6”
 masonry with plaster shall be provided.<br>
@@ -386,10 +386,10 @@ Bright Rods.</p>
 						<div class="row">
 						<div class="col">
 
-							<h2 class="mb-4 text-color-dark text-center">Floor Plan
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Floor Plan
 </h2>
 
-							<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
+							<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': ''}">
 							
 								<li class="nav-item" data-option-value=".websites"><a class="nav-link text-1 text-uppercase" href="#">2 BHK</a></li>
 								<li class="nav-item" data-option-value=".logos"><a class="nav-link text-1 text-uppercase" href="#">3 BHK</a></li>
@@ -584,7 +584,7 @@ Bright Rods.</p>
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Master Plan
+								<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Master Plan
 </h2>
 								
 								<div class="row">
@@ -620,7 +620,7 @@ Bright Rods.</p>
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Location Map
+								<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Location Map
 </h2>
 								
 								<div class="row">
@@ -666,17 +666,17 @@ Bright Rods.</p>
 					</div>
 				</section>
 
-<section class="pt-3 pb-4  pt-4 home-concept-construction section-tertiary">
+<section class="pt-3 pb-4  pt-4 home-concept-construction " style="background: #204f93;">
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Project Status
+								<h2 class="mb-4  text-center" style="color: #fff; font-weight: bold;">Project Status
 </h2>
 								
 								<div class="row">
 			<div class="owl-carousel owl-theme full-width" data-plugin-options="{'items': 5, 'loop': false, 'nav': true, 'dots': false}">
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+				
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
@@ -684,10 +684,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+						
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+						
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project2.jpg" class="img-fluid" alt="">
@@ -695,10 +695,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+					
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+					
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project3.jpg" class="img-fluid" alt="">
@@ -706,10 +706,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+						
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+						
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project4.jpg" class="img-fluid" alt="">
@@ -717,10 +717,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+						
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+						
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project5.jpg" class="img-fluid" alt="">
@@ -728,10 +728,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+						
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+						
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
 									<img src="img/new_images/project6.jpg" class="img-fluid" alt="">
@@ -739,10 +739,10 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+					
 					</div>
 					<div>
-						<a href="portfolio-single-wide-slider.html">
+						
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 							<span class="thumb-info-wrapper">
 									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
@@ -750,7 +750,7 @@ Bright Rods.</p>
 									
 								</span>
 							</span>
-						</a>
+						
 					</div>
 				</div>
 
@@ -770,7 +770,7 @@ Bright Rods.</p>
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-							<h2 class="mb-4 text-color-dark text-center">Location Advantage</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Location Advantage</h2>
 						</div></div>
 						<div class="row ">
                      <div class="col-lg-3 mob-center">

@@ -1,70 +1,29 @@
 
 			<footer id="footer">
 				<div class="container">
-					<div class="row pt-4 pb-5 text-center text-md-left">
+					<div class="row  pb-3 text-center text-md-left">
 						<div class="col-md-3">
+								<h4>Address</h4>
+
 							<a href="demo-construction.html">
-								<img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/signature-logo.png">
+								<img alt="Porto" class="img-fluid " width="200" src="img/new_images/signature-logo.png">
 							</a>
 							<p>MAANGALYA PROSPER - SIGNATURE BLOCK <br>
 								Sy. No. 57/4, Anjanapura 3rd ‘A’ Block, <br>Uttarahalli Hobli, JP Nagar 9th Phase, <br>Bangalore 560 108
 </p>
 						</div>
 						<div class="col-md-4">
-							<div class="row">
-								<div class="col-lg-6 mb-2">
-									<h4>Navigation</h4>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-6 mb-0">
-									<ul class="list list-footer-nav">
-										<li>
-											<a class="nav-link" href="demo-construction.html">
-												Home
-											</a>
-										</li>
-										<li>
-											<a class="nav-link" href="aboutus.php">
-															About Us
-														</a>
-										</li>
-										<li>
-											<a class="nav-link" href="#">
-															Why Maangalya
-														</a>
-										</li>
-									</ul>
-								</div>
-								<div class="col-6">
-									<ul class="list list-footer-nav">
-										<li>
-											<a class="nav-link" href="#">
-															Joint Development
-														</a>
-										</li>
-										<li>
-											<a class="nav-link" href="#">
-															Channel Partners
-														</a>
-										</li>
-										<li>
-											<a class="nav-link" href="contact.php">
-															Contact
-														</a>
-										</li>
-									</ul>
-								</div>
-							</div>
+							<h4>Contact</h4>
+
+							<p><i class="fas fa-phone"></i> +91 9343 660 660 <br> <i class="far fa-envelope ml-2"></i> <a href="mailto:sales@maangalyaventures.com ">sales@maangalyaventures.com </a></p>
+							
 						</div>
 						<div class="col-md-5">
-							<h4>Newsletter</h4>
+							<h4>Enquire</h4>
 
 							<div class="newsletter">
 
-								<div class="alert alert-success d-none" id="newsletterSuccess">
-									<strong>Success!</strong> You've been added to our email list.
-								</div>
+						
 
 								<div class="alert alert-danger d-none" id="newsletterError"></div>
 
@@ -79,7 +38,6 @@
 
 							</div>
 
-							<p><i class="fas fa-phone"></i> (123) 456-789 <i class="far fa-envelope ml-2"></i> <a href="mailto:mail@example.com">mail@example.com</a></p>
 
 						</div>
 					</div>
