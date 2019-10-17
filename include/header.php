@@ -1,4 +1,8 @@
 <!-- Web Fonts  -->
+<!-- Favicon -->
+		<link rel="shortcut icon" href="img/new_images/icon.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="img/new_images/icon.png">
+
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
