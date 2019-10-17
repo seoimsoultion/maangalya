@@ -258,7 +258,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 				</section>
 
 
-				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; min-height: 540px; background-size: cover;">
+				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; background-size: cover;">
 					<div class="container">
 						<div class="row justify-content-end">
 							<div class="col-lg-6">
@@ -322,7 +322,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 	<section class="pt-3 pb-4 home-concept-construction">
 					<div class="container">
 							<h2 class="mb-4 text-color-dark text-center">Our Partners</h2>
-								<h5 class="mb-2 text-center" style="width: 100%;">A Sneak-peak at Our Projects
+								
 
 <div class="row">
 							<div class="col-lg-12 text-center">
@@ -365,7 +365,8 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col">
 								<h2 class="mb-4 text-color-dark text-center">Project Gallery
 </h2>
-								<p>A Sneak-peak at Our Projects</p>
+<h5 class="mb-2 text-center" style="width: 100%;">A Sneak-peak at Our Projects</h5>
+							
 								<div class="row">
 								
 								<div class="diamonds-wrapper lightbox" data-plugin-options="{'delegate': '.diamond', 'type': 'image', 'gallery': {'enabled': true}}">

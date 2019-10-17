@@ -1,9 +1,45 @@
+<!DOCTYPE html>
+
+<html> 
+
+	<head>
+
+
+
+		<!-- Basic -->
+
+		<meta charset="utf-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+
+
+		<title>Joint Development Maangalya</title>	
+
+
+
+		<meta name="keywords" content="HTML5 Template" />
+
+		<meta name="description" content="Porto - Responsive HTML5 Template">
+
+		<meta name="author" content="okler.net">
+
+
+
+
+
+
+
+		<!-- Mobile Metas -->
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
 <?php
 $title = 'Joint-Development';
 $page = "joint-development";
 $meta_keywords = "keyword";
 $meta_description = "description";
-include 'includes/header.php';
+include 'include/header.php';
 ?>
 <div role="main" class="main">
 
@@ -38,18 +74,23 @@ include 'includes/header.php';
                         <strong class="font-weight-extra-bold">JOINT </strong> DEVELOPMENT</h2>
                 </div>
                 <div class="overflow-hidden mb-4 pb-3 text-center">
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="mb-0">Let Us Excel Together</p>
+                </div>
+                <div class="overflow-hidden mb-4 pb-3 ">
+                    <p class="mb-0">We are always looking to develop strong business relationship with other entrepreneurs so that we can pool our resources and work on new real estate ventures, which become landmarks. Maangalya Constructions is open to join development proposals with other developers who have strong credentials and have gained good reputation in the industry. Together we can carve out a success story in the realm of real estate development. We are always searching for good proposals that give us the opportunity to do joint development. In case, you have any type of plan that will be suitable for this type of joint development, then get in touch with us by sending your details through this form.</p>
+
                 </div>
                 <div class="col-md-12">
                     <div class="featured-box featured-box-primary text-left mt-0">
                         <div class="box-content">
-                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">I'm a Returning Customer</h4>
+                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">Provide Your Details & We Will Get Back To You</h4>
 
 
                             <form role="form" class="" id="con">
+                                <div id="note"></div>
                                 <input type="hidden" name="joint-development" value="joint-development">
                                        <div class="form-group row">
-                                    <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Your ID </label>
+                                    <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Your Name </label>
                                     <div class="col-lg-9">
                                         <input class="form-control" required type="text" name="name"  placeholder="Name">
                                     </div>
@@ -330,7 +371,7 @@ include 'includes/header.php';
 </div>
 
 <?php
-include 'includes/footer.php';
+include 'include/footer.php';
 ?>
 
 <script>
@@ -344,7 +385,7 @@ include 'includes/footer.php';
                 if (msg == 'OK') {
                     result = '<p style="color:green; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';
                     $('#note').delay(18000).fadeOut();
-                    $('#cp')[0].reset();
+                    $('#con')[0].reset();
                     //$('input,textarea').val('');
 
                 } else {

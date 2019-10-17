@@ -11884,7 +11884,7 @@ html.boxed .slider-container {
 }
 
 .testimonial .testimonial-author strong {
-	color: #111;
+	color: #e0dede;
 	display: block;
 	margin-bottom: 2px;
 	font-size: 16px;
@@ -11892,7 +11892,7 @@ html.boxed .slider-container {
 }
 
 .testimonial .testimonial-author span {
-	color: #666;
+	color: #e0dede;
 	display: block;
 	font-size: 12.8px;
 	font-size: 0.8rem;
