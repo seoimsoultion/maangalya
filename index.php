@@ -23,7 +23,7 @@
 					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 700, 'disableProgressBar': 'on'}">
 						<ul>
 							<li data-transition="fade">
-								<img src="img/demos/construction/slides/slide-construction-1.jpg"  
+								<img src="img/new_images/slider-banner-1.jpg"  
 									alt=""
 									data-bgposition="center 100%" 
 									data-bgfit="cover" 
@@ -37,7 +37,22 @@
 									data-transform_in="x:[100%];opacity:0;s:1000;">#1 FASTEST-GROWING COMPANY</div>
 							</li>
 							<li data-transition="fade">
-								<img src="img/demos/construction/slides/slide-construction-2.jpg"  
+								<img src="img/new_images/slider-banner-2.jpg"  
+									alt=""
+									data-bgposition="center 100%" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+								
+								<div class="tp-caption top-label tp-caption-custom-stripe"
+									data-x="right" data-hoffset="180"
+									data-y="bottom" data-voffset="106"
+									data-start="1000"
+									data-transform_in="x:[100%];opacity:0;s:1000;">MODERN OFFICES DESIGN</div>
+							</li>
+
+							<li data-transition="fade">
+								<img src="img/new_images/slider-banner-3.jpg"  
 									alt=""
 									data-bgposition="center 100%" 
 									data-bgfit="cover" 
@@ -65,7 +80,7 @@
 							<div class="col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="top: 4.5rem;">
 								<img src="img/generic/generic-corporate-3-1.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
 								<img src="img/generic/generic-corporate-3-2.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />
-								<img src="img/generic/generic-corporate-3-3.jpg" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
+								<img src="img/new_images/about-us-images.jpg" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
 							</div>
 						
 						
@@ -194,7 +209,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										
 											<span class="thumb-info thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
-													<img src="img/blog/square/blog-15.jpg" class="img-fluid" alt="">
+													<img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="">
 													<span class="thumb-info-title">
 														<span class="thumb-info-inner">Maangalya Signature</span>
 														<span class="thumb-info-type">J P Nagar</span>
@@ -216,7 +231,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 											
 											<span class="thumb-info thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
-													<img src="img/blog/square/blog-15.jpg" class="img-fluid" alt="">
+													<img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
 													<span class="thumb-info-title">
 														<span class="thumb-info-inner">Maangalya Park-Avenue</span>
 														<span class="thumb-info-type">J P Nagar</span>
@@ -242,7 +257,8 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</section>
 
-				<section class="section section-background mb-4" style="background-image: url(img/demos/construction/testimonials/testimonials-bg.jpg); background-position: 50% 100%; min-height: 540px; background-size: cover;">
+
+				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; min-height: 540px; background-size: cover;">
 					<div class="container">
 						<div class="row justify-content-end">
 							<div class="col-lg-6">
@@ -252,10 +268,10 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 												<blockquote>
-													<p>Fresh Air, landscaped views, & great sunset views, lots of natural light, beautiful breeze in the balcony at all times, inner peace, large rooms, decent and really superb.</p>
+													<p style="color: #fff;">Fresh Air, landscaped views, & great sunset views, lots of natural light, beautiful breeze in the balcony at all times, inner peace, large rooms, decent and really superb.</p>
 												</blockquote>
 												<div class="testimonial-author">
-													<p><strong>Hamsa Pramod</strong><span>Client</span></p>
+													<p style="color: #fff;"><strong>Hamsa Pramod</strong><span>Client</span></p>
 												</div>
 											</div>
 										</div>
@@ -264,10 +280,10 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 												<blockquote>
-													<p>Mangalya Prosper JP Nagar 9th phase Anjanapura very much isolated place but calm and peace.</p>
+													<p style="color: #fff;">Mangalya Prosper JP Nagar 9th phase Anjanapura very much isolated place but calm and peace.</p>
 												</blockquote>
 												<div class="testimonial-author">
-													<p><strong>Santosh Rarathodi</strong><span>Client</span></p>
+													<p style="color: #fff;"><strong>Santosh Rarathodi</strong><span>Client</span></p>
 												</div>
 											</div>
 										</div>
@@ -276,10 +292,10 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 												<blockquote>
-													<p>Fresh Air, Landscape views &#038; great sunset views, Lots of natural light, Beautiful breeze in the balcony at all times, inner peace, large rooms, decent build quality, Rapidly growing locality</p>
+													<p style="color: #fff;">Fresh Air, Landscape views &#038; great sunset views, Lots of natural light, Beautiful breeze in the balcony at all times, inner peace, large rooms, decent build quality, Rapidly growing locality</p>
 												</blockquote>
 												<div class="testimonial-author">
-													<p><strong>Hamsa Pramod</strong><span>Client</span></p>
+													<p style="color: #fff;"><strong>Hamsa Pramod</strong><span>Client</span></p>
 												</div>
 											</div>
 										</div>
@@ -288,10 +304,10 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 												<blockquote>
-													<p>Nice apartment with greenery around.. relaxing place. All amenities available</p>
+													<p style="color: #fff;">Nice apartment with greenery around.. relaxing place. All amenities available</p>
 												</blockquote>
 												<div class="testimonial-author">
-													<p><strong>Sayan Bera</strong><span>Client</span></p>
+													<p style="color: #fff;"><strong>Sayan Bera</strong><span>Client</span></p>
 												</div>
 											</div>
 										</div>
@@ -355,51 +371,51 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 								<div class="diamonds-wrapper lightbox" data-plugin-options="{'delegate': '.diamond', 'type': 'image', 'gallery': {'enabled': true}}">
 									<ul class="diamonds">
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-1.jpg" class="diamond">
+											<a href="img/new_images/gallery1.jpg" class="diamond">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-1.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery1.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-2.jpg" class="diamond">
+											<a href="img/new_images/gallery2.jpg" class="diamond">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-2.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery2.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-3.jpg" class="diamond">
+											<a href="img/new_images/gallery3.jpg" class="diamond">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-3.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery3.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-4.jpg" class="diamond diamond-sm">
+											<a href="img/new_images/gallery4.jpg" class="diamond diamond-sm">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-4.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery4.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-5.jpg" class="diamond">
+											<a href="img/new_images/gallery5.jpg" class="diamond">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-5.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery5.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-6.jpg" class="diamond diamond-sm">
+											<a href="img/new_images/gallery6.jpg" class="diamond diamond-sm">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-6.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery6.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>
 										<li>
-											<a href="img/demos/construction/gallery/construction-gallery-7.jpg" class="diamond diamond-sm">
+											<a href="img/new_images/gallery7.jpg" class="diamond diamond-sm">
 												<div class="content">
-													<img src="img/demos/construction/gallery/construction-gallery-7.jpg" class="img-fluid" alt="" />
+													<img src="img/new_images/gallery7.jpg" class="img-fluid" alt="" />
 												</div>
 											</a>
 										</li>

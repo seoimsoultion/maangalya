@@ -19,7 +19,7 @@
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
-		<?php include('include/header1.php')?>
+		<?php include('include/header.php')?>
 			<div role="main" class="main">
 				<div class="slider-container rev_slider_wrapper" style="height: 670px;">
 					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
@@ -624,13 +624,13 @@ Bright Rods.</p>
 </h2>
 								
 								<div class="row">
-								<div class="col-lg-6">
+								<div class="col-lg-12">
 
 										
 											<span class="thumb-info thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
 														<a class="lightbox" href="img/new_images/location.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/location.jpg" class="img-fluid border-radius-0" alt="" >
+														<img src="img/new_images/location.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
 														</a>
 												
 												</span>
@@ -638,24 +638,6 @@ Bright Rods.</p>
 											</span>
 
 										</div>
-
-
-
-
-	<div class="col-lg-6">
-
-										
-											<span class="thumb-info thumb-info-hide-wrapper-bg">
-												<span class="thumb-info-wrapper">
-												<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%;" height="287" src="https://maps.google.com/maps?q=Maangalya%20Signature&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="Maangalya Signature"></iframe>
-												
-												</span>
-										
-											</span>
-
-										</div>
-
-
 								</div>
 
 							
@@ -666,194 +648,10 @@ Bright Rods.</p>
 					</div>
 				</section>
 
-<section class="pt-3 pb-4  pt-4 home-concept-construction section-tertiary">
-					<div class="container">
-						<div class="row ">
-							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Project Status
-</h2>
-								
-								<div class="row">
-			<div class="owl-carousel owl-theme full-width" data-plugin-options="{'items': 5, 'loop': false, 'nav': true, 'dots': false}">
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project2.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project3.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project4.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project5.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-								<span class="thumb-info-wrapper">
-									<img src="img/new_images/project6.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-					<div>
-						<a href="portfolio-single-wide-slider.html">
-							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
-							<span class="thumb-info-wrapper">
-									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
-								
-									
-								</span>
-							</span>
-						</a>
-					</div>
-				</div>
 
-										</div>
-
-							
-
-							</div>
-						</div>
-					
-					</div>
-				</section>
-
-	
-
-<section class="pt-3 pb-4  pt-4 home-concept-construction">
-					<div class="container">
-						<div class="row ">
-							<div class="col">
-							<h2 class="mb-4 text-color-dark text-center">Location Advantage</h2>
-						</div></div>
-						<div class="row ">
-                     <div class="col-lg-3 mob-center">
-                        <img src="img/new_images/mall.png">
-                        <div class="bot-head">
-                           <h4>
-                              Connectivity & Shopping
-                           </h4>
-                           <ul>
-                              <li ><i class="fa fa-check-square" aria-hidden="true"></i> Upcoming Forum Mall
-                                 - 3.6 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Upcoming Metro - 3.8
-                                 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Nice Road - 4.5 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> METRO Wholesale - 4.6 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Decathlon - 5.6 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Royal Meenakshi Mall - 5.7 Km
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 mob-center">
-                        <img src="img/new_images/office.png">
-                        <div class="bot-head">
-                           <h4>
-                              Offices
-                           </h4>
-                           <ul>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> HSBC - 7.2 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> VMware - 7.5 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Kalyani Magnum Tech Park - 7.6
-                                 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Global Village Tech Park - 12.6
-                                 Km
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 mob-center">
-                        <img src="img/new_images/education.png">
-                        <div class="bot-head">
-                           <h4>
-                              Educational Institutions
-                           </h4>
-                           <ul>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Chethana Public School - 2.8 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Kumaran School - 3.8 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Delhi Public School - 5 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> VIBGYOR High School - 7.2 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> IIM Bangalore - 7.6 Km</li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 mob-center">
-                        <img src="img/new_images/hospital.png">
-                        <div class="bot-head">
-                           <h4>
-                              Hospitals
-                           </h4>
-                           <ul>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Shankar Super Specialty Hospital
-                                 - 4.6 Km
-                              </li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Supurva Hospital - 4.3 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Samastha Hospital - 6.2 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Fortis Hospital - 7.7 Km</li>
-                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Apollo Hospital - 8.6 Km</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-						</div>
-					
-				</section>
 
 			
 
 			
 			</div>
-<?php include('include/footer1.php')?>
+<?php include('include/footer.php')?>
