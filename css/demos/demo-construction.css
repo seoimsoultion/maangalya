@@ -514,7 +514,5 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 	}
 }
 @media (min-width: 768px) {
-	.logo {
-		margin-top: 75px;
-	}
+	
 }

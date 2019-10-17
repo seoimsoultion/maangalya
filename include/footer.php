@@ -6,6 +6,15 @@
 							<a href="demo-construction.html">
 								<img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/MAANGALYA-_New-Logo.jpg">
 							</a>
+								<div>
+									<p style="padding-top:10px;"><i class="fas fa-phone"></i>(+91) 9900970970</p>
+									<p> <a href="mailto:sales@maangalya.co.in">sales@maangalya.co.in</a></p>
+								<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean ml-0">
+											<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+											<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+										</ul>
+									</div>
 						</div>
 						<div class="col-md-4">
 							<div class="row">

@@ -98,7 +98,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">Clear Legal Title</h4>
-										<p>Buying your home dream should not turn into a nightmare. We make sure this does not happen by offering clear legal title with no encumbrances or liens on ownership.</p>
+										<p>Buying your home dream should not turn into a nightmare. We make sure this does not happen by offering clear title with no encumbrances on ownership.</p>
 									
 									</div>
 								</div>
@@ -185,7 +185,9 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 						<div class="row pt-4">
 							<div class="col">
 								<h2 class="mb-4 text-color-dark text-center">Projects</h2>
-								<p>Apartment Projects That Redefine Excellence</p>
+								<h5 class="mb-2 text-center" style="width: 100%;">Apartment Projects That Redefine Excellence
+
+</h5>
 								<div class="row">
 								<div class="col-lg-6">
 
@@ -217,7 +219,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 													<img src="img/blog/square/blog-15.jpg" class="img-fluid" alt="">
 													<span class="thumb-info-title">
 														<span class="thumb-info-inner">Maangalya Park-Avenue</span>
-														<span class="thumb-info-type">Project Type</span>
+														<span class="thumb-info-type">J P Nagar</span>
 													</span>
 												</span>
 												<span class="thumb-info-caption">
@@ -304,7 +306,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 	<section class="pt-3 pb-4 home-concept-construction">
 					<div class="container">
 							<h2 class="mb-4 text-color-dark text-center">Our Partners</h2>
-								
+								<h5 class="mb-2 text-center" style="width: 100%;">A Sneak-peak at Our Projects
 
 <div class="row">
 							<div class="col-lg-12 text-center">
