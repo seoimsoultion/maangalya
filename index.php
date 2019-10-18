@@ -69,7 +69,7 @@
 					</div>
 				</div>
 
-				<div class="container ">
+				<div class="container mob-pt55">
 					<div class="row mt-4 mt-lg-5 mb-4 py-4">
 						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;"><b>About Us</b></h2>
 						<h5 class="mb-2 text-center" style="width: 100%;">We build your house, you make it a home
