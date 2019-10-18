@@ -513,6 +513,20 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 	color:#FFF !important;
 }
 
+html .btn-with-arrow.btn-secondary.btn-outline {
+    border-color: #e36159 !important;
+}
+
+html .btn-outline.btn-secondary:hover, html .btn-outline.btn-secondary.hover {
+    color: #FFF !important;
+    background-color: #0088CC !important;
+    border-color: #0088CC !important;
+}
+
+html .btn-with-arrow.btn-secondary.btn-outline:hover{
+	border-color: #0088CC !important;
+}
+
 #footer .footer-copyright {
 	background: transparent;
 	

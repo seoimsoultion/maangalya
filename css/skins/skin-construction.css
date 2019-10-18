@@ -1323,7 +1323,7 @@ html .btn-with-arrow.btn-primary.btn-outline:hover span {
 html .btn-with-arrow.btn-secondary {
 	background-color: transparent;
 	border-color: transparent;
-	color: #EEAB26;
+	color: #e36159;
 }
 
 html .btn-with-arrow.btn-secondary:active {
@@ -1333,17 +1333,17 @@ html .btn-with-arrow.btn-secondary:active {
 }
 
 html .btn-with-arrow.btn-secondary span {
-	background-color: #EEAB26;
-	-webkit-box-shadow: 2px 3px 18px -3px #EEAB26;
-	box-shadow: 2px 3px 18px -3px #EEAB26;
+	background-color: #e36159 ;
+	-webkit-box-shadow: 2px 3px 18px -3px #e36159;
+	box-shadow: 2px 3px 18px -3px #e36159;
 }
 
 html .btn-with-arrow.btn-secondary.btn-outline {
-	border-color: #EEAB26 !important;
+	border-color: #e36159 !important;
 }
 
 html .btn-with-arrow.btn-secondary.btn-outline:hover span {
-	background-color: #f0b43e !important;
+	background-color: #0088CC !important;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
@@ -3028,8 +3028,8 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li.active .nav-link:foc
 .list.list-icons li a:first-child > [class*="fa-"]:first-child,
 .list.list-icons li > .icons:first-child,
 .list.list-icons li a:first-child > .icons:first-child {
-	color: #E04622;
-	border-color: #E04622;
+	color: #0088CC !important;
+	border-color: #0088CC !important;
 }
 
 .list.list-icons.list-icons-style-3 li > [class*="fa-"]:first-child,
@@ -3077,8 +3077,8 @@ html .list-secondary.list-icons li > [class*="fa-"]:first-child,
 html .list-secondary.list-icons li a:first-child > [class*="fa-"]:first-child,
 html .list-secondary.list-icons li > .icons:first-child,
 html .list-secondary.list-icons li a:first-child > .icons:first-child {
-	color: #EEAB26;
-	border-color: #EEAB26;
+	color: #0088CC;
+	border-color: #0088CC;
 }
 
 html .list-secondary.list-icons.list-icons-style-3 li > [class*="fa-"]:first-child,

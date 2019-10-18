@@ -164,22 +164,17 @@ if ($_POST) {
         <div class="container py-5 mt-3">
 
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                     <div class="overflow-hidden mb-2">
                         <h2 class="font-weight-normal text-7 mb-2 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">Find Your <strong class="font-weight-extra-bold">Oportunity</strong></h2>
                     </div>
-                    <div class="overflow-hidden mb-4">
-                        <p class="lead mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc euismod facilisis neque, eu malesuada diam finibus non.</p>
-                    </div>
-                    <p class="text-color-light-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget. Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis.</p>
+                   
+                        <p class=" appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="400">Maangalya Constructions has transformed into one of the leading developers in Bangalore within a short time and is striding ahead on the path of growth. We would like to welcome you to be part of this journey and build a career that will excel you in your endeavors.</p>
+                    
+                    <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">If you have the passion, Maangalya Constructions will be the right organization for you. With the right blend of work culture and freedom to express your ideas, we provide the right environment that every employee desires.</p>
+                     <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Currently, we are looking for experts specializing in different verticals. Send us your resume and we will get in touch with you.</p>
                 </div>
-                <div class="col-lg-4">
-                    <div class="testimonial testimonial-primary appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="800">
-                        <blockquote>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat. Curabitur euismod facilisis neque, eu malesuada diam.</p>
-                        </blockquote>
-                    </div>
-                </div>
+                
             </div>
 
         </div>
@@ -197,27 +192,23 @@ if ($_POST) {
                                     <div class="card-header">
                                         <h4 class="card-title m-0">
                                             <a class="accordion-toggle text-3" data-toggle="collapse" data-parent="#accordion11" href="#collapse11One">
-                                                Senior Software Developer - Web Development
+                                                Pre Sales Executive
                                             </a>
                                         </h4>
                                     </div>
                                     <div id="collapse11One" class="collapse show">
                                         <div class="card-body mt-3">
-                                            <p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                                            <p>SDynamic and highly energetic individuals are needed who have pleasing personality as well as good communication skills. Preference will be given to people with call center experience.</p>
 
-                                            <ul class="list list-inline mt-4 mb-3 text-2">
-                                                <li class="list-inline-item">
-                                                    <strong>LOCATION:</strong>
-                                                    NEW YORK
-                                                </li>
-                                                <li class="list-inline-item ml-md-3">
-                                                    <strong>QUALIFICATION:</strong>
-                                                    3+ YEARS EXPERIENCE, GRADUATION
-                                                </li>
-                                            </ul>
+                                         <ul class="list list-icons list-secondary">
+                                            <li><i class="fas fa-check"></i>Experience: 0- 3 years</li>
+                                            <li><i class="fas fa-check"></i>Education: Any, Responsible for coordinating with sales team.</li>
+                                            <li><i class="fas fa-check"></i>IMeticulous follow up with the clients and to fix up site visits</li>
+                                            <li><i class="fas fa-check"></i>Collect data and update the same in the database.</li>
+                                           
+                                        </ul>
 
-                                            <a href="#" class="btn btn-modern btn-dark">Apply</a>
+                                       
                                         </div>
                                     </div>
                                 </div>
@@ -225,27 +216,21 @@ if ($_POST) {
                                     <div class="card-header">
                                         <h4 class="card-title m-0">
                                             <a class="accordion-toggle text-3" data-toggle="collapse" data-parent="#accordion11" href="#collapse11Two">
-                                                Infrastructure Monitoring - Software Developer
+                                                Sales Manager
                                             </a>
                                         </h4>
                                     </div>
                                     <div id="collapse11Two" class="collapse">
                                         <div class="card-body mt-3">
-                                            <p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                                            <p>Great go-getter attitude. Should be result oriented and hungry for sales and sales incentives. Should be open minded with a skill for convincing the Potential Customers.</p>
 
-                                            <ul class="list list-inline mt-4 mb-3 text-2">
-                                                <li class="list-inline-item">
-                                                    <strong>LOCATION:</strong>
-                                                    NEW YORK
-                                                </li>
-                                                <li class="list-inline-item ml-md-3">
-                                                    <strong>QUALIFICATION:</strong>
-                                                    3+ YEARS EXPERIENCE, GRADUATION
-                                                </li>
-                                            </ul>
-
-                                            <a href="#" class="btn btn-modern btn-dark">Apply</a>
+                                          <ul class="list list-icons list-secondary">
+                                            <li><i class="fas fa-check"></i>Experience: 3-7 years of experience in Real Estate Sales</li>
+                                            <li><i class="fas fa-check"></i>Education: Post Graduation</li>
+                                            <li><i class="fas fa-check"></i>Work Location: Project Site</li>
+                                            <li><i class="fas fa-check"></i>Condition: Should own a 2-wheeler for travel across sites.</li>
+                                           
+                                        </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -253,27 +238,21 @@ if ($_POST) {
                                     <div class="card-header">
                                         <h4 class="card-title m-0">
                                             <a class="accordion-toggle text-3" data-toggle="collapse" data-parent="#accordion11" href="#collapse11Three">
-                                                Main Developer - Software Developer
+                                               Sales Executive
                                             </a>
                                         </h4>
                                     </div>
                                     <div id="collapse11Three" class="collapse">
                                         <div class="card-body mt-3">
-                                            <p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                                            <p>Great go-getter attitude. Should be result oriented and hungry for sales and sales incentives. Should be open minded with a skill for convincing the Potential Customers.</p>
 
-                                            <ul class="list list-inline mt-4 mb-3 text-2">
-                                                <li class="list-inline-item">
-                                                    <strong>LOCATION:</strong>
-                                                    NEW YORK
-                                                </li>
-                                                <li class="list-inline-item ml-md-3">
-                                                    <strong>QUALIFICATION:</strong>
-                                                    3+ YEARS EXPERIENCE, GRADUATION
-                                                </li>
-                                            </ul>
-
-                                            <a href="#" class="btn btn-modern btn-dark">Apply</a>
+                                           <ul class="list list-icons list-secondary">
+                                            <li><i class="fas fa-check"></i>Should have 1-3 years’ experience as sales executive in a real estate company</li>
+                                            <li><i class="fas fa-check"></i>Education: Any Graduation</li>
+                                            <li><i class="fas fa-check"></i>Work Location: Project Site</li>
+                                            <li><i class="fas fa-check"></i>Condition: Should own a 2-wheeler for travel across sites.</li>
+                                           
+                                        </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -281,58 +260,25 @@ if ($_POST) {
                                     <div class="card-header">
                                         <h4 class="card-title m-0">
                                             <a class="accordion-toggle text-3" data-toggle="collapse" data-parent="#accordion11" href="#collapse11Four">
-                                                Front-End Developer - Software Developer
+                                               CRM Executive
                                             </a>
                                         </h4>
                                     </div>
                                     <div id="collapse11Four" class="collapse">
                                         <div class="card-body mt-3">
-                                            <p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                                            <p>Great go-getter attitude. Female candidates are required for this position. Build and handle a strong network of connections. Knowledge of CRM practices.</p>
 
-                                            <ul class="list list-inline mt-4 mb-3 text-2">
-                                                <li class="list-inline-item">
-                                                    <strong>LOCATION:</strong>
-                                                    NEW YORK
-                                                </li>
-                                                <li class="list-inline-item ml-md-3">
-                                                    <strong>QUALIFICATION:</strong>
-                                                    3+ YEARS EXPERIENCE, GRADUATION
-                                                </li>
-                                            </ul>
-
-                                            <a href="#" class="btn btn-modern btn-dark">Apply</a>
+                                            <ul class="list list-icons list-secondary">
+                                            <li><i class="fas fa-check"></i>Should have 2-4 years’ experience as CRM executive in a real estate company</li>
+                                            <li><i class="fas fa-check"></i>Education: Any Graduation</li>
+                                            <li><i class="fas fa-check"></i>Meticulous follow up with the clients and to fix up site visits</li>
+                                            <li><i class="fas fa-check"></i>Collect data and update the same in the database.</li>
+                                           
+                                        </ul>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card card-default mb-2">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-3" data-toggle="collapse" data-parent="#accordion11" href="#collapse11Five">
-                                                Lead Designer - Design
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapse11Five" class="collapse">
-                                        <div class="card-body mt-3">
-                                            <p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
-
-                                            <ul class="list list-inline mt-4 mb-3 text-2">
-                                                <li class="list-inline-item">
-                                                    <strong>LOCATION:</strong>
-                                                    NEW YORK
-                                                </li>
-                                                <li class="list-inline-item ml-md-3">
-                                                    <strong>QUALIFICATION:</strong>
-                                                    3+ YEARS EXPERIENCE, GRADUATION
-                                                </li>
-                                            </ul>
-
-                                            <a href="#" class="btn btn-modern btn-dark">Apply</a>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
 
@@ -383,11 +329,11 @@ if ($_POST) {
                                         <div class="col-lg-8">
 
                                             <select id="user_time_zone" name="post" class="form-control" size="0" required>
-                                                <option value="">Select any one *</option><option value="Sr. Sales Manager">Sr. Sales Manager</option>
-                                                <option value=" Project Manager"> Project Manager</option>
+                                                <option value="">Select any one *</option><option value="Pre Sales Executive">Pre Sales Executive</option>
+                                                <option value="Sales Manager"> Sales Manager</option>
 
-                                                <option value="Pre Sales Executive">Pre Sales Executive</option>
-                                                <option value="Junior Accountant">Sr.Manager Legal</option>
+                                                <option value="Sales Executive">Sales Executive</option>
+                                                <option value="CRM Executive">CRM Executive</option>
 
                                             </select>
                                         </div>

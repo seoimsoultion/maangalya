@@ -80,7 +80,7 @@
 							<div class=" aboutUsContainer col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="">
 								<img src="img/new_images/home-about-us-3.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
 								<img src="img/new_images/home-about-us-2.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
-								<img src="img/new_images/home-about-us-1.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />
+								<img src="img/new_images/home-about-us-1.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;width: 69%;" alt="" />
 								
 							</div>
 						
@@ -249,8 +249,65 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					
 					</div>
 				</section>
+<section class="section section-tertiary section-no-border " style="margin-top:0px; padding-top:0px;">
+<div class="container" >
+					<div class="row mt-4  mb-4 ">
+						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;padding-top: 25px;"><b>Career</b></h2>
+						
+						<div class="col-lg-6">
+							<p>Maangalya Constructions has transformed into one of the leading developers in Bangalore within a short time and is striding ahead on the path of growth. We would like to welcome you to be part of this journey and build a career that will excel you in your endeavors.</p>
+<p>
+If you have the passion, Maangalya Constructions will be the right organization for you. With the right blend of work culture and freedom to express your ideas, we provide the right environment that every employee desires. 
+</p>
+<p>Currently, we are looking for experts specializing in different verticals. Send us your resume and we will get in touch with you.</p>
+							<p class="text-center"><a href="career.php"><button type="button" class="btn btn-outline btn-rounded btn-secondary  btn-with-arrow mb-2" href="career.php">Apply<span><i class="fas fa-chevron-right"></i></span></button></a></p>
+						</div>
 
+							<div class=" col-lg-6" style="">
+								<img src="img/new_images/career-image.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300"  alt="" />
+								
+								
+							</div>
+					</div>
+				</div>
+				</section>
+<section class="pt-3 pb-4 home-concept-construction">
+					<div class="container">
+							<h2 class="mb-4 text-color-dark text-center"><b>Brands Associated With</b></h2>
+								
 
+<div class="row">
+							<div class="col-lg-12 text-center">
+								<div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/americanstandard.png" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/berger.jpg" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/crabtree.jpg" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/deecenic.jpg" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/durian.png" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/kone.png" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/myk_laticrete.jpg" alt="">
+									</div>
+									<div>
+										<img class="img-fluid" src="img/new_images/brand/supreme.png" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+
+</div></section>
 				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; background-size: cover;padding:25px;">
 					<h2 class="mb-4 text-color-dark text-center" ><b style="color:#FFF">Testimonials</b>
 </h2>
@@ -314,43 +371,6 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</section>
 
-	<!--<section class="pt-3 pb-4 home-concept-construction">
-					<div class="container">
-							<h2 class="mb-4 text-color-dark text-center">Our Partners</h2>
-								
-
-<div class="row">
-							<div class="col-lg-12 text-center">
-								<div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
-									<div>
-										<img class="img-fluid" src="img/logos/logo-1.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-2.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-3.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-4.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-5.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-6.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-4.png" alt="">
-									</div>
-									<div>
-										<img class="img-fluid" src="img/logos/logo-2.png" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-
-</div></section>-->
 
 
 
