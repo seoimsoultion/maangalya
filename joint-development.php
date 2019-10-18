@@ -74,16 +74,12 @@ include 'include/header.php';
                         <strong class="font-weight-extra-bold">JOINT </strong> DEVELOPMENT</h2>
                 </div>
                 <div class="overflow-hidden mb-4 pb-3 text-center">
-                    <p class="mb-0">Let Us Excel Together</p>
-                </div>
-                <div class="overflow-hidden mb-4 pb-3 ">
-                    <p class="mb-0">We are always looking to develop strong business relationship with other entrepreneurs so that we can pool our resources and work on new real estate ventures, which become landmarks. Maangalya Constructions is open to join development proposals with other developers who have strong credentials and have gained good reputation in the industry. Together we can carve out a success story in the realm of real estate development. We are always searching for good proposals that give us the opportunity to do joint development. In case, you have any type of plan that will be suitable for this type of joint development, then get in touch with us by sending your details through this form.</p>
-
+                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div>
                 <div class="col-md-12">
                     <div class="featured-box featured-box-primary text-left mt-0">
                         <div class="box-content">
-                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">Provide Your Details & We Will Get Back To You</h4>
+                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">I'm a Returning Customer</h4>
 
 
                             <form role="form" class="" id="con">

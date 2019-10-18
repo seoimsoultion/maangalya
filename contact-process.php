@@ -30,7 +30,7 @@ if ($_POST) {
     $phone = stripslashes(trim($_POST['phone']));
     $query = stripslashes(trim($_POST['message']));
    // $captcha = $_POST['g-recaptcha-response'];
-    $subject = 'Enquiry form Maangalya Projects Home Page';
+    $subject = 'Enquiry form Maangalya Projects ';
 
 
     $error = '';
@@ -102,7 +102,7 @@ if ($_POST) {
 </table>';
     $mail = mail(WEBMASTER_EMAIL, $subject, $message, $headers, '-freturn@maangalya.co.in');
     $mail1 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalya.co.in');
-    $mail2 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalya.co.in');
+    $mail2 = mail(WEBMASTER_EMAIL2, $subject, $message, $headers, '-freturn@maangalya.co.in');
     if ($mail || $mail1 || $mail2) {
         $mail = mail($email, 'Thanks for contacting us', '<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>', $headers, '-freturn@maangalya.co.in');
         echo 'OK';

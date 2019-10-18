@@ -60,7 +60,7 @@ if (isset($_POST['register_channel_partner'])) {
 
         if ($row1) {
 
-            $to = $email;
+            $to = 'lokesh@imsolutions.mobi'; 
             $to1 = 'lokesh@imsolutions.mobi'; //cp@maangalya.co.in 
             $to2 = 'hamalton@imsolutions.mobi '; //info@imsolutions.mobi
             $subject = "Successfully Registered as a Channel Partner.";
@@ -72,7 +72,7 @@ if (isset($_POST['register_channel_partner'])) {
 			
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://www.maangalya.co.in/images/logo.png">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/MAANGALYA-_New-Logo.jpg">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">
@@ -107,7 +107,7 @@ if (isset($_POST['register_channel_partner'])) {
 			
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://maangalya.co.in/wp-content/uploads/2019/07/MAANGALYA-_New-Logo.jpg">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/MAANGALYA-_New-Logo.jpg">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">
@@ -189,6 +189,16 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
     if (empty($notes)) {
        // $errors[] = 'Please Select Role.';
     }
+    /////////////////////
+    //
+     $ccs1="select uniqueid from register_channel_partner where uniqueid='$partner_id'";
+    
+    $q1=$DBcon->query($ccs1); 
+    $res1=$q1->num_rows;
+    if($res1==0) {
+            echo '<p style="color:red">Your ID is wrong.</p>';
+            die();
+    }
     //////////////checking lead exit or not///////////////////////
      $ccs="select partner_id, customer_email, customer_contact_number from lead where partner_id='$partner_id' AND customer_email='$customer_email' AND customer_contact_number='$customer_contact_number'";
     $q=$DBcon->query($ccs);
@@ -213,13 +223,13 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
             $to2 = 'lokesh@imsolutions.mobi'; //info@imsolutions.mobi
             $subject = " New Lead has been Registered Successfully";
             $subject_1 = "Lead Mail for Channel Partner by " . $partner_id;
-            $from = 'noreply@maangalya.co.in/';
+            $from = 'noreply@maangalya.co.in';
             $body = 'Thank you, New Lead has been Registered Successfully. <br/><br/>Details are below <br/>
 			<table cellspacing="0" cellpadding="0" style="width:100%; border-bottom:1px solid #eee; font-size:12px; line-height:135%">		
 		
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://maangalya.co.in/wp-content/uploads/2019/07/MAANGALYA-_New-Logo.jpg">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/MAANGALYA-_New-Logo.jpg">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">

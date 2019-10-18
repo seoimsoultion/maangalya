@@ -1,9 +1,45 @@
-<?php
+<!DOCTYPE html>
+
+<html> 
+
+	<head>
+
+
+
+		<!-- Basic -->
+
+		<meta charset="utf-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+
+
+		<title>Channel Partner Maangalya</title>	
+
+
+
+		<meta name="keywords" content="HTML5 Template" />
+
+		<meta name="description" content="Porto - Responsive HTML5 Template">
+
+		<meta name="author" content="okler.net">
+
+
+
+
+
+
+
+		<!-- Mobile Metas -->
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+                    <?php
 $title = 'Channel Partner';
 $page = "channel-partner";
 $meta_keywords = "keyword";
 $meta_description = "description";
-include 'includes/header.php';
+include 'include/header.php';
 ?>
 <div role="main" class="main">
 
@@ -179,7 +215,7 @@ include 'includes/header.php';
 </div>
 
 <?php
-include 'includes/footer.php';
+include 'include/footer.php';
 ?>
 <script>
     $("#cp").submit(function () {
