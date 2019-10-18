@@ -283,13 +283,13 @@
                         <h4 class="text-color-dark mb-1 pb-3">Corporate Headquarters</h4>
                         <!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
                         <div class="google-map small">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d62234.55729871242!2d77.557635!3d12.865234!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1571317236191!5m2!1sen!2sus" width="10%" height="280" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15558.6389401556!2d77.5578221!3d12.8652402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3991ca73dec2050b!2sMaangalya%20Signature!5e0!3m2!1sen!2sin!4v1571389171428!5m2!1sen!2sin" width="350" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             
                         </div>
                         <ul class="list list-icons mt-4 mb-4">
-                            <li><i class="icon-pin icons"></i> <strong>Address:</strong> 1234 Street Name, City Name</li>
-                            <li><i class="icon-call-end icons"></i> <strong>Phone:</strong> (123) 456-789</li>
-                            <li><i class="icon-envelope icons"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></li>
+                            <li><i class="icon-pin icons"></i> <strong>Address:</strong> Royal Park residency Layout, Bangalore</li>
+                            <li><i class="icon-call-end icons"></i> <strong>Phone:</strong> (+91) 9900970970</li>
+                            <li><i class="icon-envelope icons"></i> <strong>Email:</strong> <a href="mailto:sales@maangalya.co.in">sales@maangalya.co.in</a></li>
                         </ul>
                     </div>
                 </div>

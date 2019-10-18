@@ -8,7 +8,7 @@
 
             <div class="col-md-3">
 
-                <a href="demo-construction.html">
+                <a href="index.php">
 
                     <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo.png">
 
