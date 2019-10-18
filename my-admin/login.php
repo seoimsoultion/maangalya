@@ -122,7 +122,7 @@ if (isset($_POST['btn-login'])) {
 <body >
 <div class="layout">
 	<div class="container">
-		<center><a href="./"><img src="../img/maangalya/MAANGALYA-_New-Logo.jpg" alt="maangalya" ></a>
+		<center><a href="./"><img src="../img/new_images/logo.png" alt="maangalya" ></a>
 		</center>
 		<br/>
 		<center>

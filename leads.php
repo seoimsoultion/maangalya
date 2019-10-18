@@ -107,7 +107,7 @@ if (isset($_POST['register_channel_partner'])) {
 			
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://maangalya.co.in/wp-content/uploads/2019/07/MAANGALYA-_New-Logo.jpg">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/logo.png">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">
@@ -219,7 +219,7 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
 		
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://maangalya.co.in/wp-content/uploads/2019/07/MAANGALYA-_New-Logo.jpg">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/logo.png">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">
@@ -249,7 +249,7 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
 			
 			<tr align="center">
 				<td colspan="3" style="text-align:center;">
-					<img src="http://maangalya.co.in/wp-content/uploads/2019/07/MAANGALYA-_New-Logo.jpg">
+					<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/logo.png">
 				</td>
 			</tr>
 			<tr style="background-color:#f5f5f5">

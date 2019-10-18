@@ -4,7 +4,7 @@
 					<div class="row pt-4 pb-5 text-center text-md-left">
 						<div class="col-md-3">
 							<a href="demo-construction.html">
-								<img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+								<img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo.png">
 							</a>
 								<div>
 									<p style="padding-top:10px;"><i class="fas fa-phone"></i>(+91) 9900970970</p>

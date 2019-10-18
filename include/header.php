@@ -50,9 +50,9 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<img class="logo-default" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+										<img class="logo-default" alt="Porto" width="250" height="auto" src="img/new_images/logo.png">
 										<a href="index.php">
-											<img class="logo-small" alt="Porto" width="250" height="auto" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+											<img class="logo-small" alt="Porto" width="250" height="auto" src="img/new_images/logo.png">
 										</a>
 									</div>
 								</div>
