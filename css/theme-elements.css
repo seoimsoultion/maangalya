@@ -15220,4 +15220,8 @@ ul.team-list .team-item .thumb-info-social-icons {
 		letter-spacing: 0;
 		line-height: 100px;
 	}
+
+	.forcefullwidth_wrapper_tp_banner{
+		min-height: 220px!important;
+	}
 }

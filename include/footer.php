@@ -4,7 +4,7 @@
 
     <div class="container">
 
-        <div class="row pt-4 pb-5 text-center text-md-left">
+        <div class="row  text-center text-md-left">
 
             <div class="col-md-3">
 

@@ -69,7 +69,7 @@
 					</div>
 				</div>
 
-				<div class="container mob-pt55">
+				<div class="container">
 					<div class="row mt-4  mb-4 ">
 						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;"><b>About Us</b></h2>
 						<h5 class="mb-2 text-center" style="width: 100%;padding-bottom:25px;">We build your house, you make it a home
@@ -77,7 +77,7 @@
 </h5>
 					
 						
-							<div class="col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="top: 4.5rem;">
+							<div class=" aboutUsContainer col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="">
 								<img src="img/new_images/home-about-us-3.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
 								<img src="img/new_images/home-about-us-2.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
 								<img src="img/new_images/home-about-us-1.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />
@@ -258,7 +258,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 						<div class="row justify-content-center">
 							<div class="col-lg-6">
 								
-								<div class="owl-carousel owl-theme nav-bottom rounded-nav mt-4 pt-4 mb-4 pb-4" data-plugin-options="{'items': 1, 'loop': false}">
+								<div class="owl-carousel owl-theme nav-bottom rounded-nav " data-plugin-options="{'items': 1, 'loop': false}">
 									<div>
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
@@ -354,11 +354,11 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 
 
 
-				<section class="pt-3 pb-4 home-concept-construction home--gallery">
+				<section class=" home-concept-construction home--gallery">
 					<div class="container">
-						<div class="row pt-4">
+						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center"><b>Project Gallery</b>
+								<h2 class=" text-color-dark text-center"><b>Project Gallery</b>
 </h2>
 <h5 class="mb-2 text-center" style="width: 100%;">A Sneak-peak at Our Projects</h5>
 							

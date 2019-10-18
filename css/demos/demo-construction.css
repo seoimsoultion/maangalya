@@ -475,6 +475,7 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 }
 #footer .featured-box .box-content{
 	padding-bottom: 0px !important;
+	padding-top: 0px !important;
 }
 
 #footer .newsletter form {
@@ -538,7 +539,10 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 		width: 400px;
 		z-index: 1;*/
 	}
-	
+	.aboutUsContainer{
+		top: 4.5rem !important;
+	}
+
 }
 @media (min-width: 768px) {
 	
