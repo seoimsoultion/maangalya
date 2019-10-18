@@ -10,7 +10,7 @@
 
                 <a href="index.php">
 
-                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo.png">
+                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo_footer.jpg">
 
                 </a>
 
