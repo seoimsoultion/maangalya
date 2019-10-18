@@ -140,12 +140,11 @@ if (isset($_POST['register_channel_partner'])) {
             $headers = "From: " . strip_tags($from) . "\r\n";
             $headers .= "Reply-To: " . strip_tags($from) . "\r\n";
             $headers .= "MIME-Version: 1.0\r\n";
-            $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-
-            mail($to, $subject, $message, $headers, '-freturn@maangalya.co.in');
-            mail($to1, $subject_1, $body, $headers, '-freturn@maangalya.co.in');
-            mail($to2, $subject_1, $body, $headers, '-freturn@maangalya.co.in');
-            echo 'OK';
+            $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";									$response = $_POST['g-recaptcha-response'];			$url = 'https://www.google.com/recaptcha/api/siteverify';			$key = '6LfnPr4UAAAAAONZSM7o7K2pUu6sir_Iy-MPs1wZ';			$data = array('secret' => $key, 'response' => $response);			$options = array(			'http' => array(			'header' => "Content-type: application/x-www-form-urlencoded\r\n",			'method' => "POST",			'content' => http_build_query($data),			),			);			$context = stream_context_create($options);			$result = file_get_contents($url, false, $context);			if ($result === false) {			echo 'Failed to contact reCAPTCHA';			} else {				$result = json_decode($result);				if ($result->success) {
+					mail($to, $subject, $message, $headers, '-freturn@maangalya.co.in');
+					mail($to1, $subject_1, $body, $headers, '-freturn@maangalya.co.in');
+					mail($to2, $subject_1, $body, $headers, '-freturn@maangalya.co.in');
+					echo 'OK';											} else {					$error = true;					echo '<h2 style="color:red !important">You are spammer</h2>';				}			}
             // die();
             // header("Location: cp.php");
         }
@@ -289,21 +288,14 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
             $headers .= "Reply-To: " . strip_tags($from) . "\r\n";
             $headers .= "MIME-Version: 1.0\r\n";
             $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-            if ($to != '') {
-                mail($to, $subject, $body, $headers, '-freturn@maangalya.co.in');
-                mail($to1, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
-                mail($to2, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
-                echo 'OK';
+            if ($to != '') {								$response = $_POST['g-recaptcha-response'];				$url = 'https://www.google.com/recaptcha/api/siteverify';				$key = '6LfnPr4UAAAAAONZSM7o7K2pUu6sir_Iy-MPs1wZ';				$data = array('secret' => $key, 'response' => $response);				$options = array(				'http' => array(				'header' => "Content-type: application/x-www-form-urlencoded\r\n",				'method' => "POST",				'content' => http_build_query($data),				),				);				$context = stream_context_create($options);				$result = file_get_contents($url, false, $context);				if ($result === false) {					echo 'Failed to contact reCAPTCHA';				}else {					$result = json_decode($result);					if ($result->success) {	
+							mail($to, $subject, $body, $headers, '-freturn@maangalya.co.in');
+							mail($to1, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
+							mail($to2, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
+							echo 'OK';						} else {						$error = true;						echo '<h2 style="color:red !important">You are spammer</h2>';						}					}	
             }
           
         }
 //   echo "<script language='javascript'>window.location.replace('cp.php');</script>";
     }
-}
-
-
-if (isset($_POST['joint-development'])) { 
-
-	
-	
 }

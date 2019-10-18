@@ -2,9 +2,10 @@
 
 session_start();
 
-define("WEBMASTER_EMAIL", 'hamalton@imsolutions.mobi');
+define("WEBMASTER_EMAIL", 'ravi.k@imsolutions.mobi');define("WEBMASTER_EMAIL1", 'ravi.k@imsolutions.mobi');define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');
+/*define("WEBMASTER_EMAIL", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
-define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');
+define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');*/
 
 //define("WEBMASTER_EMAIL1", 'lokesh@imsolutions.mobi'); 
 error_reporting(E_ALL ^ E_NOTICE);
@@ -100,18 +101,18 @@ if ($_POST) {
         </tr>
 		
 </table>';
-    $mail = mail(WEBMASTER_EMAIL, $subject, $message, $headers, '-freturn@maangalya.co.in');
+    /*$mail = mail(WEBMASTER_EMAIL, $subject, $message, $headers, '-freturn@maangalya.co.in');
     $mail1 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalya.co.in');
     $mail2 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalya.co.in');
     if ($mail || $mail1 || $mail2) {
         $mail = mail($email, 'Thanks for contacting us', '<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>', $headers, '-freturn@maangalya.co.in');
         echo 'OK';
-    }
+    }*/
 
-    /*
+   
       $response = $_POST['g-recaptcha-response'];
       $url = 'https://www.google.com/recaptcha/api/siteverify';
-      $key = '6LernbMUAAAAAFpAboOgiH9-EfYArSbxVy-5Tnwz';
+      $key = '6LfnPr4UAAAAAONZSM7o7K2pUu6sir_Iy-MPs1wZ';
       $data = array('secret' => $key, 'response' => $response);
       $options = array(
       'http' => array(
@@ -141,6 +142,6 @@ if ($_POST) {
       }
 
       }
-     */
+    
 }
 ?>

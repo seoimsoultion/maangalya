@@ -397,7 +397,7 @@
                                 <div class="form-group row">
     
                                     <div class="form-group col-lg-12">
-                                        <input type="submit" value="Save" class="btn btn-primary btn-modern float-left" data-loading-text="Loading...">
+                                        <input type="submit" value="Submit" class="btn btn-primary btn-modern float-left" data-loading-text="Loading...">
                                     </div>
                                 </div>
                             </form>   
@@ -433,7 +433,7 @@
 
                 <div class="col-lg-12 text-center">
 
-                    <p>© Copyright 2019. All Rights Reserved.</p>
+                    <p>&copy; Copyright 2019. All Rights Reserved.</p>
 
                 </div>
 
@@ -529,9 +529,9 @@
 
 
 
-
+<script src="https://www.google.com/recaptcha/api.js?render=6LfnPr4UAAAAAPTYJ-zvtPhrvywkj3_ECAGQNa4_"  ></script>
 <script>
-
+	grecaptcha.ready(function() {	   grecaptcha.execute('6LfnPr4UAAAAAPTYJ-zvtPhrvywkj3_ECAGQNa4_', {action: 'homepage'}).then(function(token) {		  $('#fcon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#con').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#ccon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#cp').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#al').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');	   });	});
  $("#fcon").submit(function () {
         var str = $(this).serialize();
         $.ajax({
@@ -554,16 +554,6 @@
         return false;
     });
         </script>
-
-
-
-
-
-
-
-
-
-
 </body>
 
 </html>
