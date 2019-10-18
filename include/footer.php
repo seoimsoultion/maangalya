@@ -54,7 +54,7 @@
 
                             <li>
 
-                                <a class="nav-link" href="demo-construction.html">
+                                <a class="nav-link" href="index.php">
 
                                     Home
 
@@ -74,7 +74,7 @@
 
                             <li>
 
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="whyus.php">
 
                                     Why Maangalya
 
@@ -92,7 +92,7 @@
 
                             <li>
 
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="joint-development.php">
 
                                     Joint Development
 
@@ -102,7 +102,7 @@
 
                             <li>
 
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="channel-partner.php">
 
                                     Channel Partners
 
