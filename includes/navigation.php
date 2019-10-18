@@ -4,22 +4,22 @@
                <nav class="collapse">
                                             <ul class="nav nav-pills" id="mainNav">
                                                 <li>
-                                                    <a class="nav-link <?php if($page=='home') {echo ' active ';} ?>" href="index1.php">
+                                                    <a class="nav-link <?php if($page=='home') {echo ' active ';} ?>" href="index.php">
                                                         Home
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a class="nav-link" <?php if($page=='about-us') {echo ' active ';} ?> href="about.php">
+                                                    <a class="nav-link" <?php if($page=='about-us') {echo ' active ';} ?> href="aboutus.php">
                                                         About Us
                                                     </a>
                                                 </li >
                                                 <li class="dropdown">
-                                                    <a class="nav-link dropdown-toggle <?php if($page=='page-name' ||$page=='page-name') {echo ' active ';} ?>" href="projects.php">
+                                                    <a class="nav-link dropdown-toggle <?php if($page=='page-name' ||$page=='page-name') {echo ' active ';} ?>" href="#">
                                                         Projects
                                                     </a>
                                                     <ul class="dropdown-menu">
-                                                        <li><a class="dropdown-item" href="#">Maangalya Signature</a></li>
-                                                        <li><a class="dropdown-item" href="#">Maangalya Park-Avenue</a></li>
+                                                        <li><a class="dropdown-item" href="maangalya-signature.php">Maangalya Signature</a></li>
+                                                        <li><a class="dropdown-item" href="maangalya-park-avenue.php">Maangalya Park-Avenue</a></li>
 
                                                     </ul>
                                                 </li>

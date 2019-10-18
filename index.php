@@ -293,7 +293,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 										<div class="col">
 											<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 												<blockquote>
-													<p style="color: #fff;">Fresh Air, Landscape views &#038; great sunset views, Lots of natural light, Beautiful breeze in the balcony at all times, inner peace, large rooms, decent build quality, Rapidly growing locality</p>
+													<p style="color: #fff;">Fresh Air, Landscape views & great sunset views, Lots of natural light, Beautiful breeze in the balcony at all times, inner peace, large rooms, decent build quality, Rapidly growing locality</p>
 												</blockquote>
 												<div class="testimonial-author">
 													<p style="color: #fff;"><strong>Hamsa Pramod</strong><span>Client</span></p>
