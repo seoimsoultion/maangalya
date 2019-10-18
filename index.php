@@ -19,11 +19,11 @@
 
 		<?php include('include/header.php')?>
 			<div role="main" class="main">
-				<div class="slider-container light rev_slider_wrapper" style="height: 700px;">
-					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 700, 'disableProgressBar': 'on'}">
+				<div class="slider-container light rev_slider_wrapper" >
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 100%, 'gridheight': auto, 'disableProgressBar': 'on'}">
 						<ul>
 							<li data-transition="fade">
-								<img src="img/new_images/slider-banner-1.jpg"  
+								<img src="img/new_images/slider-banner-2.jpg"  
 									alt=""
 									data-bgposition="center 100%" 
 									data-bgfit="cover" 
@@ -34,23 +34,8 @@
 									data-x="right" data-hoffset="100"
 									data-y="bottom" data-voffset="106"
 									data-start="1000"
-									data-transform_in="x:[100%];opacity:0;s:1000;">#1 FASTEST-GROWING COMPANY</div>
+									data-transform_in="x:[100%];opacity:0;s:1000;"></div>
 							</li>
-							<li data-transition="fade">
-								<img src="img/new_images/slider-banner-2.jpg"  
-									alt=""
-									data-bgposition="center 100%" 
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									class="rev-slidebg">
-								
-								<div class="tp-caption top-label tp-caption-custom-stripe"
-									data-x="right" data-hoffset="180"
-									data-y="bottom" data-voffset="106"
-									data-start="1000"
-									data-transform_in="x:[100%];opacity:0;s:1000;">MODERN OFFICES DESIGN</div>
-							</li>
-
 							<li data-transition="fade">
 								<img src="img/new_images/slider-banner-3.jpg"  
 									alt=""
@@ -63,13 +48,28 @@
 									data-x="right" data-hoffset="180"
 									data-y="bottom" data-voffset="106"
 									data-start="1000"
-									data-transform_in="x:[100%];opacity:0;s:1000;">MODERN OFFICES DESIGN</div>
+									data-transform_in="x:[100%];opacity:0;s:1000;"></div>
+							</li>
+
+							<li data-transition="fade">
+								<img src="img/new_images/slider-banner-4.jpg"  
+									alt=""
+									data-bgposition="center 100%" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+								
+								<div class="tp-caption top-label tp-caption-custom-stripe"
+									data-x="right" data-hoffset="180"
+									data-y="bottom" data-voffset="106"
+									data-start="1000"
+									data-transform_in="x:[100%];opacity:0;s:1000;"></div>
 							</li>
 						</ul>
 					</div>
 				</div>
 
-				<div class="container">
+				<div class="container mob-pt55">
 					<div class="row mt-4 mt-lg-5 mb-4 py-4">
 						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;"><b>About Us</b></h2>
 						<h5 class="mb-2 text-center" style="width: 100%;">We build your house, you make it a home

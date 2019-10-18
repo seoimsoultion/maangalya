@@ -14919,7 +14919,12 @@ section.section-custom-map section.section {
 	.home-concept .process-image.process-image-on-middle {
 		margin-top: 95px;
 	}
+	#revolutionSlider_forcefullwidth{
+margin-top:85px !important;
 }
+}
+
+
 
 .home-concept .our-work {
 	margin-top: 52px;
@@ -15204,6 +15209,8 @@ ul.team-list .team-item .thumb-info-social-icons {
 
 /* Responsive */
 @media (max-width: 575px) {
+	.slider-container {top:75px!important;}
+	.mob-pt55 {padding-top: 55px;}
 	.http-error {
 		padding: 0;
 	}
