@@ -70,9 +70,9 @@
 				</div>
 
 				<div class="container mob-pt55">
-					<div class="row mt-4 mt-lg-5 mb-4 py-4">
+					<div class="row mt-4  mb-4 ">
 						<h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;"><b>About Us</b></h2>
-						<h5 class="mb-2 text-center" style="width: 100%;">We build your house, you make it a home
+						<h5 class="mb-2 text-center" style="width: 100%;padding-bottom:25px;">We build your house, you make it a home
 
 </h5>
 					
@@ -97,11 +97,11 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</div>
 
-				<section class="section section-tertiary section-no-border section-custom-construction">
+				<section class="section section-tertiary section-no-border section-custom-construction" style="margin-top:0px; padding-top:0px;">
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark text-center"><b>Why Maangalya?</b></h2>
+								<h2 class="mb-0 text-color-dark text-center" style="padding-bottom:25px;"><b>Why Maangalya?</b></h2>
 								
 							</div>
 						</div>
@@ -110,7 +110,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/work-home-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-1.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">Clear Legal Title</h4>
@@ -122,7 +122,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/kids-play-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-4.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">Timely Delivery</h4>
@@ -137,7 +137,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/swmming-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-2.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">Staged Payments</h4>
@@ -150,7 +150,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/club-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-5.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">5 Year Warranty</h4>
@@ -166,7 +166,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/kitchen-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-3.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">World-class Amenities
@@ -180,7 +180,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							<div class="col-lg-6">
 								<div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="feature-box-icon w-auto">
-										<img src="img/new_images/best-icon.png" alt="" class="img-fluid" width="100" />
+										<img src="img/new_images/i-6.png" alt="" class="img-fluid" width="100" />
 									</div>
 									<div class="feature-box-info ml-3">
 										<h4 class="mb-2">Futuristic Homes
@@ -196,12 +196,12 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</section>
 
-				<section class="pt-3 pb-4 home-concept-construction">
+				<section class=" pb-4 home-concept-construction">
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
 								<h2 class="mb-4 text-color-dark text-center"><b>Projects</b></h2>
-								<h5 class="mb-2 text-center" style="width: 100%;">Apartment Projects That Redefine Excellence
+								<h5 class="mb-2 text-center" style="width: 100%;padding-bottom:25px;">Apartment Projects That Redefine Excellence
 
 </h5>
 								<div class="row">
@@ -218,11 +218,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 												</span>
 												<span class="thumb-info-caption">
 													<span class="thumb-info-caption-text">At Maangalya Signature, we present premium apartments that are right within city, yet away from the hustle-bustle and offer a blissful natural setting for you to cherish. You will certainly enjoy the 60% open space with the project spread over a vast area of 3 acres.</span>
-													<span class="thumb-info-social-icons">
-														<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-														<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-														<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-													</span>
+													
 												</span>
 											</span>
 
@@ -240,11 +236,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 												</span>
 												<span class="thumb-info-caption">
 													<span class="thumb-info-caption-text">Maangalya Park-Avenue is considered an architectural marvel, a perfect blend of aesthetics & modernity. It draws admiration due to eye to detail we have put at every stage of the development. Right from material to finishes, everything has been meticulously planned.</span>
-													<span class="thumb-info-social-icons">
-														<a target="_blank" href="http://www.facebook.com"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-														<a href="http://www.twitter.com"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-														<a href="http://www.linkedin.com"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-													</span>
+													
 												</span>
 											</span>
 
@@ -259,7 +251,9 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 				</section>
 
 
-				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; background-size: cover;">
+				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; background-size: cover;padding:25px;">
+					<h2 class="mb-4 text-color-dark text-center" ><b style="color:#FFF">Testimonials</b>
+</h2>
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-6">
@@ -320,7 +314,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					</div>
 				</section>
 
-	<section class="pt-3 pb-4 home-concept-construction">
+	<!--<section class="pt-3 pb-4 home-concept-construction">
 					<div class="container">
 							<h2 class="mb-4 text-color-dark text-center">Our Partners</h2>
 								
@@ -356,7 +350,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 							</div>
 						</div>
 
-</div></section>
+</div></section>-->
 
 
 
@@ -364,7 +358,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Project Gallery
+								<h2 class="mb-4 text-color-dark text-center"><b>Project Gallery</b>
 </h2>
 <h5 class="mb-2 text-center" style="width: 100%;">A Sneak-peak at Our Projects</h5>
 							

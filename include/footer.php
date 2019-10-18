@@ -10,7 +10,7 @@
 
                 <a href="index.php">
 
-                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo.png">
+                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo_footer.jpg">
 
                 </a>
 
@@ -38,7 +38,7 @@
 
                 <div class="row">
 
-                    <div class="col-lg-6 mb-2">
+                    <div class="col-lg-12 mb-2 text-center">
 
                         <h4>Navigation</h4>
 
@@ -128,7 +128,7 @@
 
             </div>
 
-            <div class="col-md-5">
+            <div class="col-md-5 text-center">
 
                 <h4>Contact Us</h4>
 
@@ -396,8 +396,8 @@
 
                                 <div class="form-group row">
     
-                                    <div class="form-group col-lg-12">
-                                        <input type="submit" value="Submit" class="btn btn-primary btn-modern float-left" data-loading-text="Loading...">
+                                    <div class="form-group col-lg-12 text-center">
+                                        <input type="submit" value="Enquire Now" class="btn btn-primary btn-modern " data-loading-text="Loading...">
                                     </div>
                                 </div>
                             </form>   

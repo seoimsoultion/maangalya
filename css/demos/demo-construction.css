@@ -445,11 +445,13 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 }
 
 #footer {
-	background: #E9EFF2 url(../../img/demos/construction/footer-construction.jpg) no-repeat 50% 50%;
+	/*background: #E9EFF2 url(../../img/new-images/footer-bg.jpg) no-repeat 50% 50%;*/
+	 background-image: url(../../img/new_images/footer-bg.jpg) !important;
 	border-top: 0;
-	padding: 60px 0 30px;
+	padding: 60px 0 10px;
 	min-height: 400px;
 	overflow: hidden;
+	background-position: 50% 100% !important;
 }
 #footer h1, #footer h2, #footer h3, #footer h4, #footer a {
 	color: #333;
@@ -459,6 +461,10 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 	margin: 0;
 	padding: 0;
 }
+
+#footer .featured-box{
+	background: #ffffff73 !important;
+}
 #footer .list-footer-nav a {
 	font-size: 14px;
 	color: #777;
@@ -467,29 +473,49 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 #footer .list-footer-nav a:hover {
 	color: #888;
 }
+#footer .featured-box .box-content{
+	padding-bottom: 0px !important;
+}
+
 #footer .newsletter form {
 	max-width: 100%;
 	margin: 27px 0 12px;
 }
 #footer .newsletter form input.form-control {
-	height: 45px;
+	height: 35px;
 	padding: 12px;
 }
 #footer .newsletter form .btn {
-	height: 45px;
-	width: 45px;
+	/*height: 45px;
+	width: 45px;*/
 }
 #footer [class*="fa-"] {
 	display: inline-block;
 	padding-right: 2px;
 	position: relative;
 	top: 1px;
-	color: #000;
+	color: #FFF;
 }
+#footer p{
+	color:#FFF !important;
+}
+
+#footer p a{
+	color:#FFF !important;
+}
+
+#footer h4 {
+	color:#FFF !important;
+}
+
+#footer li a {
+	color:#FFF !important;
+}
+
 #footer .footer-copyright {
 	background: transparent;
-	margin: -10px 0 0;
-	padding: 20px 0 0;
+	
+	padding: 10px 0 0;
 	border-top: 1px solid #FFF;
 }
 #footer .footer-copyright p {
@@ -501,7 +527,7 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 		margin-top: 0;
 	}
 	#footer:after {
-		background: #000 none repeat scroll 0 0;
+		/*background: #000 none repeat scroll 0 0;
 		bottom: -233px;
 		content: "";
 		height: 400px;
@@ -510,8 +536,9 @@ html.sticky-header-active #header.header-semi-transparent-light .header-body {
 		-webkit-transform: rotate(50deg);
 						transform: rotate(50deg);
 		width: 400px;
-		z-index: 1;
+		z-index: 1;*/
 	}
+	
 }
 @media (min-width: 768px) {
 	
