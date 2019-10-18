@@ -61,7 +61,7 @@
 								</div>
 
 								<h2 class="mb-0 text-color-dark">Who We Are</h2>
-								<p class="lead mb-4 mt-4">Boasting real estate development experience and expertise, which spans over 2 decades, we are considered industry leaders in the realm of property development in Bangalore. What separates us from the competition is our distinctively diverse and multi-domain portfolio that encompasses different types of property developments. All of our projects combine a legacy of excellence and trust that we have built over the years.
+								<p >Boasting real estate development experience and expertise, which spans over 2 decades, we are considered industry leaders in the realm of property development in Bangalore. What separates us from the competition is our distinctively diverse and multi-domain portfolio that encompasses different types of property developments. All of our projects combine a legacy of excellence and trust that we have built over the years.
 </p>
 
 								<p>Being a premier property developer, we aim to constantly innovate and enhance our work so that we can satisfy our customers, set new benchmarks, and improve our standards. Our motto has always been – Excellence in Work. This ideology in conjunction with our focus on exemplary client service, timely delivery, transparency, dedication to work, and unrelenting determination makes us the right choice for people looking to buy their dream home.</p>

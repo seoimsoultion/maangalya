@@ -10,7 +10,7 @@
 
                 <a href="demo-construction.html">
 
-                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/MAANGALYA-_New-Logo.jpg">
+                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo.png">
 
                 </a>
 
