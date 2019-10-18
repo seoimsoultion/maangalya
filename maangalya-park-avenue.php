@@ -19,7 +19,7 @@
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
-		<?php include('include/header.php')?>
+		<?php include('include/avenue_header.php')?>
 			<div role="main" class="main">
 				<div class="slider-container rev_slider_wrapper" style="height: 670px;">
 					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
@@ -154,11 +154,14 @@
 					<div class="row ">
 						
 						<div class="col-lg-12">
-							<h2 class="mb-4 text-color-dark text-center">About Us</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Experience Natural Serenity 
+</h2>
 							
 					
 					
-							<p style="text-align: justify;">Maangalya Signature, JP Nagar 9th Phase, South Bangalore on the eastern part of Kanakapura Road close to Konanakunte cross and up coming FORUM Mall. It is significant to note that soon Metro would link it to entire Bangalore like never before. The Green Line of Namma Metro will soon have a terminal station at Anjanapura, making Maangalya Prosper Signature Block, the most desired destination of home-seekers, it has excellent connectivity to NICE Road which connects all corners of Bangalore. Maangalya boasts of a spectacularly and amazingly designed lightings that grace the beauty of the entire apartment. All the units are well-ventilated to let in more breeze, light and hence sooth your frayed nerves. As the entire structure is vaastu compliant, you are assured of blessings all the way.</p>
+							<p style="text-align: justify;">A home within hustle and bustle of city life, yet offering you the opportunity to live in nature’s lap. It is one of our projects that comes loaded with premium amenities that perfectly match your lifestyle. Moreover, it is in a prime location with hospitals, schools, colleges, and major IT parks in close vicinity. Thus, you will never be far away from your destination whether you are going to your office and want to go on a shopping spree at a nearby shopping mall.</p>
+							<p style="text-align: justify;">These 2 & 3 bhk premium apartments are carefully designed and are an excellent example of architectural marvel. Use of branded products, luxurious amenities, and safety features makes this project perfect for families looking for something special.
+</p>
 							<!--<a class="mt-3" href="about.php">Read More <i class="fas fa-long-arrow-alt-right"></i></a>-->
 						</div>
 					</div>
@@ -169,7 +172,7 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark text-center">Features</h2>
+								<h2 class="mb-0 text-color-dark text-center" style="font-weight: bold;">Features</h2>
 								
 							</div>
 						</div>
@@ -187,13 +190,16 @@
 								<div class="col-lg-6">
 														
 								
-										<h4 class="mb-2">Working From Home</h4>
-										<p style="text-align: justify;">Working from home is a nice idea to save time and get rid of the traffic woes, stress and
-pollution as well. However the atmosphere at home is not always conducive to the work
-culture you expect. At Mangalya Signature we have designed separate work stations at the
-ground floor, equipped with wi-fi and a cafeteria to boot so that you can log in to your office
-and keep working, day in and day out, sipping coffee in between. And that's every techie's
-dream of work life balance, isn't it?</p>
+										<h4 class="mb-2">Noteworthy Features
+</h4>
+										<ol>
+<li>Structure that conforms to to IS code specified for earthquake & wind loads.</li>
+<li>Electrical safety ensured by elegant modular electrical switches from Crabtree.</li>
+<li>Power backup for apartments and common areas.</li>
+<li>High quality construction with use of premium material.</li>
+
+
+										</ol>
 									
 								
 								</div>
@@ -214,55 +220,56 @@ dream of work life balance, isn't it?</p>
 
 						<div class="row">
 						<div class="col">
-							<h2 class="mb-4 text-color-dark text-center">Amenities</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Amenities</h2>
 							<div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 6, 'margin': 10, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}" style="text-align: center;">
+							
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/badminton.png">
-									Badminton Court
-								</div>
-								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/basket-ball.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/basketball.jpg">
 									Basket Ball
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/gamepad.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/avenue-playarea.jpg">
 									Kid's Play-Area
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/garden.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/landscape.jpg">
+									Landscaped Garden
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/wifi.jpg">
+							Wi-Fi Work Zone
+								</div>
+								<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/herbal.jpg">
 									Herbal Garden
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/gym.png">
-									Gym
-								</div>
-								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/herbal.png">
-									Herbal Garden
-								</div>
-								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/jogging.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/jogging.jpg">
 									Jogging Track
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/pool.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/pool.jpg">
 									Swimming pool
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/squash.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/squash.jpg">
 									Squash Court
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/table-tenish.png">
-									Table Tennis
+									<img alt="" class="img-fluid rounded" src="img/new_images/tennies.jpg">
+								Tennis Court
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/yoga.png">
+									<img alt="" class="img-fluid rounded" src="img/new_images/yoga.jpg">
 									Yoga Deck
 								</div>
 								<div>
-									<img alt="" class="img-fluid rounded" src="img/new_images/8-ball.png">
-									Billiards
+									<img alt="" class="img-fluid rounded" src="img/new_images/skating.jpg">
+									Skating Rink
+								</div>
+									<div>
+									<img alt="" class="img-fluid rounded" src="img/new_images/cityzen.jpg">
+								Senior Citizen's Kiosk
 								</div>
 							</div>
 						</div>
@@ -282,7 +289,7 @@ dream of work life balance, isn't it?</p>
 							<div class="col-md-10 mx-md-auto">
 										
 							<div class="col">
-								<h2 class="mb-4  text-center" style="color: #fff;">Specifications</h2>
+								<h2 class="mb-4  text-center" style="color: #fff; font-weight: bold;">Specifications</h2>
 								
 							</div>
 					
@@ -294,11 +301,16 @@ dream of work life balance, isn't it?</p>
 												
 											</div>
 											<div class="feature-box-info">
-												<h4 class="mb-2 text-5 text-color-light">STRUCTURE</h4>
-												<p class="mb-4 text-color-light opacity-6">RCC frame structure with masonry partitions.<br>
-<b>MASONRY: </b>High strength concrete blocks for external walls 8” and internal walls 6”
-masonry with plaster shall be provided.<br>
-<b>PLASTERING:</b> Internal walls</p>
+												<h4 class="mb-2 text-5 text-color-light" >STRUCTURE</h4>
+												<p class="mb-4 text-color-light opacity-6">RCC frame structure with masonry
+partitions.<br>
+<b>MASONRY:</b> High strength concrete
+blocks for external walls 8” and internal
+walls 4” masonry with plaster shall be
+provided.<br>
+<b>PLASTERING:</b> Internal walls with
+cement mortar, external walls with
+cement mortar and sponge finish.</p>
 											</div>
 										</div>
 									</div>
@@ -310,12 +322,11 @@ masonry with plaster shall be provided.<br>
 											<div class="feature-box-info">
 												<h4 class="mb-2 text-5 text-color-light">FLOORING & DADO</h4>
 												<p class="mb-4 text-color-light opacity-6">
-													White Horse make vitrified tiles 2x2 ft for Living, Dining, Bedrooms and Rustic finish
-vitrified tiles for Kitchen, Utility & balcony along with 3 mm spacers with MYK
-LATICRETE EPOXY GROUT .<br>
-Lobby will have polished granite flooring, same for staircase with brushed stainless
-steel railing.<br>
-Kitchen & Utility: Granite counter with FRANKE
+													White Horse vitrified tiles 2x2 ft for
+Living, Dining, Bedrooms and Rustic
+finish vitrified tiles for Kitchen, Utility &
+balcony along with 3 mm spacers with
+MYK LATICRETE EPOXY GROUT .
 												</p>
 											</div>
 										</div>
@@ -329,7 +340,9 @@ Kitchen & Utility: Granite counter with FRANKE
 											</div>
 											<div class="feature-box-info">
 												<h4 class="mb-2 text-5 text-color-light">DOORS & ACCESSORIES</h4>
-												<p class="mb-4 text-color-light opacity-6">All doors frames & shutters will be of DURIAN with YALE locks, hinges & tower bolts</p>
+												<p class="mb-4 text-color-light opacity-6">All doors frames & shutters will be of BST with
+imported timber along with Godrej locks, hinges
+& tower bolts.</p>
 											</div>
 										</div>
 									</div>
@@ -340,8 +353,8 @@ Kitchen & Utility: Granite counter with FRANKE
 											</div>
 											<div class="feature-box-info">
 												<h4 class="mb-2 text-5 text-color-light">UPVC WINDOWS</h4>
-												<p class="mb-4 text-color-light opacity-6">l All the UPVC Windows will be of DECEUNINCK make with safety grills shall be of
-Bright Rods.</p>
+												<p class="mb-4 text-color-light opacity-6">All the UPVC Windows will be of DECEUNINCK
+make with safety grills shall be of Bright Rods.</p>
 											</div>
 										</div>
 									</div>
@@ -354,7 +367,8 @@ Bright Rods.</p>
 											</div>
 											<div class="feature-box-info">
 												<h4 class="mb-2 text-5 text-color-light">WATER SUPPLY</h4>
-												<p class="mb-0 text-color-light opacity-6">24 Hours water supply from BOREWELL along with CAUVERY water connection.</p>
+												<p class="mb-0 text-color-light opacity-6">24 Hours water supply from BOREWELL along
+with CAUVERY water connection.</p>
 											</div>
 										</div>
 									</div>
@@ -365,7 +379,7 @@ Bright Rods.</p>
 											</div>
 											<div class="feature-box-info">
 												<h4 class="mb-2 text-5 text-color-light">LIFT</h4>
-												<p class="mb-0 text-color-light opacity-6">10 passenger lift and 13 passenger service lift in all the blocks from THYSSENKRUPP.</p>
+												<p class="mb-0 text-color-light opacity-6">Passenger lift and service lift from KONE.</p>
 											</div>
 										</div>
 									</div>
@@ -386,13 +400,13 @@ Bright Rods.</p>
 						<div class="row">
 						<div class="col">
 
-							<h2 class="mb-4 text-color-dark text-center">Floor Plan
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Floor Plan
 </h2>
 
-							<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
+							<ul class="nav nav-pills sort-source sort-source-style-3 justify-content-center" data-sort-id="portfolio" data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': ''}">
 							
-								<li class="nav-item" data-option-value=".websites"><a class="nav-link text-1 text-uppercase" href="#">2 BHK</a></li>
-								<li class="nav-item" data-option-value=".logos"><a class="nav-link text-1 text-uppercase" href="#">3 BHK</a></li>
+								<li class="nav-item" data-option-value=".websites"><a class="nav-link text-1 text-uppercase" href="#">3 BHK - BLOCK A</a></li>
+								<li class="nav-item" data-option-value=".logos"><a class="nav-link text-1 text-uppercase" href="#">3 BHK - - BLOCK B</a></li>
 								<!--<li class="nav-item" data-option-value=".brands"><a class="nav-link text-1 text-uppercase" href="#">Brands</a></li>
 								<li class="nav-item" data-option-value=".medias"><a class="nav-link text-1 text-uppercase" href="#">Medias</a></li>-->
 							</ul>
@@ -406,11 +420,11 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<img src="img/new_images/2bhk-1.jpg" class="img-fluid border-radius-0" alt="">
+														
 
 
-<a class="lightbox" href="img/new_images/2bhk-1.jpg" data-plugin-options="{'type':'image'}">
-												<img class="img-fluid" src="img/new_images/2bhk-1.jpg" alt="Project Image">
+<a class="lightbox" href="img/new_images/avenue-3bhk1.jpg" data-plugin-options="{'type':'image'}">
+												<img class="img-fluid" src="img/new_images/avenue-3bhk1.jpg" alt="Project Image">
 											</a>
 
 
@@ -430,8 +444,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-4.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-4.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk1B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk1B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -447,8 +461,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-5.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-5.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk2B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk2B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -462,8 +476,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/2bhk-2.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/2bhk-2.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk2.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk2.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 													</span>
 												</span>
@@ -478,8 +492,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/2bhk-3.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/2bhk-3.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk3.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk3.jpg" class="img-fluid border-radius-0" alt="">
 													</a>
 													
 													</span>
@@ -493,8 +507,25 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/2bhk-4.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/2bhk-4.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk4.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk4.jpg" class="img-fluid border-radius-0" alt="">
+														</a>
+													
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+
+
+
+									<div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
+										<div class="portfolio-item">
+											<a href="portfolio-single-wide-slider.html">
+												<span class="thumb-info thumb-info-lighten border-radius-0">
+													<span class="thumb-info-wrapper border-radius-0">
+														<a class="lightbox" href="img/new_images/avenue-3bhk5.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk5.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 													
 													</span>
@@ -509,8 +540,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-1.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-1.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk6B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk6B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -525,8 +556,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-2.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-2.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk4B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk4B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -540,8 +571,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-3.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-3.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk5B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk5B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -558,8 +589,8 @@ Bright Rods.</p>
 											<a href="portfolio-single-wide-slider.html">
 												<span class="thumb-info thumb-info-lighten border-radius-0">
 													<span class="thumb-info-wrapper border-radius-0">
-														<a class="lightbox" href="img/new_images/3bhk-6.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/3bhk-6.jpg" class="img-fluid border-radius-0" alt="">
+														<a class="lightbox" href="img/new_images/avenue-3bhk3B.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-3bhk3B.jpg" class="img-fluid border-radius-0" alt="">
 														</a>
 												
 													</span>
@@ -584,7 +615,7 @@ Bright Rods.</p>
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Master Plan
+								<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Master Plan
 </h2>
 								
 								<div class="row">
@@ -594,8 +625,8 @@ Bright Rods.</p>
 											<span class=" thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
 											
-	<a class="lightbox" href="img/new_images/masterplan.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/masterplan.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
+	<a class="lightbox" href="img/new_images/avenue-map.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-map.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
 														</a>
 												
 
@@ -620,17 +651,17 @@ Bright Rods.</p>
 					<div class="container">
 						<div class="row ">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Location Map
+								<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Location Map
 </h2>
 								
 								<div class="row">
-								<div class="col-lg-12">
+								<div class="col-lg-6">
 
 										
 											<span class="thumb-info thumb-info-hide-wrapper-bg">
 												<span class="thumb-info-wrapper">
-														<a class="lightbox" href="img/new_images/location.jpg" data-plugin-options="{'type':'image'}">
-														<img src="img/new_images/location.jpg" class="img-fluid border-radius-0" alt="" style="width: 70%; margin:0 15%;">
+														<a class="lightbox" href="img/new_images/avenue-location.jpg" data-plugin-options="{'type':'image'}">
+														<img src="img/new_images/avenue-location.jpg" class="img-fluid border-radius-0" alt="" >
 														</a>
 												
 												</span>
@@ -638,6 +669,24 @@ Bright Rods.</p>
 											</span>
 
 										</div>
+
+
+
+
+	<div class="col-lg-6">
+
+										
+											<span class="thumb-info thumb-info-hide-wrapper-bg">
+												<span class="thumb-info-wrapper">
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124455.47607923423!2d77.45299724955076!3d12.892693449408863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbaec797a180ff3a2!2sMAANGALYA%20PARK%20AVENUE!5e0!3m2!1sen!2sin!4v1571379403511!5m2!1sen!2sin" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+												
+												</span>
+										
+											</span>
+
+										</div>
+
+
 								</div>
 
 							
@@ -648,10 +697,201 @@ Bright Rods.</p>
 					</div>
 				</section>
 
+<section class="pt-3 pb-4  pt-4 home-concept-construction " style="background: #204f93;">
+					<div class="container">
+						<div class="row ">
+							<div class="col">
+								<h2 class="mb-4  text-center" style="color: #fff; font-weight: bold;">Project Status
+</h2>
+								
+								<div class="row">
+			<div class="owl-carousel owl-theme full-width" data-plugin-options="{'items': 5, 'loop': false, 'nav': true, 'dots': false}">
+					<div>
+				
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+						
+					</div>
+					<div>
+						
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project2.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+					
+					</div>
+					<div>
+					
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project3.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+						
+					</div>
+					<div>
+						
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project4.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+						
+					</div>
+					<div>
+						
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project5.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+						
+					</div>
+					<div>
+						
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+								<span class="thumb-info-wrapper">
+									<img src="img/new_images/project6.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+					
+					</div>
+					<div>
+						
+							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+							<span class="thumb-info-wrapper">
+									<img src="img/new_images/project1.jpg" class="img-fluid" alt="">
+								
+									
+								</span>
+							</span>
+						
+					</div>
+				</div>
 
+										</div>
+
+							
+
+							</div>
+						</div>
+					
+					</div>
+				</section>
+
+	
+
+<section class="pt-3 pb-4  pt-4 home-concept-construction">
+					<div class="container">
+						<div class="row ">
+							<div class="col">
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Location Advantage</h2>
+						</div></div>
+						<div class="row ">
+                     <div class="col-lg-3 mob-center">
+                        <img src="img/new_images/mall.png">
+                        <div class="bot-head">
+                           <h4>
+                         Shopping Malls
+                           </h4>
+                           <ul>
+
+
+
+
+
+                              <li ><i class="fa fa-check-square" aria-hidden="true"></i> Forum Mall</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Mantri Mall</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Bangalore Central Mall</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Royal Meenakshi Mall</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Gopalan Arcade</li>
+                           
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 mob-center">
+                        <img src="img/new_images/temple-icon.png">
+                        <div class="bot-head">
+                           <h4>
+                              Temples
+                           </h4>
+                           <ul>
+
+
+
+
+
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> ISKCON</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Vasantha Vallabha Temple</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Shirdi Sai Sansthan</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Omkar Hills</li>
+                               <li><i class="fa fa-check-square" aria-hidden="true"></i> Banashankari Temple</li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 mob-center">
+                        <img src="img/new_images/education.png">
+                        <div class="bot-head">
+                           <h4>
+                              Educational Institutions
+                           </h4>
+                           <ul>
+
+
+
+
+
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> RV Institute</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Dayanand Sagar Institutions</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> National Public School</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> The Valley International
+                              </li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Kumarans-CBSE</li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 mob-center">
+                        <img src="img/new_images/hospital.png">
+                        <div class="bot-head">
+                           <h4>
+                              Hospitals
+                           </h4>
+                           <ul>
+
+
+
+
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> BGS Hospital</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Sagar Multi Speciality Hospital</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Apollo Hospital</li>
+                              <li><i class="fa fa-check-square" aria-hidden="true"></i> Fortis Hospital</li>
+                              
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+						</div>
+					
+				</section>
 
 			
 
 			
 			</div>
-<?php include('include/footer.php')?>
+<?php include('include/avenue_footer.php')?>

@@ -154,11 +154,13 @@
 					<div class="row ">
 						
 						<div class="col-lg-12">
-							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">About Us</h2>
+							<h2 class="mb-4 text-color-dark text-center" style="font-weight: bold;">Maangalya Signature
+</h2>
 							
 					
 					
-							<p style="text-align: justify;">Maangalya Signature, JP Nagar 9th Phase, South Bangalore on the eastern part of Kanakapura Road close to Konanakunte cross and up coming FORUM Mall. It is significant to note that soon Metro would link it to entire Bangalore like never before. The Green Line of Namma Metro will soon have a terminal station at Anjanapura, making Maangalya Prosper Signature Block, the most desired destination of home-seekers, it has excellent connectivity to NICE Road which connects all corners of Bangalore. Maangalya boasts of a spectacularly and amazingly designed lightings that grace the beauty of the entire apartment. All the units are well-ventilated to let in more breeze, light and hence sooth your frayed nerves. As the entire structure is vaastu compliant, you are assured of blessings all the way.</p>
+							<p style="text-align: justify;">Maangalya Signature, located in prime location within JP Nagar 9th Phase, is one of the well-know projects in South Bangalore and is situated on the eastern part of Kanakapura Road close to Konanakunte cross and up coming FORUM Mall. This project is considered to be in prime location since the soon to start Metro would be linking this project to entire Bangalore so that you can commute anywhere with relative ease. The Green Line of Namma Metro will soon have a terminal station at Anjanapura, making Maangalya Signature, the most desired destination of home-seekers. Moreover, it has excellent connectivity to NICE Road which connects you to all corners of Bangalore. This project also boasts of a spectacularly and amazingly designed architecture desgined specifically to grace the beauty of each and every apartment. All the units are well-ventilated to let in fresh air and more breeze, light and hence sooth and refresh your frayed nerves. Last but not the least, the entire structure is vaastu compliant, so you are assured of well-being and happiness in your life. Luxurious 2 & 3 bhk apartments, starting 69L Onwards*.
+</p>
 							<!--<a class="mt-3" href="about.php">Read More <i class="fas fa-long-arrow-alt-right"></i></a>-->
 						</div>
 					</div>
@@ -187,13 +189,16 @@
 								<div class="col-lg-6">
 														
 								
-										<h4 class="mb-2">Working From Home</h4>
-										<p style="text-align: justify;">Working from home is a nice idea to save time and get rid of the traffic woes, stress and
-pollution as well. However the atmosphere at home is not always conducive to the work
-culture you expect. At Mangalya Signature we have designed separate work stations at the
-ground floor, equipped with wi-fi and a cafeteria to boot so that you can log in to your office
-and keep working, day in and day out, sipping coffee in between. And that's every techie's
-dream of work life balance, isn't it?</p>
+										<h4 class="mb-2">Our USPs
+</h4>
+										<p style="text-align: justify;">All flats according to VAASTU<br>
+Only 16% Loading<br>
+Close to Namma Metro<br>
+Branded Materials with warranty<br>
+CC Obtained for Phase 1<br>
+Solar power for common area<br>
+Cauvery water connected for the project
+</p>
 									
 								
 								</div>
