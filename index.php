@@ -101,7 +101,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-0 text-color-dark text-center">Why Maangalya?</h2>
+								<h2 class="mb-0 text-color-dark text-center"><b>Why Maangalya?</b></h2>
 								
 							</div>
 						</div>
@@ -200,7 +200,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 					<div class="container">
 						<div class="row pt-4">
 							<div class="col">
-								<h2 class="mb-4 text-color-dark text-center">Projects</h2>
+								<h2 class="mb-4 text-color-dark text-center"><b>Projects</b></h2>
 								<h5 class="mb-2 text-center" style="width: 100%;">Apartment Projects That Redefine Excellence
 
 </h5>
@@ -261,7 +261,7 @@ Being a premier property developer, we aim to constantly innovate and enhance ou
 
 				<section class="section section-background mb-4" style="background-image: url(img/new_images/what-u-say-over-client-bg.jpg); background-position: 50% 100%; background-size: cover;">
 					<div class="container">
-						<div class="row justify-content-end">
+						<div class="row justify-content-center">
 							<div class="col-lg-6">
 								
 								<div class="owl-carousel owl-theme nav-bottom rounded-nav mt-4 pt-4 mb-4 pb-4" data-plugin-options="{'items': 1, 'loop': false}">
