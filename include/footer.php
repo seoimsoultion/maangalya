@@ -34,11 +34,11 @@
 
 
 
-                    <p style="padding-top:10px;"><i class="fas fa-phone"></i>(+91) 9343660660</p>
+                    <p style="padding-top:10px;" class="footerContact"><i class="fas fa-phone"></i>(+91) 9343660660</p>
 
 
 
-                    <p> <a href="mailto:sales@maangalya.co.in">info@maangalyaprojects.com</a></p>
+                    <p class="footerContact"> <a href="mailto:sales@maangalya.co.in">info@maangalyaprojects.com</a></p>
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-            <div class="col-md-4 ">
+            <div class="col-md-4  d-none d-sm-block">
 
 
 
@@ -848,7 +848,191 @@
 
             </div>
 
+<div class="col-md-4  d-sm-block d-md-none">
 
+
+
+                <div class="row">
+
+
+
+                    <div class="col-lg-12 mb-2 text-center">
+
+
+
+                        <h4>Navigation</h4>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+                <div class="row">
+
+
+
+                    <div class="col-6 mb-0">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="https://www.maangalyaprojects.com/">
+
+
+
+                                    Home
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="aboutus.php">
+
+
+
+                                    About Us
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="whyus.php">
+
+
+
+                                    Why Maangalya
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                    <div class="col-6" style="padding-left: 10px;">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="joint-development.php">
+
+
+
+                                    Joint Development
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="channel-partner.php">
+
+
+
+                                    Channel Partners
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="contact.php">
+
+
+
+                                    Contact
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+            </div>
 
             
 

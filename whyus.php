@@ -164,7 +164,7 @@ html section.section-primary{
 									<p class="text-color-dark text-5 line-height-5 mb-0">Fresh Air, landscaped views, & great sunset views, lots of natural light, beautiful breeze in the balcony at all times, inner peace, large rooms, decent and really superb.</p>
 								</blockquote>
 								<div class="testimonial-author">
-									<p><strong class="font-weight-extra-bold text-3 mb-1">Hamsa Pramod</strong><span>Client</span></p>
+									<p class="whyusTestimonials"><strong class="font-weight-extra-bold text-3 mb-1">Hamsa Pramod</strong><span>Client</span></p>
 								</div>
 							</div>
 						</div>
@@ -175,7 +175,7 @@ html section.section-primary{
 									<p class="text-color-dark text-5 line-height-5 mb-0">Mangalya Prosper JP Nagar 9th phase Anjanapura very much isolated place but calm and peace.</p>
 								</blockquote>
 								<div class="testimonial-author">
-									<p><strong class="font-weight-extra-bold text-3 mb-1">Santosh Rarathodi</strong><span>Client</span></p>
+									<p class="whyusTestimonials"><strong class="font-weight-extra-bold text-3 mb-1">Santosh Rarathodi</strong><span>Client</span></p>
 								</div>
 							</div>
 						</div>

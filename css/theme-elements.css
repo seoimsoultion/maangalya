@@ -11891,6 +11891,14 @@ html.boxed .slider-container {
 	font-size: 1rem;
 }
 
+.whyusTestimonials strong{
+	color:#595858 !important;
+}
+
+.whyusTestimonials span{
+	color:#595858 !important;
+}
+
 .testimonial .testimonial-author span {
 	color: #e0dede;
 	display: block;
@@ -12918,6 +12926,7 @@ html.boxed .slider-container {
 	margin: 0;
 	padding: 15px 0;
 	display: block;
+	text-align: justify;
 }
 
 /* Thumb Info Side Image	*/
@@ -13211,6 +13220,25 @@ section.timeline .timeline-box .owl-carousel {
 		width: 100%;
 		margin: 0;
 	}
+	.footerContact{
+		text-align: center;
+	}
+
+	.testimonial.testimonial-with-quotes blockquote p{
+		    padding: 10px !important;
+	}
+
+	#who-we-are h2{
+		text-align: center;
+	}
+
+	#leadership h2{
+		text-align: center;
+	}
+
+	footer .list-footer-nav li{
+		text-align: left;
+	}
 }
 
 @media (max-width: 575px) {
@@ -13501,6 +13529,7 @@ p {
 	color: #777;
 	line-height: 26px;
 	margin: 0 0 20px;
+	text-align: justify;
 }
 
 p.featured {

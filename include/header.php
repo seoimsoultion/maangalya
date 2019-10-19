@@ -62,8 +62,8 @@
                                  <?php $url= basename($_SERVER['PHP_SELF']); ?>
                                  <li> <a class="nav-link <?php if($url=='index.php') {echo ' active '; } ?>" href="https://www.maangalyaprojects.com/">															Home														</a> </li>
                                  <li> <a class="nav-link <?php if($url=='aboutus.php') {echo ' active '; } ?>"  href="aboutus.php">															About Us														</a> </li>
-                                 <li class="dropdown <?php if($url=='maangalya-signature.php' || $url=='maangalya-park-avenue.php') {echo ' active '; } ?>">
-                                    <a class="nav-link dropdown-toggle" href="#">															Projects														</a>
+                                 <li class= "  dropdown ">
+                                    <a class="nav-link dropdown-toggle <?php if($url=='projects.php' || $url=='maangalya-signature.php' || $url=='maangalya-park-avenue.php') {echo ' active '; } ?>" href="projects.php">															Projects														</a>
                                     <ul class="dropdown-menu">
                                        <li><a class="dropdown-item" href="maangalya-signature-apartments-in-jp-nagar">Maangalya Signature</a></li>
                                     </ul>

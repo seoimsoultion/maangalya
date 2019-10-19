@@ -171,11 +171,11 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                           <img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="">
+                           <a href="maangalya-signature-apartments-in-jp-nagar"><img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="">
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Signature</span>
                            <span class="thumb-info-type">J P Nagar</span>
-                           </span>
+                           </span></a>
                            </span>
                            <span class="thumb-info-caption">
                            <span class="thumb-info-caption-text">At Maangalya Signature, we present premium apartments that are right within city, yet away from the hustle-bustle and offer a blissful natural setting for you to cherish. You will certainly enjoy the 60% open space with the project spread over a vast area of 3 acres.</span>
@@ -185,11 +185,11 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                           <img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
+                            <a href="#"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Park-Avenue</span>
                            <span class="thumb-info-type">J P Nagar</span>
-                           </span>
+                           </span></a>
                            </span>
                            <span class="thumb-info-caption">
                            <span class="thumb-info-caption-text">Maangalya Park-Avenue is considered an architectural marvel, a perfect blend of aesthetics & modernity. It draws admiration due to eye to detail we have put at every stage of the development. Right from material to finishes, everything has been meticulously planned.</span>
@@ -284,7 +284,7 @@
                <h2 class="mb-4 text-color-dark text-center"><b>Brands Associated With</b></h2>
                <div class="row">
                   <div class="col-lg-12 text-center">
-                     <div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
+                     <div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6,'responsiveClass':true, 'autoplay': true, 'autoplayTimeout': 3000}">
                         <div>
                            <img class="img-fluid" src="img/new_images/brand/1.jpg" alt="">
                         </div>

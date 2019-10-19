@@ -130,7 +130,7 @@ include 'include/header.php';
 
                         <div class="box-content">
 
-                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">&nbsp;</h4>
+                            
 
 
 
@@ -654,15 +654,11 @@ include 'include/header.php';
 
                                 <div class="form-group row">
 
-                                    <div class="form-group col-lg-9">
+                                   
 
+                                    <div class="form-group col-lg-12 text-center">
 
-
-                                    </div>
-
-                                    <div class="form-group col-lg-3">
-
-                                        <input type="submit" value="Save" class="btn btn-primary btn-modern float-right" data-loading-text="Loading...">
+                                        <input type="submit" id="saveInput" value="Save" class="btn btn-primary btn-modern " data-loading-text="Loading...">
 
                                     </div>
 
@@ -715,7 +711,8 @@ include 'include/footer.php';
 <script>
 grecaptcha.ready(function() {	   grecaptcha.execute('6Ld9Wb4UAAAAAOVMj4Q-DeN9-bMo1IItwe65Q-GP', {action: 'homepage'}).then(function(token) {		  $('#fcon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#con').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#ccon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#cp').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#al').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');	   });	});
     $("#con").submit(function () {
-
+$("#saveInput").val("Please Wait");
+                $('#saveInput').attr('disabled', 'disabled');
         var str = $(this).serialize();
 
         $.ajax({
@@ -727,7 +724,8 @@ grecaptcha.ready(function() {	   grecaptcha.execute('6Ld9Wb4UAAAAAOVMj4Q-DeN9-bM
             data: str,
 
             success: function (msg) {
-
+$('#saveInput').removeAttr('disabled');
+ $("#saveInput").val("Enquire Now");
                 if (msg == 'OK') {
 
                     result = '<p style="color:green; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';

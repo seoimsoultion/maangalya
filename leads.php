@@ -60,9 +60,9 @@ if (isset($_POST['register_channel_partner'])) {
 
         if ($row1) {
 
-            $to = 'lokesh@imsolutions.mobi'; 
-            $to1 = 'lokesh@imsolutions.mobi'; //cp@maangalya.co.in 
-            $to2 = 'hamalton@imsolutions.mobi '; //info@imsolutions.mobi
+            $to = 'info@imsolutions.mobi'; 
+            $to1 = 'info@maangalyaprojects.com'; 
+            $to2 = 'hamalton@imsolutions.mobi '; 
             $subject = "Successfully Registered as a Channel Partner.";
             $subject_1 = "New  Registration Form as Channel Partner by " . $contact_person_name;
             $from = 'noreply@maangalya.co.in';
@@ -218,8 +218,8 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
         }
         if ($row1) {
 
-            $to1 = 'hamalton@imsolutions.mobi'; //cp@maangalya.co.in 
-            $to2 = 'lokesh@imsolutions.mobi'; //info@imsolutions.mobi
+            $to1 = 'info@imsolutions.mobi'; 
+            $to2 = 'info@maangalyaprojects.com'; 
             $subject = " New Lead has been Registered Successfully";
             $subject_1 = "Lead Mail for Channel Partner by " . $partner_id;
             $from = 'noreply@maangalya.co.in';
