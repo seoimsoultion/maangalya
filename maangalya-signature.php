@@ -6,11 +6,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Maangalya</title>	
+		<title>2 BHk & 3 BHK Apartments for Sale in anjanapura, JP Nagar, Bangalore | Maangalya Signature</title>	
 
-		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="keywords" content="" />
+		<meta name="description" content="Maangalya Signature offers 2 BHk & 3 BHK apartments for sale in anjanapura, JP Nagar, Bangalore. Find more details of Maangalya Signature Brochure, Price, Floor Plans, Address/Location and Reviews.">
+		<meta name="author" content="">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/new_images/favicon.png" type="image/x-icon" />

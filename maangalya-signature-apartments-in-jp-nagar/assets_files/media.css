@@ -1,0 +1,238 @@
+
+@media only screen and (max-width: 600px){
+	body{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 12px;
+	}
+	/*Header*/
+	.circle {
+		border-radius: 50%;
+		width: 140px;
+		height: 140px;
+		z-index: 99;
+	}
+	.navbar-brand>img {
+		margin: 0 auto;
+		padding-top: 43px;
+		width: 70px;
+	}
+	#price .modal-dialog {
+    		width: 95%;
+	}
+        .config-content h3 {
+    font-size: 19px;
+}
+        #location h3 {
+    font-size: 21px;
+}        
+.bannerpatch1 {
+    bottom: 30%;
+}
+.bannerpatch1 img.ban-img1 {
+    margin: 0 0px;
+    width: 65px;
+}
+.mob-logo {display: none;}
+.desk-logo {display: block;}
+
+	.navbar-default {
+		height: 68px !important;
+	}
+
+        #popupModal .modal-dialog {
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+
+
+	
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #fff;
+	}
+	.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+		height: inherit;
+	}
+	.navbar-nav>li {
+		padding: 8px;
+	}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+		background-color: #fff;
+	}
+	.navbar-default .navbar-toggle:hover .icon-bar {
+		background-color: #000;
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: #777;
+		text-align: center;
+	}
+	#myNavbar{
+		background: #000;
+		margin: 0 auto;
+	}
+	/*Slider*/
+	.carousel {
+		position: relative;
+		margin-top: 58px;
+	}
+
+	/*About*/
+	/*.section-head{
+		font-size: 20px;
+		}*/
+		.about-lamp img{
+			width: 100px;
+		}
+		.about-lamp{
+			z-index: 999;
+		}
+		.about-bg, .about-bg2{
+			height: inherit;
+		}
+		.aboutus-block {
+			height: inherit;
+			/*right: 0;*/
+			left: 0;
+		}
+		.aboutus-block1 {
+			height: inherit;
+			right: 0;
+		}
+		.about-content{
+			margin: 5px;
+		}
+		.about-mobimg{
+			margin: 15px 0;
+		}
+		.table{
+			width: 100%;
+		}
+		.about-content p{
+			font-size: 12px;
+		}
+
+		/*Amenities*/
+		section#amenities {
+			padding: 60px 0;
+		}	
+		.amenitieshead{
+			position: inherit;
+			text-align: center;
+			padding: 20px 0;
+		}
+		.amenities-container{
+			padding: 0;
+		}
+		.floor-lamp img{
+			height: inherit;
+		}
+		.floor-lamp{
+			margin-top: -40px;
+		}
+		.circle-block{
+			height: 170px;
+		}
+		.circle-block h4{
+			font-size: 12px;
+		}
+		.ame-border{
+			display: none;
+		}
+
+
+		/*Gallery*/
+		.gal-lamp img{
+			width: 130px;
+		}
+		.gal-head{
+			position: inherit;
+			margin-top: 50px;
+			text-align: center;
+			padding: 0 25px;
+			text-transform: uppercase;
+			
+		}
+		.gal-head span{
+			
+
+		}
+		.bannerPatch {
+			position: absolute;
+			left: 0;
+			top: inherit; 
+			right:inherit;
+			z-index: 999;
+			bottom: 0;
+		}
+		.bannerPatch img {
+			width: 150px;
+		}
+		.demo-gallery {
+			margin-top: 60px;
+		}
+		.navbar-toggle {
+			position: relative;
+			float: right;
+			margin-right: 10px;
+			padding: 9px 10px;
+			margin-top: 15px;
+			background: #000;
+		}
+		.mob-logo{
+
+			
+			z-index: 999;
+			/* right: 79px; */
+			top: 60px;
+			left: 170px;
+		}
+
+		.mob-logo img{
+                width: 180px;
+                padding-top: 8px !important;
+                background-color: #fff;
+		}
+		#sitevisit button#submitf {
+			margin-top: 15px;
+		}
+
+		/*Location Map*/
+		.location-txt{
+			width: 100%;
+		}
+		.dots {
+			position: relative;
+			top: -5px;
+			left: 50px;
+		}
+
+		/*Form*/
+		#instant-callback-div{
+			top:30%;
+		}
+		section{
+			position: inherit;
+		}
+	}
+
+@media only screen and (max-width:680px) 
+{
+.fixeddiv, .modal-open{
+position: fixed;
+}
+.mob-logo {display: block;}
+.desk-logo {display: none;}
+.nav>li>a {color: #fff;}
+	.about-bg{
+	
+		height: 600px;
+		
+	}
+		.nav>li>a {
+		font-family: 'Lato', sans-serif;
+		color: #fff !important;
+	
+	}
+}

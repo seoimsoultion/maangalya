@@ -2,9 +2,10 @@
 
 session_start();
 
-define("WEBMASTER_EMAIL", 'ravi.k@imsolutions.mobi');
-define("WEBMASTER_EMAIL1", 'ravi.k@imsolutions.mobi');
-define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');
+define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
+define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+define("WEBMASTER_EMAIL2", 'karthik@imsolutions.mobi');
+define("WEBMASTER_EMAIL3", 'info@imsolutions.mobi');
 
 //define("WEBMASTER_EMAIL1", 'lokesh@imsolutions.mobi'); 
 error_reporting(E_ALL ^ E_NOTICE);
@@ -68,7 +69,7 @@ if ($_POST) {
 
 
     $email_name = "Maangalya";
-    $email_to = "noreply@maangalya.co.in";
+    $email_to = "noreply@maangalyaprojects.com";
 
     $headers = 'MIME-Version: 2.0' . "\r\n";
     $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -92,7 +93,7 @@ if ($_POST) {
         </tr>
         <tr style="background-color:#f5f5f5">
                 <th style="vertical-align:top; color:#222; text-align:left; padding:7px 9px 7px 9px; border-top:1px solid #eee">Phone Number <span style="color:red">*</span></th>
-                        <td style="vertical-align:top;c olor:#333; width:60%; padding:7px 9px 7px 0; border-top:1px solid #eee">' . $phone . '</td>
+                        <td style="vertical-align:top;c olor:#333; width:60%; padding:7px 9px 7px 0; border-top:1px solid #eee">' .$ccode. $phone . '</td>
         </tr>
 		<tr>
                 <th style="vertical-align:top; color:#222; text-align:left; padding:7px 9px 7px 9px; border-top:1px solid #eee">Message <span style="color:red">*</span></th>
@@ -100,18 +101,18 @@ if ($_POST) {
         </tr>
 		
 </table>';
-    /*$mail = mail(WEBMASTER_EMAIL, $subject, $message, $headers, '-freturn@maangalya.co.in');
-    $mail1 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalya.co.in');
-    $mail2 = mail(WEBMASTER_EMAIL2, $subject, $message, $headers, '-freturn@maangalya.co.in');
+    /*$mail = mail(WEBMASTER_EMAIL, $subject, $message, $headers, '-freturn@maangalyaprojects.com');
+    $mail1 = mail(WEBMASTER_EMAIL1, $subject, $message, $headers, '-freturn@maangalyaprojects.com');
+    $mail2 = mail(WEBMASTER_EMAIL2, $subject, $message, $headers, '-freturn@maangalyaprojects.com');
     if ($mail || $mail1 || $mail2) {
-        $mail = mail($email, 'Thanks for contacting us', '<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>', $headers, '-freturn@maangalya.co.in');
+        $mail = mail($email, 'Thanks for contacting us', '<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>', $headers, '-freturn@maangalyaprojects.com');
         echo 'OK';
     }*/
 
     
       $response = $_POST['g-recaptcha-response'];
       $url = 'https://www.google.com/recaptcha/api/siteverify';
-      $key = '6LfnPr4UAAAAAONZSM7o7K2pUu6sir_Iy-MPs1wZ';
+      $key = '6Ld9Wb4UAAAAAAf2XQAZVasm1sLPL2MKDuVaCK4E';
       $data = array('secret' => $key, 'response' => $response);
       $options = array(
       'http' => array(
@@ -127,13 +128,45 @@ if ($_POST) {
 	} else {
       $result = json_decode($result);
       if ($result->success) {
-      $mail = mail(WEBMASTER_EMAIL,$subject,$message,$headers,'-freturn@maangalya.co.in');
-      $mail1 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalya.co.in');
-      $mail2 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalya.co.in');
-      if($mail || $mail1 || $mail2)
+      $mail = mail(WEBMASTER_EMAIL,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      $mail1 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      $mail2 = mail(WEBMASTER_EMAIL2,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+	  $mail2 = mail(WEBMASTER_EMAIL3,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      if($mail || $mail1 || $mail2 || $mail3)
       {
-      $mail = mail($email,'Thanks for contacting us','<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>',$headers,'-freturn@maangalya.co.in');
+      $mail = mail($email,'Thanks for contacting us','<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>',$headers,'-freturn@maangalyaprojects.com');
       echo 'OK';
+      date_default_timezone_set('Asia/Kolkata');
+            
+      include './../google/vendor/autoload.php';
+
+      $client = new Google_Client();
+      $client->setApplicationName('google sheet');
+      $client->setScopes([\Google_Service_Sheets::SPREADSHEETS]);
+      $client->setAccessType('offline');
+      $client->setAuthConfig('./../google/My Project 34423-e76a5ec1940f.json');
+      $service = new Google_Service_Sheets($client);
+      $spreadsheetId = "1FmJel_VguFE7pKzs4G5mW3yn0_Z7RzRVKO81rGXXAVA"; // 1nkL--3PL7GkDPoc16iOvIp5pkC-ZNjH6DunaqBnEm2k
+      //key  AIzaSyCNh9u_soB83I8DBjl6tZ81K6zrtI0LZtc
+
+      $range = "A1:E1";
+
+      $values = [
+          [$name, $email, $phone, $query, date('d-m-Y H:i'), 'Footer Form'],
+      ];
+      $body = new Google_Service_Sheets_ValueRange([
+          'values' => $values,
+      ]);
+      $params = [
+          'valueInputOption' => 'RAW',
+      ];
+      $insert = [
+          'insertDataOpton' => "INSERT_ROWS",
+      ];
+      $result = $service->spreadsheets_values->append($spreadsheetId, $range, $body, $params, $insert);
+/////////////////////////////////google sheet code end here/////////////////////////
+
+
       }
       } else {
       $error = true;

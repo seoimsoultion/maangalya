@@ -8,9 +8,9 @@
 
 		<title>Maangalya</title>	
 
-		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="keywords" content="" />
+		<meta name="description" content="">
+		<meta name="author" content="">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/new_images/favicon.png" type="image/x-icon" />

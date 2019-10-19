@@ -2,7 +2,9 @@
 
 session_start();
 
-define("WEBMASTER_EMAIL", 'ravi.k@imsolutions.mobi');define("WEBMASTER_EMAIL1", 'ravi.k@imsolutions.mobi');define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');
+define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
+define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+define("WEBMASTER_EMAIL2", 'info@imsolutions.mobi');
 /*define("WEBMASTER_EMAIL", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL2", 'lokesh@imsolutions.mobi');*/
@@ -93,7 +95,7 @@ if ($_POST) {
         </tr>
         <tr style="background-color:#f5f5f5">
                 <th style="vertical-align:top; color:#222; text-align:left; padding:7px 9px 7px 9px; border-top:1px solid #eee">Phone Number <span style="color:red">*</span></th>
-                        <td style="vertical-align:top;c olor:#333; width:60%; padding:7px 9px 7px 0; border-top:1px solid #eee">' . $phone . '</td>
+                        <td style="vertical-align:top;c olor:#333; width:60%; padding:7px 9px 7px 0; border-top:1px solid #eee">' . $ccode.$phone . '</td>
         </tr>
 		<tr>
                 <th style="vertical-align:top; color:#222; text-align:left; padding:7px 9px 7px 9px; border-top:1px solid #eee">Message <span style="color:red">*</span></th>
@@ -112,7 +114,7 @@ if ($_POST) {
    
       $response = $_POST['g-recaptcha-response'];
       $url = 'https://www.google.com/recaptcha/api/siteverify';
-      $key = '6LfnPr4UAAAAAONZSM7o7K2pUu6sir_Iy-MPs1wZ';
+      $key = '6Ld9Wb4UAAAAAAf2XQAZVasm1sLPL2MKDuVaCK4E';
       $data = array('secret' => $key, 'response' => $response);
       $options = array(
       'http' => array(
