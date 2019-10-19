@@ -64,7 +64,8 @@
 
                             <div class="form-group row">
 
-                                <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Your Name </label>
+                                <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Name </label>
+
 
                                 <div class="col-lg-9">
 
@@ -550,11 +551,11 @@
 
                             <div class="form-group row">
 
-                                <div class="form-group col-lg-9"> </div>
+                               
 
-                                <div class="form-group col-lg-3">
+                                <div class="form-group col-lg-12 text-center">
 
-                                    <input type="submit" value="Submit" id="enquire_now" class="btn btn-primary btn-modern float-right" data-loading-text="Loading..."> </div>
+                                    <input type="submit" value="Submit" id="enquire_now" class="btn btn-primary btn-modern " data-loading-text="Loading..."> </div>
 
                             </div>
 
@@ -582,7 +583,8 @@
 
                             <li><i class="icon-call-end icons"></i> <strong>Phone:</strong> (+91) 9343660660</li>
 
-                            <li><i class="icon-envelope icons"></i> <strong>Email:</strong> <a href="mailto:sales@maangalya.co.in">sales@maangalya.co.in</a></li>
+                            <li><i class="icon-envelope icons"></i> <strong>Email:</strong> <a href="mailto:info@maangalyaprojects.com"/>info@maangalyaprojects.com</a></li>
+
 
                         </ul>
 

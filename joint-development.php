@@ -130,7 +130,7 @@ include 'include/header.php';
 
                         <div class="box-content">
 
-                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">I'm a Returning Customer</h4>
+                            <h4 class="color-primary font-weight-semibold text-4 text-uppercase mb-3">&nbsp;</h4>
 
 
 

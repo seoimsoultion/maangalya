@@ -12914,7 +12914,7 @@ html.boxed .slider-container {
 }
 
 .thumb-info-caption .thumb-info-caption-text, .thumb-info-caption p {
-	font-size: 14px;
+	font-size: 0.9em;
 	margin: 0;
 	padding: 15px 0;
 	display: block;
@@ -15210,7 +15210,6 @@ ul.team-list .team-item .thumb-info-social-icons {
 /* Responsive */
 @media (max-width: 575px) {
 	.slider-container {top:75px!important;}
-	.mob-pt55 {padding-top: 55px;}
 	.http-error {
 		padding: 0;
 	}
@@ -15219,9 +15218,5 @@ ul.team-list .team-item .thumb-info-social-icons {
 		font-size: 100px;
 		letter-spacing: 0;
 		line-height: 100px;
-	}
-
-	.forcefullwidth_wrapper_tp_banner{
-		min-height: 220px!important;
 	}
 }
