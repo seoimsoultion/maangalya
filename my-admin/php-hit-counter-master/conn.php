@@ -4,9 +4,9 @@
 
 // DB CONNECT INFO
 $db_host = "localhost";
-$db_name = "maangalya";
-$db_user = "root";
-$db_pw = "";
+$db_name = "maangalya_co";
+$db_user = "maangalya_co";
+$db_pw = "RSf3jn~+z)K7";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "page_count";

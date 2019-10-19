@@ -36,8 +36,8 @@ if (isset($_POST['btn-login'])) {
                 
 				$stmt = $DBcon->query("UPDATE admin SET tokenCode= '$code' WHERE email= '$email'");
                 $to=$email;
-                $subject="Token Code Form gurga";
-                $from = 'noreply@gurga.com';
+                $subject="Token Code Form Maangalya";
+                $from = 'noreply@maangalya.co.in';
                 $body='Your Token Code Is '.$code;
                 $headers = "From: " . strip_tags($from) . "\r\n";
                 $headers .= "Reply-To: ". strip_tags($from) . "\r\n";
@@ -122,7 +122,7 @@ if (isset($_POST['btn-login'])) {
 <body >
 <div class="layout">
 	<div class="container">
-		<center><a href="./"><img src="../img/new_images/logo.png" alt="maangalya" ></a>
+		<center><a href="./"><img src="../img/maangalya/MAANGALYA-_New-Logo.jpg" alt="maangalya" ></a>
 		</center>
 		<br/>
 		<center>

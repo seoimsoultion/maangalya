@@ -12914,7 +12914,7 @@ html.boxed .slider-container {
 }
 
 .thumb-info-caption .thumb-info-caption-text, .thumb-info-caption p {
-	font-size: 0.9em;
+	font-size: 14px;
 	margin: 0;
 	padding: 15px 0;
 	display: block;
