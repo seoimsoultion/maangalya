@@ -33,7 +33,7 @@ if ($_POST) {
     $phone = stripslashes(trim($_POST['phone']));
     $query = stripslashes(trim($_POST['message']));
    // $captcha = $_POST['g-recaptcha-response'];
-    $subject = 'Enquiry form Maangalya Projects Home Page';
+    $subject = 'Enquiry from Maangalya Projects Joint development ';
 
 
     $error = '';

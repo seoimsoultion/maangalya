@@ -7,7 +7,7 @@ session_start();
 
 
 define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
-define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+//define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL2", 'info@imsolutions.mobi');
 
 
@@ -62,7 +62,7 @@ if ($_POST) {
 
    // $captcha = $_POST['g-recaptcha-response'];
 
-    $subject = 'Enquiry form Maangalya Microsite '.$microsite_name;
+    $subject = 'Enquiry from Maangalya Microsite '.$microsite_name;
 
 
 
@@ -138,7 +138,7 @@ if ($_POST) {
 
     $email_name = "Maangalya";
 
-    $email_to = "noreply@maangalya.co.in";
+    $email_to = "noreply@maangalyaprojects.com";
 
 
 

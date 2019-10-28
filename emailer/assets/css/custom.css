@@ -1,0 +1,154 @@
+.form-top {width: 72%; margin-top: 40%; 
+
+background-image: linear-gradient(to bottom, #2A60A8 , #2A60A8);
+	padding: 15px; border-radius: 15px;}
+.logo img {width: 50%;
+    padding-bottom: 5px;padding-top:10px}
+.fa-stack img {position: absolute; padding: 13px 10px;}
+.mob-only {display: none;}
+.desk-only {display: block;}
+textarea.form-control {
+    height: 40px;
+}
+.form-box {width: 25%; position: absolute; right: 10%; background: #2A60A8;
+top:25%; border-radius: 10px; padding-bottom: 15px;}
+.modal-dialog {
+    width: 450px;
+    margin: 30px auto;
+}
+a #popupForm {cursor: pointer;}
+.bot-head i {font-size: 12px;}
+.bot-head ul {line-height: 26px;}
+.rerano {font-size: 12px;}
+.bot-head h4
+{
+  width:100%;
+  font-weight: bold;float: left;
+  position: relative;
+}
+
+.bot-head h4:after {
+  content: '';
+  border-bottom: 2px #ea032d solid;
+  position: absolute;
+  top:25px;
+  left: 0px;
+  width:40px;
+}
+.red { background:#d62628; }
+.grey {background: #dbd5d5; color: #000!important;}
+.grey a {color: #000!important;}
+.nuber-circle {
+width: 50px;
+    height: 50px;
+    background: #edebe9;
+    color: #000;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 50%;
+    margin: 10px 3px;
+    margin: 40px 0 30px 0;
+    position: relative;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 2px 2px 2px #767574;}
+
+
+
+.upsbox {color: #fff!important; background: #d62628; min-height:70px;position: relative; text-align: center; }
+.upsbox1 {color: #000!important; background: #dbd5d5;min-height: 70px; 
+  text-align: center; position: relative;}
+
+.upsbox1 span, .upsbox span{  margin: 0;
+  position: absolute;
+  top: 73%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); width:100%;}
+
+.form-group {
+    margin-bottom: 8px;
+}
+.list {font-weight: normal;}
+.list li  {font-weight: normal;}
+.list h4 {color: #f64c95;}
+.about-list {padding-left: 20px;}
+.about-list li {color: #6d7a83;padding-bottom: 10px; list-style: square;}
+.top-box {padding: 30px 0; background: #2A60A8 ;text-align: center; font-weight: bold;}
+.top-box span {font-weight: normal;}
+.tob-box h4 {color: #16afff!important; font-weight: bold;}
+.amenity-box img{ width: 90%; padding-bottom: 10px;   }
+.amenity-box {text-align: center; font-size: 22px; }
+.amenity-box a {color: #000!important;}
+.amenity-box div {margin-bottom: 20px;}
+@media (max-width: 767px) {
+	.mob-only {display: block!important;}
+.desk-only {display: none!important;}
+.form-top {width: 100%; margin-top: 50px; }
+.mob-logo {padding-top: 100px; float: right; padding-right: 20px; width:60%;}
+.schedule-tabs.lv1 { background: transparent; padding-top: 10px; }
+.schedule-wrapper .schedule-tabs.lv1 .nav > li > a {background: transparent; margin: 10px 15px;
+min-height: 40px; padding-top: 10px!important; border-radius: 6px; border:none;}
+.schedule-wrapper .schedule-tabs.lv1 .nav > li > a:hover {
+    background: #b8a378;
+    color: #000;
+
+}
+.nuber-circle {display: none;}
+.modal-dialog {
+    width: auto!important;
+    margin: 30px 10px;
+}
+.upsbox1 span, .upsbox span {
+  
+    top: 53%!important;
+
+}
+.mob-center {text-align: center;}
+.bot-head h4:after {display: none;}
+.form-box {display: none;}
+.wide .page-section.background-img-slider,
+.boxed .page-section.background-img-slider > .container {
+background: transparent url(../img/preview/background-img-slider-mob.jpg) no-repeat !important;
+    background-position: 100% 0 !important;
+    background-size: 100%!important;
+}
+}
+
+@media (max-width: 768px) {
+  .form-box {width: 50%;}
+
+}
+@media (max-width: 600px) {
+#main {
+height: auto;
+    max-height: 212px;
+    padding-top: 70px;
+    }
+  }
+.schedule-tabs.lv1 { background: #dbd5d5 }
+table th,table td {text-align: center}
+table tr td:last-child a{
+  color:#f64c95
+}
+
+table tr:first-child th h3{
+  color:#d62628
+}
+table  tr th:last-child ,table  tr th:last-child h3,table  tr td:last-child a{
+ display: none
+}
+table tr td:first-child,
+table tr td:nth-child(3) ~ td {
+  display: none;
+}
+
+table tr th:first-child,
+table tr th:nth-child(3) ~ th {
+  display: none;
+}
+.schedule-wrapper .schedule-tabs.lv1 .nav > li > a:hover {background: #dbd5d5;color:#d62628}
+.page-sections{padding-top:150px;padding-bottom:70px;position:relative;background-color:#fbfbfb}
+.boxed .page-section.color > .container, .wide .page-sections.colors{ background-image: linear-gradient(to right,#2a60a8,#2a60a8 ,#2a60a8);color: #fff;}

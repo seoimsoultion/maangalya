@@ -714,6 +714,10 @@ Theme Version:	7.5.0
 	.arrow {
 		display: none;
 	}
+
+	.mobileFormInput{
+		margin-top:20px!important;
+	}
 }
 /* Background Scales Overlay */
 .bg-color-scale-overlay {

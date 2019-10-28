@@ -66,7 +66,6 @@
 
                                 <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Name </label>
 
-
                                 <div class="col-lg-9">
 
                                     <input class="form-control" required type="text" name="name" placeholder="Name"> </div>
@@ -584,7 +583,6 @@
                             <li><i class="icon-call-end icons"></i> <strong>Phone:</strong> (+91) 9343660660</li>
 
                             <li><i class="icon-envelope icons"></i> <strong>Email:</strong> <a href="mailto:info@maangalyaprojects.com"/>info@maangalyaprojects.com</a></li>
-
 
                         </ul>
 

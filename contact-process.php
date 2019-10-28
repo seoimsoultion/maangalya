@@ -3,7 +3,7 @@
 session_start();
 
 define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
-define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+//define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL2", 'karthik@imsolutions.mobi');
 define("WEBMASTER_EMAIL3", 'info@imsolutions.mobi');
 
@@ -31,7 +31,7 @@ if ($_POST) {
     $phone = stripslashes(trim($_POST['phone']));
     $query = stripslashes(trim($_POST['message']));
    // $captcha = $_POST['g-recaptcha-response'];
-    $subject = 'Enquiry form Maangalya Projects ';
+    $subject = 'Enquiry from Maangalya Projects';
 
 
     $error = '';
@@ -80,7 +80,7 @@ if ($_POST) {
 		
 		<tr align="center">
 			<td colspan="3" style="text-align:center;">
-				<img src="http://demo.imsolutions.in/maangalya_co/img/new_images/logo.png">
+				<img src="https://www.maangalyaprojects.com/img/new_images/logo.png">
 			</td>
         </tr>
 		<tr style="background-color:#f5f5f5">

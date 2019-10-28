@@ -185,7 +185,7 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                            <a href="#"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
+                           <a href="#"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Park-Avenue</span>
                            <span class="thumb-info-type">J P Nagar</span>

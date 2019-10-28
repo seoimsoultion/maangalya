@@ -31,14 +31,14 @@
 
 
                 <div>
+    <p style="padding-top:10px;" class="footerContact">Royal Park residency Layout 1,<br> JP Nagar 9th Phase, J. P. Nagar, <br/>Bengaluru, Karnataka 560062</p>
+                    <p></p>
+
+                    <p style="padding-top:10px;" class="footerContact">Phone: (+91) 9343660660</p>
 
 
 
-                    <p style="padding-top:10px;" class="footerContact"><i class="fas fa-phone"></i>(+91) 9343660660</p>
-
-
-
-                    <p class="footerContact"> <a href="mailto:sales@maangalya.co.in">info@maangalyaprojects.com</a></p>
+                    <p class="footerContact"> Email: <a href="mailto:sales@maangalya.co.in">info@maangalyaprojects.com</a></p>
 
 
 
@@ -302,7 +302,7 @@
 
                                            <div class="col-lg-6">
 
-                                        <input class="form-control" required type="email" name="email"  placeholder="Email Address">
+                                        <input class="form-control mobileFormInput" required type="email" name="email"  placeholder="Email Address">
 
                                     </div>
 
@@ -764,7 +764,7 @@
 
                                      <div class="col-lg-8">
 
-                                        <input class="form-control" type="text" placeholder="Mobile No " name="phone" required>
+                                        <input class="form-control mobileFormInput" type="text" placeholder="Mobile No " name="phone" required>
 
                                     </div>
 
@@ -796,9 +796,9 @@
 
     
 
-                                    <div class="form-group col-lg-12 text-center">
+                                    <div class="form-group col-lg-12 text-center" style="margin-bottom:0px;">
 
-                                        <input type="submit" value="Enquire Now" id="enquire_now" class="btn btn-primary btn-modern " data-loading-text="Loading...">
+                                        <input style="font-size: 12px;" type="submit" value="Enquire Now" id="enquire_now" class="btn btn-primary btn-modern " data-loading-text="Loading...">
 
                                     </div>
 
