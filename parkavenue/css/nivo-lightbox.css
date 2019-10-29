@@ -49,19 +49,22 @@
 .nivo-lightbox-prev {
 	position: absolute;
 	top: 50%;
-	left: 0;
+	left: 20px;
+	font-size: 50px;
 
 }
 .nivo-lightbox-next {
 	position: absolute;
 	top: 50%;
-	right: 0;
+	right: 20px;
+	font-size: 50px;
 	
 }
 .nivo-lightbox-close {
 	position: absolute;
 	top: 2%;
 	right: 2%;
+	font-size: 30px;
 }
 
 .nivo-lightbox-image { text-align: center; }

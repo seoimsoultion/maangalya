@@ -148,7 +148,7 @@ main>section {
 ============================ */
 #overview1, #amenities1, #specifications1, #master_plan1, #floor_plans1, #location1
 
-{top: -100px; position: relative;}
+{top: -80px; position: relative;}
 
 .relative {
     position: relative;
