@@ -71,6 +71,7 @@
                                  <li> <a class="nav-link <?php if($url=='whyus.php') {echo ' active '; } ?>" href="whyus.php">															Why Maangalya														</a> </li>
                                  <li> <a class="nav-link <?php if($url=='joint-development.php') {echo ' active '; } ?>" href="joint-development.php">															Joint Development														</a> </li>
                                  <li> <a class="nav-link <?php if($url=='channel-partner.php') {echo ' active '; } ?>" href="channel-partner.php">															Channel Partners														</a> </li>
+                                 <li> <a class="nav-link<?php if($url=='career.php') {echo ' active '; } ?> " href="career.php">                                           Career                                         </a> </li>
                                  <li> <a class="nav-link<?php if($url=='contact.php') {echo ' active '; } ?> " href="contact.php">															Contact														</a> </li>
                               </ul>
                            </nav>
