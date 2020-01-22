@@ -14,17 +14,17 @@
 
 
 
-		<title>Most Experience and Expertise Builders and Real Estate Developers in Bangalore | Maangalya Group</title>	
+		<title>Most Experience and Expertise Builders and Real Estate Developers in Bangalore | Maangalya Projects</title>
 
 
 
 		<meta name="keywords" content="" />
 
-		<meta name="description" content="Maangalya Group is 2 decades of experience and expertise Builders & Real Estate Developers in Bangalore. All of our projects combine a legacy of excellence and trust.">
+		<meta name="description" content="Maangalya Projects is 2 decades of experience and expertise Builders & Real Estate Developers in Bangalore. All of our projects combine a legacy of excellence and trust.">
 
 		<meta name="author" content="">
 
-
+<link rel="canonical" href="https://www.maangalyaprojects.com/aboutus.php" />
 
 
 
@@ -42,7 +42,7 @@
 
 				<section class=" conatctUsBanner section-no-border " >
 
-			         <img src="img/new_images/about-us.jpg" style="width:100%" />
+			         <img src="img/new_images/about-us.jpg" alt = "Maangalya Projects About us" title= "Maangalya Projects About us"style="width:100%" />
 
 			    </section>
 
@@ -92,13 +92,13 @@
 
 										<div id="nivoSlider" class="nivoSlider mt-0 mb-4">
 
-											<img src="img/new_images/ab-1.jpg" data-thumb="img/new_images/ab-1.jpg" alt="" />
+											<img src="img/new_images/ab-1.jpg" data-thumb="img/new_images/ab-1.jpg" alt="Maangalya park avenue | Luxury Apartments for sale in JP Nagar" title="Maangalya park avenue | Luxury Apartments for sale in JP Nagar" />
 
-											<img src="img/new_images/ab-2.jpg" data-thumb="img/new_images/ab-2.jpg" alt="" />
+											<img src="img/new_images/ab-2.jpg" data-thumb="img/new_images/ab-2.jpg" alt="Maangalya Signature | 2 bhk apartments in anjanapura bangalore" title="Maangalya Signature | 2 bhk apartments in anjanapura bangalore" />
 
-											<img src="img/new_images/ab-3.jpg" data-thumb="img/new_images/ab-3.jpg" alt="" />
+											<img src="img/new_images/ab-3.jpg" data-thumb="img/new_images/ab-3.jpg" alt="Maangalya Signature | 3 bhk apartments in anjanapura bangalore" title="Maangalya Signature | 3 bhk apartments in anjanapura bangalore" />
 
-											<img src="img/new_images/ab-4.jpg" data-thumb="img/new_images/ab-4.jpg" alt="" />
+											<img src="img/new_images/ab-4.jpg" data-thumb="img/new_images/ab-4.jpg" alt="Maangalya Signature | apartments in anjanapura bangalore" title="Maangalya Signature | apartments in anjanapura bangalore" />
 
 										</div>
 
@@ -110,7 +110,7 @@
 
 
 
-								<h2 class="mb-0 text-color-dark">Who We Are</h2>
+								<h1 style="font-size:2.2em" class="mb-0 text-color-dark">Who We Are</h1>
 
 								<p >Boasting real estate development experience and expertise, which spans over 2 decades, we are considered industry leaders in the realm of property development in Bangalore. What separates us from the competition is our distinctively diverse and multi-domain portfolio that encompasses different types of property developments. All of our projects combine a legacy of excellence and trust that we have built over the years.
 
@@ -118,7 +118,7 @@
 
 
 
-								<p>Being a premier property developer, we aim to constantly innovate and enhance our work so that we can satisfy our customers, set new benchmarks, and improve our standards. Our motto has always been – Excellence in Work. This ideology in conjunction with our focus on exemplary client service, timely delivery, transparency, dedication to work, and unrelenting determination makes us the right choice for people looking to buy their dream home.</p>
+								<p>Being a <a href="https://www.maangalyaprojects.com/">top builders in Bangalore</a>, we aim to constantly innovate and enhance our work so that we can satisfy our customers, set new benchmarks, and improve our standards. Our motto has always been – Excellence in Work. This ideology in conjunction with our focus on exemplary client service, timely delivery, transparency, dedication to work, and unrelenting determination makes us the right choice for people looking to buy their dream home.</p>
 
 								<p>Maangalya was founded to fulfill the burgeoning need in the housing sector in Bangalore. We envision Maangalya would soon become a household name to reckon with in the coming years. Our aim is to develop apartment projects that will become landmarks and people will remember these projects for their astounding architectural splendor.</p>
 

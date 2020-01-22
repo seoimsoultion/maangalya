@@ -7,7 +7,7 @@ session_start();
 
 
 define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
-//define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+define("WEBMASTER_EMAIL1", 'karthik@imsolutions.mobi');
 define("WEBMASTER_EMAIL2", 'info@imsolutions.mobi');
 
 

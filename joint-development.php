@@ -50,7 +50,7 @@
 
 
 
-
+<link rel="canonical" href="https://www.maangalyaprojects.com/joint-development.php" />
 
 
 
@@ -96,7 +96,7 @@ include 'include/header.php';
 
     <section class=" conatctUsBanner section-no-border " >
 
-         <img src="img/new_images/joint-development-bg.jpg" style="width:100%" />
+         <img src="img/new_images/joint-development-bg.jpg"  alt= "joint development | Maangalya Projects" title="joint development | Maangalya Projects" style="width:100%" />
 
     </section>
 

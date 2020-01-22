@@ -2,9 +2,9 @@
 
 session_start();
 
-define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
+define("WEBMASTER_EMAIL", 'jitesh@maangalyaprojects.com');
 //define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
-define("WEBMASTER_EMAIL2", 'karthik@imsolutions.mobi');
+define("WEBMASTER_EMAIL2", 'info@maangalyaprojects.com');
 define("WEBMASTER_EMAIL3", 'info@imsolutions.mobi');
 
 //define("WEBMASTER_EMAIL1", 'lokesh@imsolutions.mobi'); 
@@ -129,9 +129,42 @@ if ($_POST) {
       $result = json_decode($result);
       if ($result->success) {
       $mail = mail(WEBMASTER_EMAIL,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
-      $mail1 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      //$mail1 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
       $mail2 = mail(WEBMASTER_EMAIL2,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
-	  $mail2 = mail(WEBMASTER_EMAIL3,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      $mail2 = mail(WEBMASTER_EMAIL3,$subject,$message,$headers,'-freturn@maangalyaprojects.com');
+      
+     
+$input = array (
+'rep_id' => 'maangalyaadmin',
+'channel_id' => 'Home Page LP',
+'subject' => 'Lead from Home Page LP',
+'f_name' => $name,
+'l_name' => '',
+'email' =>$email,
+'phonefax' => $phone,
+'notes' => 'I am Interested in this project.Please call me',
+'project' => '',
+'alert_client' => 0,
+'alert_rep' => 0);
+
+
+$url = 'https://cloud.paramantra.com/paramantra/api/data/new/format/json';
+$api_key='NNFLBAqH5rztFK2uFooyupyKNK';
+$app_name='ANG5v';
+
+$ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array("X-API-KEY: $api_key ","ACTION-ON: $app_name"));
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $input);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 300);
+    curl_setopt($ch, CURLOPT_USERPWD, $api_key );
+    $data_resp = curl_exec($ch);
+    curl_close($ch);
+	
+	var_dump($data_resp);
+	
+	
       if($mail || $mail1 || $mail2 || $mail3)
       {
       $mail = mail($email,'Thanks for contacting us','<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>',$headers,'-freturn@maangalyaprojects.com');

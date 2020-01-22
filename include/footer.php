@@ -1255,8 +1255,8 @@
 	grecaptcha.ready(function() {	   grecaptcha.execute('6Ld9Wb4UAAAAAOVMj4Q-DeN9-bMo1IItwe65Q-GP', {action: 'homepage'}).then(function(token) {		  $('#fcon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#con').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#ccon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#cp').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#al').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');	   });	});
 
  $("#fcon").submit(function () {
-$("#enquire_now").val("Please Wait");
-                $('#enquire_now').attr('disabled', 'disabled');
+//$("#enquire_now").val("Please Wait");
+                //$('#enquire_now').attr('disabled', 'disabled');
         var str = $(this).serialize();
  
         $.ajax({
@@ -1268,8 +1268,9 @@ $("#enquire_now").val("Please Wait");
             data: str,
 
             success: function (msg) {
- $('#enquire_now').removeAttr('disabled');
- $("#enquire_now").val("Enquire Now");
+				console.log(msg); return false;
+// $('#enquire_now').removeAttr('disabled');
+ //$("#enquire_now").val("Enquire Now");
                 if (msg == 'OK') {
 
                     result = '<p style="color:green !important; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';

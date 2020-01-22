@@ -2,8 +2,8 @@
 
 session_start();
 
-define("WEBMASTER_EMAIL", 'info@maangalyaprojects.com');
-define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
+define("WEBMASTER_EMAIL", 'jitesh@maangalyaprojects.com');
+define("WEBMASTER_EMAIL1", 'info@maangalyaprojects.com');
 define("WEBMASTER_EMAIL2", 'info@imsolutions.mobi');
 /*define("WEBMASTER_EMAIL", 'hamalton@imsolutions.mobi');
 define("WEBMASTER_EMAIL1", 'hamalton@imsolutions.mobi');
@@ -132,7 +132,7 @@ if ($_POST) {
       if ($result->success) {
       $mail = mail(WEBMASTER_EMAIL,$subject,$message,$headers,'-freturn@maangalya.co.in');
       $mail1 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalya.co.in');
-      $mail2 = mail(WEBMASTER_EMAIL1,$subject,$message,$headers,'-freturn@maangalya.co.in');
+      $mail2 = mail(WEBMASTER_EMAIL2,$subject,$message,$headers,'-freturn@maangalya.co.in');
       if($mail || $mail1 || $mail2)
       {
       $mail = mail($email,'Thanks for contacting us','<h4>Thank you for contacting Maangalya ! Our team will get in touch with you shortly. Appreciate your patience.</h4>',$headers,'-freturn@maangalya.co.in');

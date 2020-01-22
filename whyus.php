@@ -4,7 +4,7 @@
       <!-- Basic -->
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Top Builders in JP Nagar, Bangalore | Maangalya Group</title>
+      <title>Top Builders in JP Nagar, Bangalore | Maangalya Projects</title>
       <meta name="keywords" content="" />
       <meta name="description" content="Maangalya Projects are most trustable,quality builders and Real Estate developers in Bangalore. We provide excellent quality and amenities for our customers.">
       <meta name="author" content="">
@@ -13,6 +13,7 @@
       <link rel="apple-touch-icon" href="img/new_images/icon.png">
       <!-- Mobile Metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+	  <link rel="canonical" href="https://www.maangalyaprojects.com/whyus.php" />
       <?php include('include/header.php')?>
       <style type="text/css">
          html .text-color-primary, html .text-primary{
@@ -25,7 +26,7 @@
       </style>
       <div role="main" class="main">
          <section class=" conatctUsBanner section-no-border " >
-            <img src="img/new_images/why-maanglya.jpg" style="width:100%" />
+            <img src="img/new_images/why-maanglya.jpg" style="width:100%" alt="Why Maangalya Projects" title="Why Maangalya Projects" />
          </section>
          <div class="container py-5">
             <div class="row pb-4 mt-2">

@@ -12,14 +12,14 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Maangalya Address/Location Projects | Maangalya Constructions | Maangalya Groups</title>
+    <title>Maangalya Projects Reviews, Address/Location | Maangalya Constructions | Maangalya Ventures</title>
 
     <meta name="keywords" content="" />
 
     <meta name="description" content="Contact Maangalya Groups- 2 BHK & 3 BHK apartments for sale in JP Nagar, Bangalore. Find More Details about Maangalya Group Projects Price, Reviews and Location/Address.">
 
     <meta name="author" content="">
-
+<link rel="canonical" href="https://www.maangalyaprojects.com/contact.php" />
     <!-- Mobile Metas -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -42,7 +42,7 @@
 
                 </div>-->
 
-                <img src="img/new_images/contact-us-bg.jpg" style="width:100%" />
+                <img src="img/new_images/contact-us-bg.jpg"  alt ="Contact us | Maangalya Projects Logo" title= "Contact us | Maangalya Projects Logo" style="width:100%" />
 
             </section>
 

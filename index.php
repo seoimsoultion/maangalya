@@ -4,12 +4,13 @@
       <!-- Basic -->
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Best Builders in JP Nagar, Bangalore | Real Estate Developers in Bangalore | Maangalya Group</title>
+      <title>Maangalya Signature - Apartments for sale in JP Nagar | Maangalya Projects</title>
       <meta name="keywords" content="" />
-      <meta name="description" content="Maaganlya Group is one of the best builders and real estate developers in Bangalore. We are considered industry leaders in the realm of real estate property development in Bangalore.">
+      <meta name="description" content="Maaganlya Projects is one of the Top Builders in Bangalore. Our Latest projects Maangalya Signature & Park avenue deals 2BHK & 3BHK Premium apartments for sale in Anjanapura,JP Nagar, Bangalore. Enroll now to Get More Details about Maangalya Projects.">
       <meta name="author" content="">
       <!-- Mobile Metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+	  <link rel="canonical" href="https://www.maangalyaprojects.com/" />
       <?php include('include/header.php')?>
       <div role="main" class="main">
          <div class="slider-container light rev_slider_wrapper" >
@@ -41,7 +42,7 @@
                         data-start="1000"
                         data-transform_in="x:[100%];opacity:0;s:1000;"></div>
                   </li>
-                  <li data-transition="fade">
+                <!--  <li data-transition="fade">
                      <img src="img/new_images/slider-banner-4.jpg"  
                         alt=""
                         data-bgposition="center 100%" 
@@ -53,19 +54,19 @@
                         data-y="bottom" data-voffset="106"
                         data-start="1000"
                         data-transform_in="x:[100%];opacity:0;s:1000;"></div>
-                  </li>
+                  </li> -->
                </ul>
             </div>
          </div>
          <div class="container">
             <div class="row mt-4  mb-4 ">
-               <h2 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;"><b>About Us</b></h2>
+               <h1 class="mb-0 text-color-dark text-center mb-4" style="width: 100%;font-size: 2.5em;"><b>About Maangalya Projects</b></h1>
                <h5 class="mb-2 text-center" style="width: 100%;padding-bottom:25px;">We build your house, you make it a home
                </h5>
                <div class=" aboutUsContainer col-sm-8 col-md-6 col-lg-4 offset-sm-4 offset-md-4 offset-lg-2 mt-sm-5" style="">
-                  <img src="img/new_images/home-about-us-3.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />
-                  <img src="img/new_images/home-about-us-2.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
-                  <img src="img/new_images/home-about-us-1.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;width: 69%;" alt="" />
+                  <img src="img/new_images/home-about-us-3.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="Apartmenst in JP Nagar" title="Apartmenst in JP Nagar"/>
+                  <img src="img/new_images/home-about-us-2.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="Maangalya Projects" title="Maangalya Projects"/>
+                  <img src="img/new_images/home-about-us-1.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;width: 69%;" alt="Apartmenst for sale in JP Nagar" title="Apartmenst for sale in JP Nagar"/>
                </div>
                <div class="col-lg-6">
                   <p>Boasting real estate development experience and expertise, which spans over 2 decades, we are considered industry leaders in the realm of property development in Bangalore. What separates us from the competition is our distinctively diverse and multi-domain portfolio that encompasses different types of property developments. All of our projects combine a legacy of excellence and trust that we have built over the years.</p>
@@ -88,7 +89,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-1.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-1.png" alt="Clear Legal Title" title="Clear Legal Title" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">Clear Legal Title</h4>
@@ -99,7 +100,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-4.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-4.png" alt="Maangalya Projects | Timely Delivery" title="Maangalya Projects | Timely Delivery" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">Timely Delivery</h4>
@@ -112,7 +113,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-2.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-2.png" alt="Maangalya Projects | Staged Payments" title="Maangalya Projects | Staged Payments" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">Staged Payments</h4>
@@ -123,7 +124,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-5.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-5.png" alt="5 Year Warranty"  title="Maangalya | 5 Year Warranty" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">5 Year Warranty</h4>
@@ -136,7 +137,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-3.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-3.png" alt="Maangalya Projects | World-class Amenities"  title="Maangalya Projects | World-class Amenities" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">World-class Amenities
@@ -148,7 +149,7 @@
                   <div class="col-lg-6">
                      <div class="feature-box feature-box-style-2 custom-feature-box mb-4 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="0">
                         <div class="feature-box-icon w-auto">
-                           <img src="img/new_images/i-6.png" alt="" class="img-fluid" width="100" />
+                           <img src="img/new_images/i-6.png" alt="Maangalya Projects | Futuristic Homes" title="Maangalya Projects | Futuristic Homes" class="img-fluid" width="100" />
                         </div>
                         <div class="feature-box-info ml-3">
                            <h4 class="mb-2">Futuristic Homes
@@ -171,7 +172,7 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                           <a href="maangalya-signature-apartments-in-jp-nagar"><img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="">
+                           <a href="maangalya-signature-apartments-in-jp-nagar"><img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="Maangalya Signature | Apartments for sale in JP Nagar Bangalore" title="Maangalya Signature | Apartments for sale in JP Nagar Bangalore" >
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Signature</span>
                            <span class="thumb-info-type">J P Nagar</span>
@@ -185,7 +186,7 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                           <a href="#"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
+                           <a href="park-avenue-apartments-in-jp-nagar"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="Maangalya Park avenue| 3 bhk apartments for sale in JP Nagar Bangalore" title="Maangalya Park avenue| 3 bhk apartments for sale in JP Nagar Bangalore" >
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Park-Avenue</span>
                            <span class="thumb-info-type">J P Nagar</span>
@@ -214,7 +215,7 @@
                      <p class="text-center"><a href="career.php"><button type="button" class="btn btn-outline btn-rounded btn-secondary  btn-with-arrow mb-2" href="career.php">Apply<span><i class="fas fa-chevron-right"></i></span></button></a></p>
                   </div>
                   <div class=" col-lg-6" style="">
-                     <img src="img/new_images/career-image.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300"  alt="" />
+                     <img src="img/new_images/career-image.png" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300"  alt="Career at Maangalya Constructions" title="Career at Maangalya Constructions" />
                   </div>
                </div>
             </div>
@@ -286,28 +287,28 @@
                   <div class="col-lg-12 text-center">
                      <div class="owl-carousel owl-theme stage-margin rounded-nav" data-plugin-options="{'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40, 'items': 6,'responsiveClass':true, 'autoplay': true, 'autoplayTimeout': 3000}">
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/1.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/1.jpg" alt="Maangalya Projects brands Associated | American standard" title="Maangalya Projects brands Associated | American standard" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/2.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/2.jpg" alt="Maangalya Projects brands Associated | Lewis Berger" title="Maangalya Projects brands Associated | Lewis Berger" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/3.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/3.jpg" alt="Maangalya Projects brands Associated | Crabtree" title="Maangalya Projects brands Associated | Crabtree" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/4.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/4.jpg" alt="Maangalya Projects brands Associated | KONE"title="Maangalya Projects brands Associated | KONE" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/5.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/5.jpg" alt="Maangalya Projects brands Associated | Supreme" title="Maangalya Projects brands Associated | Supreme" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/6.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/6.jpg" alt="Maangalya Projects brands Associated | MYK LATICRETE" title="Maangalya Projects brands Associated | MYK LATICRETE" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/7.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/7.jpg" alt="Maangalya Projects brands Associated | deceuninck" title="Maangalya Projects brands Associated | deceuninck" >
                         </div>
                         <div>
-                           <img class="img-fluid" src="img/new_images/brand/8.jpg" alt="">
+                           <img class="img-fluid" src="img/new_images/brand/8.jpg" alt="Maangalya Projects brands Associated | Durian" title="Maangalya Projects brands Associated | Durian" >
                         </div>
                      </div>
                   </div>

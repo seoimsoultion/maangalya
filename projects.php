@@ -10,6 +10,7 @@
       <meta name="author" content="">
       <!-- Mobile Metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+	  <link rel="canonical" href="https://www.maangalyaprojects.com/projects.php" />
       <?php include('include/header.php')?>
       <div role="main" class="main">
         
@@ -26,7 +27,7 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                           <a href="maangalya-signature-apartments-in-jp-nagar"><img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="">
+                           <a href="maangalya-signature-apartments-in-jp-nagar"><img src="img/new_images/project-image-1.jpg" class="img-fluid" alt="Maangalya Signature | 2 bhk apartments in anjanapura bangalore" title= "Maangalya Signature | 2 bhk apartments in anjanapura bangalore">
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Signature</span>
                            <span class="thumb-info-type">J P Nagar</span>
@@ -40,7 +41,7 @@
                         <div class="col-lg-6 appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                            <span class="thumb-info thumb-info-hide-wrapper-bg">
                            <span class="thumb-info-wrapper">
-                            <a href="#"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="">
+                            <a href="park-avenue-apartments-in-jp-nagar"><img src="img/new_images/project-image-2.jpg" class="img-fluid" alt="Maangalya Park avenue | 3 bhk apartments in anjanapura bangalore" title ="Maangalya Park avenue | 3 bhk apartments in anjanapura bangalore">
                            <span class="thumb-info-title">
                            <span class="thumb-info-inner">Maangalya Park-Avenue</span>
                            <span class="thumb-info-type">J P Nagar</span>
