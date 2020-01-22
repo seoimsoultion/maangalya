@@ -9707,7 +9707,7 @@ html .scroll-to-top {
 	transition: opacity 0.3s;
 	background: #404040;
 	border-radius: 4px 4px 0 0;
-	bottom: 0;
+	bottom: 80px;
 	color: #FFF;
 	display: block;
 	height: 9px;

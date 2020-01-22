@@ -56,7 +56,7 @@
                         <div class="form-group row">
                             <label class="col-lg-4 font-weight-bold text-dark col-form-label form-control-label text-2 required">Contact Number </label>
                             <div class="col-lg-8">
-                                <input class="form-control" name="contact_number" type="text" placeholder="Contact Number " required>
+                                <input class="form-control"  name="contact_number" type="text" placeholder="Contact Number " required>
                             </div>
                         </div>
                         <div class="form-group row">
@@ -118,8 +118,8 @@
 
                 success: function(msg) {
 					console.log(msg);
-                   // $('#submitInput').removeAttr('disabled');
-                   // $("#submitInput").val("Enquire Now");
+                    $('#submitInput').removeAttr('disabled');
+                    $("#submitInput").val("Enquire Now");
                     if (msg == 'OK') {
 
                         result = '<p style="color:green; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';

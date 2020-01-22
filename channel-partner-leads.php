@@ -1,5 +1,6 @@
 <?php
-
+echo "ok";
+exit;
 
 error_reporting(1);
 include "my-admin/includes/db.php";
@@ -85,9 +86,7 @@ if (isset($_POST['register_channel_partner'])) {
 	'address' =>$address,
 	'cr_date'=>$currentDate;
     );
-	
-	print_r($input);
-    die();
+    
     $url = 'https://cloud.paramantra.com/paramantra/index.php/api/channel_partner/createChannelPartner/format/json';
     $api_key='NNFLBAqH5rztFK2uFooyupyKNK';
     $app_name='ANG5v';
@@ -101,8 +100,7 @@ if (isset($_POST['register_channel_partner'])) {
         curl_setopt($ch, CURLOPT_USERPWD, $api_key );
         $data_resp = curl_exec($ch);
         curl_close($ch);
-var_dump($data_resp);
-die();
+//var_dump($data_resp);
         if ($row1) {
 
             $to = 'hamalton@imsolutions.mobi'; 

@@ -1,32 +1,280 @@
+
+
+
+
 <footer id="footer">
-				<div class="container">
-					<div class="row  pb-3 text-center text-md-left">
-						<div class="col-md-3">
-								<h4>Address</h4>
 
-							<a href="demo-construction.html">
-								<img alt="Porto" class="img-fluid " width="200" src="img/new_images/signature-logo.png">
-							</a>
-							<p>MAANGALYA PROSPER - SIGNATURE BLOCK <br>
-								Sy. No. 57/4, Anjanapura 3rd ‘A’ Block, <br>Uttarahalli Hobli, JP Nagar 9th Phase, <br>Bangalore 560 108
-</p>
-						</div>
-						<div class="col-md-4">
-							<h4>Contact</h4>
 
-							<p><i class="fas fa-phone"></i> +91 9343 660 660 <br> <i class="far fa-envelope ml-2"></i> <a href="mailto:sales@maangalyaventures.com ">sales@maangalyaventures.com </a></p>
-							
-						</div>
-						<div class="col-md-5">
-							<h4>Contact Us</h4>
 
-							<div class="newsletter">
+    <div class="container">
 
-						
 
-								
 
-								<div class="col-md-12">
+        <div class="row  text-center text-md-left">
+
+
+
+            <div class="col-md-3">
+
+
+
+                <a href="https://www.maangalyaprojects.com/">
+
+
+
+                    <img alt="Porto" class="img-fluid logo" width="200" src="img/new_images/logo_footer.jpg">
+
+
+
+                </a>
+
+
+
+                <div>
+    <p style="padding-top:10px;" class="footerContact">Royal Park residency Layout 1,<br> JP Nagar 9th Phase, J. P. Nagar, <br/>Bengaluru, Karnataka 560062</p>
+                    <p></p>
+
+                    <p style="padding-top:10px;" class="footerContact">Phone: (+91) 9343660660</p>
+
+
+
+                    <p class="footerContact"> Email: <a href="mailto:sales@maangalya.co.in">info@maangalyaprojects.com</a></p>
+
+
+
+                    <ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean ml-0">
+
+
+
+                        <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+
+
+
+                        <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+
+
+
+                        <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+
+
+
+                    </ul>
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+            <div class="col-md-4  d-none d-sm-block">
+
+
+
+                <div class="row">
+
+
+
+                    <div class="col-lg-12 mb-2 text-center">
+
+
+
+                        <h4>Navigation</h4>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+                <div class="row">
+
+
+
+                    <div class="col-6 mb-0">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="https://www.maangalyaprojects.com/">
+
+
+
+                                    Home
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="aboutus.php">
+
+
+
+                                    About Us
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="whyus.php">
+
+
+
+                                    Why Maangalya
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                    <div class="col-6">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="joint-development.php">
+
+
+
+                                    Joint Development
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="channel-partner.php">
+
+
+
+                                    Channel Partners
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="contact.php">
+
+
+
+                                    Contact
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+            <div class="col-md-5 text-center">
+
+
+
+                <h4>Contact Us</h4>
+
+
+
+
+
+
+
+                <div class="newsletter">
+
+                                    <div class="col-md-12">
 
                     <div class="featured-box featured-box-primary text-left mt-0">
 
@@ -36,7 +284,7 @@
 
 
 
-                            <form role="form" class="" id="signature_con">
+                            <form role="form" class="" id="fcon">
 
                                 <div id="fnote"></div>
 
@@ -49,13 +297,12 @@
                                     <div class="col-lg-6">
 
                                         <input class="form-control" required type="text" name="name"  placeholder="Name">
-                                        <input type='hidden' name="microsite_name"  placeholder="Maangalya Signature">
 
                                     </div>
 
                                            <div class="col-lg-6">
 
-                                        <input class="form-control" required type="email" name="email"  placeholder="Email Address">
+                                        <input class="form-control mobileFormInput" required type="email" name="email"  placeholder="Email Address">
 
                                     </div>
 
@@ -253,7 +500,7 @@
 
                                             <option data-countryCode="IS" value="354">Iceland (+354)</option>
 
-                                            <option data-countryCode="IN" value="91" Selected>India (+91)</option>
+                                            <option data-countryCode="IN" value="91" Selected>Ind (+91)</option>
 
                                             <option data-countryCode="ID" value="62">Indonesia (+62)</option>
 
@@ -517,7 +764,7 @@
 
                                      <div class="col-lg-8">
 
-                                        <input class="form-control" type="text" placeholder="Mobile No " name="phone" required>
+                                        <input class="form-control mobileFormInput" type="text" placeholder="Mobile No " name="phone" required>
 
                                     </div>
 
@@ -549,9 +796,9 @@
 
     
 
-                                    <div class="form-group col-lg-12">
+                                    <div class="form-group col-lg-12 text-center" style="margin-bottom:0px;">
 
-                                        <input type="submit" value="Submit" class="btn btn-primary btn-modern float-left" data-loading-text="Loading...">
+                                        <input style="font-size: 12px;" type="submit" value="Enquire Now" id="enquire_now" class="btn btn-primary btn-modern " data-loading-text="Loading...">
 
                                     </div>
 
@@ -565,123 +812,500 @@
 
                 </div>
 
-							</div>
-
-
-						</div>
-					</div>
-
-					<div class="footer-copyright">
-						<div class="row">
-							<div class="col-lg-12 text-center">
-								<p>© Copyright 2019. All Rights Reserved.</p>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</footer>
-
-		</div>
-
-		<!-- Vendor -->
-		<script src="vendor/jquery/jquery.min.js"></script>
-		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
-		<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-		<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
-		<script src="vendor/popper/umd/popper.min.js"></script>
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-		<script src="vendor/common/common.min.js"></script>
-		<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
-		<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
-		<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
-		<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
-		<script src="vendor/isotope/jquery.isotope.min.js"></script>
-		<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
-		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script src="vendor/vide/jquery.vide.min.js"></script>
-		<script src="vendor/vivus/vivus.min.js"></script>
-		
-		<!-- Theme Base, Components and Settings -->
-		<script src="js/theme.js"></script>
-		
-		<!-- Current Page Vendor and Views -->
-		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-		<!-- Current Page Vendor and Views -->
-		<script src="vendor/nivo-slider/jquery.nivo.slider.min.js"></script>
-		<script src="js/views/view.contact.js"></script>
-
-		<!-- Demo -->
-		<script src="js/demos/demo-construction.js"></script>	
-		
-		<!-- Theme Custom -->
-		<script src="js/custom.js"></script>
-		
-		<!-- Theme Initialization Files -->
-		<script src="js/theme.init.js"></script>
-		
-		<script src="https://www.google.com/recaptcha/api.js?render=6LfnPr4UAAAAAPTYJ-zvtPhrvywkj3_ECAGQNa4_"></script>
-		<script>
-			grecaptcha.ready(function() {
-				grecaptcha.execute('6LfnPr4UAAAAAPTYJ-zvtPhrvywkj3_ECAGQNa4_', {
-					action: 'homepage'
-				}).then(function(token) {
-					$('#signature_con').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');
-				});
-			});
 
 
 
-		 $("#signature_con").submit(function () {
 
-				var str = $(this).serialize();
-
-				$.ajax({
-
-					type: "POST",
-
-					url: "microsite-contact-process.php",
-
-					data: str,
-
-					success: function (msg) {
-
-						if (msg == 'OK') {
-
-							result = '<p style="color:green; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';
-
-							$('#fnote').delay(18000).fadeOut();
-
-							$('#signature_con')[0].reset();
-
-							//$('input,textarea').val('');
+                   
 
 
 
-						} else {
 
-							result = msg;
 
-						}
 
-						$('#fnote').html(result);
 
-					}
+                 
 
-				});
 
-				return false;
 
-			});
+
+
+
+
+                </div>
+
+
+
+
+
+
+
+              
+
+
+
+
+
+            </div>
+
+<div class="col-md-4  d-sm-block d-md-none">
+
+
+
+                <div class="row">
+
+
+
+                    <div class="col-lg-12 mb-2 text-center">
+
+
+
+                        <h4>Navigation</h4>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+                <div class="row">
+
+
+
+                    <div class="col-6 mb-0">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="https://www.maangalyaprojects.com/">
+
+
+
+                                    Home
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="aboutus.php">
+
+
+
+                                    About Us
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="whyus.php">
+
+
+
+                                    Why Maangalya
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                    <div class="col-6" style="padding-left: 10px;">
+
+
+
+                        <ul class="list list-footer-nav">
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="joint-development.php">
+
+
+
+                                    Joint Development
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="channel-partner.php">
+
+
+
+                                    Channel Partners
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            <li>
+
+
+
+                                <a class="nav-link" href="contact.php">
+
+
+
+                                    Contact
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                        </ul>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+            </div>
+
+            
+
+        </div>
+
+
+
+
+
+
+
+        <div class="footer-copyright">
+
+
+
+            <div class="row">
+
+
+
+                <div class="col-lg-12 text-center">
+
+
+
+                    <p>&copy; Copyright 2019. All Rights Reserved. | Digital Partner : <a href="https://www.imsolutions.co/" class="f-link" target="_blank">IM Solutions</a></p>
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+</footer>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<!-- Vendor -->
+
+
+
+<script src="vendor/jquery/jquery.min.js"></script>
+
+
+
+<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+
+
+
+<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+
+
+
+<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+
+
+
+<script src="vendor/popper/umd/popper.min.js"></script>
+
+
+
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+<script src="vendor/common/common.min.js"></script>
+
+
+
+<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+
+
+
+<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+
+
+
+<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+
+
+
+<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+
+
+
+<script src="vendor/isotope/jquery.isotope.min.js"></script>
+
+
+
+<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+
+
+
+<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+
+
+<script src="vendor/vide/jquery.vide.min.js"></script>
+
+
+
+<script src="vendor/vivus/vivus.min.js"></script>
+
+
+
+
+
+
+
+<!-- Theme Base, Components and Settings -->
+
+
+
+<script src="js/theme.js"></script>
+
+
+
+
+
+
+
+<!-- Current Page Vendor and Views -->
+
+
+
+<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+
+
+
+<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+
+
+
+
+
+
+<!-- Current Page Vendor and Views -->
+
+
+
+<script src="vendor/nivo-slider/jquery.nivo.slider.min.js"></script>
+
+
+
+<script src="js/views/view.contact.js"></script>
+
+
+
+
+
+
+
+<!-- Demo -->
+
+
+
+<script src="js/demos/demo-construction.js"></script>	
+
+
+
+
+
+
+
+<!-- Theme Custom -->
+
+
+
+<script src="js/custom.js"></script>
+
+
+
+
+
+
+
+<!-- Theme Initialization Files -->
+
+
+
+<script src="js/theme.init.js"></script>
+
+
+
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?render=6Ld9Wb4UAAAAAOVMj4Q-DeN9-bMo1IItwe65Q-GP"  ></script>
+
+<script>
+
+	grecaptcha.ready(function() {	   grecaptcha.execute('6Ld9Wb4UAAAAAOVMj4Q-DeN9-bMo1IItwe65Q-GP', {action: 'homepage'}).then(function(token) {		  $('#fcon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#con').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#ccon').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#cp').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');		  $('#al').prepend('<input type="hidden" name="g-recaptcha-response"  value="' + token + '">');	   });	});
+
+ $("#fcon").submit(function () {
+$("#enquire_now").val("Please Wait");
+                $('#enquire_now').attr('disabled', 'disabled');
+        var str = $(this).serialize();
+ 
+        $.ajax({
+
+            type: "POST",
+
+            url: "contact-process.php",
+
+            data: str,
+
+            success: function (msg) {
+ $('#enquire_now').removeAttr('disabled');
+ $("#enquire_now").val("Enquire Now");
+                if (msg == 'OK') {
+
+                    result = '<p style="color:green !important; font-weight: 600;font-size: 18px;">Email Sent Successfully!</p>';
+
+                    $('#fnote').delay(18000).fadeOut();
+
+                    $('#fcon')[0].reset();
+
+                    //$('input,textarea').val('');
+
+
+
+                } else {
+
+                    result = msg;
+
+                }
+
+                $('#fnote').html(result);
+
+            }
+
+        });
+
+        return false;
+
+    });
+
+
+
+
 
         </script>
 
+</body>
 
 
-	
 
-
-	</body>
 </html>

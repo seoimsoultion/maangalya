@@ -1,15 +1,12 @@
 <?php
-
-//error_reporting(1);
-//error_reporting(E_ALL);
-//ini_set('display_errors', 'On');
+error_reporting(1);
 include "my-admin/includes/db.php";
 //var_dump($_SESSION);
-//die();
+
 /*if (isset($_POST['register_channel_partner']) && $_POST['register_channel_partner_error'] == 'submit') { */
 if (isset($_POST['register_channel_partner'])) { 
 
-
+	
 	
 	$result = mysqli_query($con,"SELECT id FROM register_channel_partner order by id desc limit 1");
 	$row = mysqli_fetch_object($result);
@@ -24,8 +21,6 @@ if (isset($_POST['register_channel_partner'])) {
     $email = mysqli_real_escape_string($DBcon, $_POST['email']);
     $contact_person_name = mysqli_real_escape_string($DBcon, $_POST['contact_person_name']); 
     $address = mysqli_real_escape_string($DBcon, $_POST['address']);
-	
-		
     if($address=='') {
         $address='n/a';
     }
@@ -50,12 +45,10 @@ if (isset($_POST['register_channel_partner'])) {
        echo '<p style="color:red">Email cannot be blank.</p>';
           die();
     }
-    if (strlen($contact_number)!=10) {
-        echo  '<p style="color:red">Please enter valid Contact Number.</p>';
-          die();
+    if (empty($address)) {
+       // $errors[] = 'Please Select Role.';
     }
     if (count($errors) > 0) {
-		
         foreach ($errors as $error1) {
           //  var_dump($error1);
         }
@@ -66,10 +59,10 @@ if (isset($_POST['register_channel_partner'])) {
         $_SESSION ['msg1'] = '<div id="success" class="alert alert-success" style="width:100%;"><button data-dismiss="alert" class="close" type="button">Ã—</button><i class="icon-ok-sign"></i><strong>Your Partner Id send to your e-mail address.</div>';
 
         
-/*$input = array (
+$input = array (
     'company_name'=> $company_name,
     'rep_id' => 'Maangalya Channel Patners Page',
-   
+    'channel_id' => 'Channel Patners Page',
     'subject' =>" New  Registration Form as Channel Partner by " . $contact_person_name,
     'f_name' => $contact_person_name,
     'l_name' => '',
@@ -80,20 +73,8 @@ if (isset($_POST['register_channel_partner'])) {
     'alert_client' => 0,
     'alert_rep' => 0);
     
-    */
-	
-	
-	$currentDate = date('Y-m-d H:i:s');
-	$input = array (
-    'company_name'=> $company_name,
-	'contact_num' => $contact_number,
-    'email' =>$email,
-	'address' =>$address,
-	'cr_date'=>$currentDate
-    );
-	
-	
-    $url = 'https://cloud.paramantra.com/paramantra/index.php/api/channel_partner/createChannelPartner/format/json';
+    
+    $url = 'https://cloud.paramantra.com/paramantra/api/data/new/format/json';
     $api_key='NNFLBAqH5rztFK2uFooyupyKNK';
     $app_name='ANG5v';
      
@@ -203,8 +184,6 @@ if (isset($_POST['register_channel_partner'])) {
 
 if (isset($_POST['lead']) ) { /* echo "<pre>";
   var_dump($_POST); */
-  
-
     $to = mysqli_real_escape_string($DBcon, trim($_REQUEST['partner_id']));
     $partner_id = mysqli_real_escape_string($DBcon, $_POST['partner_id']);
     $customer_contact_number = mysqli_real_escape_string($DBcon, $_POST['customer_contact_number']);
@@ -222,11 +201,6 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
     }
     if (empty($customer_contact_number)) {
         echo  '<p style="color:red">Contact cannot be blank.</p>';
-          die();
-    }
-
-    if (strlen($customer_contact_number)!=10) {
-        echo  '<p style="color:red">Please enter valid Contact Number.</p>';
           die();
     }
     if (empty($customer_name)) {
@@ -251,8 +225,8 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
     $q1=$DBcon->query($ccs1); 
     $res1=$q1->num_rows;
     if($res1==0) {
-         //   echo '<p style="color:red">Your ID is wrong.</p>';
-          //  die();
+            echo '<p style="color:red">Your ID is wrong.</p>';
+            die();
     }
     //////////////checking lead exit or not///////////////////////
      $ccs="select partner_id, customer_email, customer_contact_number from lead where partner_id='$partner_id' AND customer_email='$customer_email' AND customer_contact_number='$customer_contact_number'";
@@ -272,49 +246,8 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
             $row1 = $DBcon->query($query1);
             $_SESSION ['msg'] = '<div id="success" class="alert alert-success" style="width:100%;"><button data-dismiss="alert" class="close" type="button">Ã—</button><i class="icon-ok-sign"></i><strong>Your Lead Submit successfully.</div>';
         }
-		
-	
-	 $partner_id = mysqli_real_escape_string($DBcon, $_POST['partner_id']);
-    $customer_contact_number = mysqli_real_escape_string($DBcon, $_POST['customer_contact_number']);
-    $customer_name = mysqli_real_escape_string($DBcon, $_POST['customer_name']);
-    $customer_email = mysqli_real_escape_string($DBcon, $_POST['customer_email']);
-    $project = mysqli_real_escape_string($DBcon, $_POST['project']);
-    $notes = mysqli_real_escape_string($DBcon, $_POST['notes']);
-	
-  $input = array (
-	'channel_partner'=> $partner_id,
-	'phonefax' => $customer_contact_number,
-    'f_name' =>$customer_name,
-	'l_name' =>'',
-	'email'=>$customer_email,
-	'projectname'=>$project,
-	'notes' => $notes,
-	'subject'=> 'Lead from channel partner'
-    );  
-	
-	//var_dump($input);
-	
-	
-	
-	
-	
-    $url = 'http://cloud.paramantra.com/paramantra/index.php/api/channel_partner/gneLead/format/json';
-    $api_key='NNFLBAqH5rztFK2uFooyupyKNK';
-    $app_name='ANG5v';
-     
-    $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
-        curl_setopt($ch, CURLOPT_HTTPHEADER, array("X-API-KEY: $api_key ","ACTION-ON: $app_name"));
-        curl_setopt($ch, CURLOPT_POSTFIELDS, $input);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 300);
-        curl_setopt($ch, CURLOPT_USERPWD, $api_key );
-        $data_resp = curl_exec($ch);
-        curl_close($ch);
-	//var_dump($data_resp);
-
         if ($row1) {
-			
+
             $to = 'info@imsolutions.mobi'; 
             $to1 = 'jitesh@maangalyaprojects.com'; 
             $to2 = 'cp@maangalyaprojects.com'; 
@@ -388,8 +321,8 @@ if (isset($_POST['lead']) ) { /* echo "<pre>";
             $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
             if ($to != '') {								$response = $_POST['g-recaptcha-response'];				$url = 'https://www.google.com/recaptcha/api/siteverify';				$key = '6Ld9Wb4UAAAAAAf2XQAZVasm1sLPL2MKDuVaCK4E';				$data = array('secret' => $key, 'response' => $response);				$options = array(				'http' => array(				'header' => "Content-type: application/x-www-form-urlencoded\r\n",				'method' => "POST",				'content' => http_build_query($data),				),				);				$context = stream_context_create($options);				$result = file_get_contents($url, false, $context);				if ($result === false) {					echo 'Failed to contact reCAPTCHA';				}else {					$result = json_decode($result);					if ($result->success) {	
 							mail($to, $subject, $body, $headers, '-freturn@maangalya.co.in');
-							//mail($to1, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
-							//mail($to2, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
+							mail($to1, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
+							mail($to2, $subject_1, $body1, $headers, '-freturn@maangalya.co.in');
 							echo 'OK';						} else {						$error = true;						echo '<h2 style="color:red !important">You are spammer</h2>';						}					}	
             }
           

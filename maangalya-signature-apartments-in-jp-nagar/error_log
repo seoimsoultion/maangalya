@@ -82,3 +82,18 @@
 [02-Jan-2020 06:01:14 UTC] PHP Warning:  Use of undefined constant WEBMASTER_EMAIL3 - assumed 'WEBMASTER_EMAIL3' (this will throw an Error in a future version of PHP) in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 138
 [02-Jan-2020 11:31:15 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nzi4qft9t5lb/public_html/google/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 67
 [02-Jan-2020 11:31:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nzi4qft9t5lb/public_html/google/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 67
+[22-Jan-2020 06:44:38 UTC] PHP Warning:  Use of undefined constant WEBMASTER_EMAIL - assumed 'WEBMASTER_EMAIL' (this will throw an Error in a future version of PHP) in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 135
+[22-Jan-2020 06:44:39 UTC] PHP Warning:  Use of undefined constant WEBMASTER_EMAIL2 - assumed 'WEBMASTER_EMAIL2' (this will throw an Error in a future version of PHP) in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 137
+[22-Jan-2020 06:44:39 UTC] PHP Warning:  Use of undefined constant WEBMASTER_EMAIL3 - assumed 'WEBMASTER_EMAIL3' (this will throw an Error in a future version of PHP) in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 138
+[22-Jan-2020 12:14:40 Asia/Kolkata] PHP Warning:  include(./../../google/vendor/autoload.php): failed to open stream: No such file or directory in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 175
+[22-Jan-2020 12:14:40 Asia/Kolkata] PHP Warning:  include(): Failed opening './../../google/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 175
+[22-Jan-2020 12:14:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Google_Client' not found in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 177
+[22-Jan-2020 12:34:13 Asia/Kolkata] PHP Warning:  include(./../../google/vendor/autoload.php): failed to open stream: No such file or directory in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 178
+[22-Jan-2020 12:34:13 Asia/Kolkata] PHP Warning:  include(): Failed opening './../../google/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 178
+[22-Jan-2020 12:34:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Google_Client' not found in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/nzi4qft9t5lb/public_html/maangalya_co/maangalya-signature-apartments-in-jp-nagar/contact-process.php on line 180

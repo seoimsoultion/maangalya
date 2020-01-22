@@ -38,7 +38,12 @@
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>
-
+<script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq ||
+{widgetcode:"4000b387e7bb93dbe8d18756b2e5e1a5ea93e101be1f3abcadc12d822d41f711581f1c8cc6ca670078aadce64fa87f85", values:{},ready:function(){}};
+var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
+s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script>
 	</head>
 	<body data-spy="scroll" data-target="#sidebar" data-offset="120">
 
