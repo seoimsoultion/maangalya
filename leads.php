@@ -106,6 +106,9 @@ if (isset($_POST['register_channel_partner'])) {
         curl_setopt($ch, CURLOPT_USERPWD, $api_key );
         $data_resp = curl_exec($ch);
         curl_close($ch);
+//var_dump( $data_resp[0]["message"] );
+$responseJson = json_decode($data_resp);
+//print_r($responseJson->response->message);
 
         if ($row1) {
 
@@ -197,7 +200,11 @@ if (isset($_POST['register_channel_partner'])) {
             // die();
             // header("Location: cp.php");
         }
+		
+		 //echo  '<p>Please enter valid Contact Number.</p>';
         // echo "<script language='javascript'>window.location.replace('cp.php');</script>";
+		echo '<p style="color:green; font-weight: 600;font-size: 18px;">'.$responseJson->response->message.'</p>';
+
     }
 }
 
